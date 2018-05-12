@@ -1,0 +1,15 @@
+{
+  "name": "gloomhaven",
+  "version": "0.1.0",
+  "description": "An easy-to-use collection of data and images from Gloomhaven by Cephalofair Games.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/any2cards/gloomhaven"
+  },
+  "author": "William Habush <any2cards@yahoo.com> and Guido Hansen <sadgit@penultimate.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/any2cards/gloomhaven/issues"
+  },
+  "homepage": "https://github.com/any2cards/gloomhaven"
+}
