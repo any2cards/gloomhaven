@@ -480,926 +480,1418 @@
     "xws": "ce40f"
   },
   {
-    "name": "re-01-b",
+    "name": "ce-41-b",
     "points": 80,
+    "image": "events/base/city/ce-41-b.png",
+    "xws": "ce41b"
+  },
+  {
+    "name": "ce-41-f",
+    "points": 81,
+    "image": "events/base/city/ce-41-f.png",
+    "xws": "ce41f"
+  },
+  {
+    "name": "ce-42-b",
+    "points": 82,
+    "image": "events/base/city/ce-42-b.png",
+    "xws": "ce42b"
+  },
+  {
+    "name": "ce-42-f",
+    "points": 83,
+    "image": "events/base/city/ce-42-f.png",
+    "xws": "ce42f"
+  },
+  {
+    "name": "ce-43-b",
+    "points": 84,
+    "image": "events/base/city/ce-43-b.png",
+    "xws": "ce43b"
+  },
+  {
+    "name": "ce-43-f",
+    "points": 85,
+    "image": "events/base/city/ce-43-f.png",
+    "xws": "ce43f"
+  },
+  {
+    "name": "ce-44-b",
+    "points": 86,
+    "image": "events/base/city/ce-44-b.png",
+    "xws": "ce44b"
+  },
+  {
+    "name": "ce-44-f",
+    "points": 87,
+    "image": "events/base/city/ce-44-f.png",
+    "xws": "ce44f"
+  },
+  {
+    "name": "ce-45-b",
+    "points": 88,
+    "image": "events/base/city/ce-45-b.png",
+    "xws": "ce45b"
+  },
+  {
+    "name": "ce-45-f",
+    "points": 89,
+    "image": "events/base/city/ce-45-f.png",
+    "xws": "ce45f"
+  },
+  {
+    "name": "ce-46-b",
+    "points": 90,
+    "image": "events/base/city/ce-46-b.png",
+    "xws": "ce46b"
+  },
+  {
+    "name": "ce-46-f",
+    "points": 91,
+    "image": "events/base/city/ce-46-f.png",
+    "xws": "ce46f"
+  },
+  {
+    "name": "ce-47-b",
+    "points": 92,
+    "image": "events/base/city/ce-47-b.png",
+    "xws": "ce47b"
+  },
+  {
+    "name": "ce-47-f",
+    "points": 93,
+    "image": "events/base/city/ce-47-f.png",
+    "xws": "ce47f"
+  },
+  {
+    "name": "ce-48-b",
+    "points": 94,
+    "image": "events/base/city/ce-48-b.png",
+    "xws": "ce48b"
+  },
+  {
+    "name": "ce-48-f",
+    "points": 95,
+    "image": "events/base/city/ce-48-f.png",
+    "xws": "ce48f"
+  },
+  {
+    "name": "ce-49-b",
+    "points": 96,
+    "image": "events/base/city/ce-49-b.png",
+    "xws": "ce49b"
+  },
+  {
+    "name": "ce-49-f",
+    "points": 97,
+    "image": "events/base/city/ce-49-f.png",
+    "xws": "ce49f"
+  },
+  {
+    "name": "ce-50-b",
+    "points": 98,
+    "image": "events/base/city/ce-50-b.png",
+    "xws": "ce50b"
+  },
+  {
+    "name": "ce-50-f",
+    "points": 99,
+    "image": "events/base/city/ce-50-f.png",
+    "xws": "ce50f"
+  },
+  {
+    "name": "ce-51-b",
+    "points": 100,
+    "image": "events/base/city/ce-51-b.png",
+    "xws": "ce51b"
+  },
+  {
+    "name": "ce-51-f",
+    "points": 101,
+    "image": "events/base/city/ce-51-f.png",
+    "xws": "ce51f"
+  },
+  {
+    "name": "ce-52-b",
+    "points": 102,
+    "image": "events/base/city/ce-52-b.png",
+    "xws": "ce52b"
+  },
+  {
+    "name": "ce-52-f",
+    "points": 103,
+    "image": "events/base/city/ce-52-f.png",
+    "xws": "ce52f"
+  },
+  {
+    "name": "ce-53-b",
+    "points": 104,
+    "image": "events/base/city/ce-53-b.png",
+    "xws": "ce53b"
+  },
+  {
+    "name": "ce-53-f",
+    "points": 105,
+    "image": "events/base/city/ce-53-f.png",
+    "xws": "ce53f"
+  },
+  {
+    "name": "ce-54-b",
+    "points": 106,
+    "image": "events/base/city/ce-54-b.png",
+    "xws": "ce54b"
+  },
+  {
+    "name": "ce-54-f",
+    "points": 107,
+    "image": "events/base/city/ce-54-f.png",
+    "xws": "ce54f"
+  },
+  {
+    "name": "ce-55-b",
+    "points": 108,
+    "image": "events/base/city/ce-55-b.png",
+    "xws": "ce55b"
+  },
+  {
+    "name": "ce-55-f",
+    "points": 109,
+    "image": "events/base/city/ce-55-f.png",
+    "xws": "ce55f"
+  },
+  {
+    "name": "ce-56-b",
+    "points": 110,
+    "image": "events/base/city/ce-56-b.png",
+    "xws": "ce56b"
+  },
+  {
+    "name": "ce-56-f",
+    "points": 111,
+    "image": "events/base/city/ce-56-f.png",
+    "xws": "ce56f"
+  },
+  {
+    "name": "ce-57-b",
+    "points": 112,
+    "image": "events/base/city/ce-57-b.png",
+    "xws": "ce57b"
+  },
+  {
+    "name": "ce-57-f",
+    "points": 113,
+    "image": "events/base/city/ce-57-f.png",
+    "xws": "ce57f"
+  },
+  {
+    "name": "ce-58-b",
+    "points": 114,
+    "image": "events/base/city/ce-58-b.png",
+    "xws": "ce58b"
+  },
+  {
+    "name": "ce-58-f",
+    "points": 115,
+    "image": "events/base/city/ce-58-f.png",
+    "xws": "ce58f"
+  },
+  {
+    "name": "ce-59-b",
+    "points": 116,
+    "image": "events/base/city/ce-59-b.png",
+    "xws": "ce59b"
+  },
+  {
+    "name": "ce-59-f",
+    "points": 117,
+    "image": "events/base/city/ce-59-f.png",
+    "xws": "ce59f"
+  },
+  {
+    "name": "ce-60-b",
+    "points": 118,
+    "image": "events/base/city/ce-60-b.png",
+    "xws": "ce60b"
+  },
+  {
+    "name": "ce-60-f",
+    "points": 119,
+    "image": "events/base/city/ce-60-f.png",
+    "xws": "ce60f"
+  },
+  {
+    "name": "ce-61-b",
+    "points": 120,
+    "image": "events/base/city/ce-61-b.png",
+    "xws": "ce61b"
+  },
+  {
+    "name": "ce-61-f",
+    "points": 121,
+    "image": "events/base/city/ce-61-f.png",
+    "xws": "ce61f"
+  },
+  {
+    "name": "ce-62-b",
+    "points": 122,
+    "image": "events/base/city/ce-62-b.png",
+    "xws": "ce62b"
+  },
+  {
+    "name": "ce-62-f",
+    "points": 123,
+    "image": "events/base/city/ce-62-f.png",
+    "xws": "ce62f"
+  },
+  {
+    "name": "ce-63-b",
+    "points": 124,
+    "image": "events/base/city/ce-63-b.png",
+    "xws": "ce63b"
+  },
+  {
+    "name": "ce-63-f",
+    "points": 125,
+    "image": "events/base/city/ce-63-f.png",
+    "xws": "ce63f"
+  },
+  {
+    "name": "ce-64-b",
+    "points": 126,
+    "image": "events/base/city/ce-64-b.png",
+    "xws": "ce64b"
+  },
+  {
+    "name": "ce-64-f",
+    "points": 127,
+    "image": "events/base/city/ce-64-f.png",
+    "xws": "ce64f"
+  },
+  {
+    "name": "ce-65-b",
+    "points": 128,
+    "image": "events/base/city/ce-65-b.png",
+    "xws": "ce65b"
+  },
+  {
+    "name": "ce-65-f",
+    "points": 129,
+    "image": "events/base/city/ce-65-f.png",
+    "xws": "ce65f"
+  },
+  {
+    "name": "ce-66-b",
+    "points": 130,
+    "image": "events/base/city/ce-66-b.png",
+    "xws": "ce66b"
+  },
+  {
+    "name": "ce-66-f",
+    "points": 131,
+    "image": "events/base/city/ce-66-f.png",
+    "xws": "ce66f"
+  },
+  {
+    "name": "ce-67-b",
+    "points": 132,
+    "image": "events/base/city/ce-67-b.png",
+    "xws": "ce67b"
+  },
+  {
+    "name": "ce-67-f",
+    "points": 133,
+    "image": "events/base/city/ce-67-f.png",
+    "xws": "ce67f"
+  },
+  {
+    "name": "ce-68-b",
+    "points": 134,
+    "image": "events/base/city/ce-68-b.png",
+    "xws": "ce68b"
+  },
+  {
+    "name": "ce-68-f",
+    "points": 135,
+    "image": "events/base/city/ce-68-f.png",
+    "xws": "ce68f"
+  },
+  {
+    "name": "ce-69-b",
+    "points": 136,
+    "image": "events/base/city/ce-69-b.png",
+    "xws": "ce69b"
+  },
+  {
+    "name": "ce-69-f",
+    "points": 137,
+    "image": "events/base/city/ce-69-f.png",
+    "xws": "ce69f"
+  },
+  {
+    "name": "ce-70-b",
+    "points": 138,
+    "image": "events/base/city/ce-70-b.png",
+    "xws": "ce70b"
+  },
+  {
+    "name": "ce-70-f",
+    "points": 139,
+    "image": "events/base/city/ce-70-f.png",
+    "xws": "ce70f"
+  },
+  {
+    "name": "ce-71-b",
+    "points": 140,
+    "image": "events/base/city/ce-71-b.png",
+    "xws": "ce71b"
+  },
+  {
+    "name": "ce-71-f",
+    "points": 141,
+    "image": "events/base/city/ce-71-f.png",
+    "xws": "ce71f"
+  },
+  {
+    "name": "ce-72-b",
+    "points": 142,
+    "image": "events/base/city/ce-72-b.png",
+    "xws": "ce72b"
+  },
+  {
+    "name": "ce-72-f",
+    "points": 143,
+    "image": "events/base/city/ce-72-f.png",
+    "xws": "ce72f"
+  },
+  {
+    "name": "ce-73-b",
+    "points": 144,
+    "image": "events/base/city/ce-73-b.png",
+    "xws": "ce73b"
+  },
+  {
+    "name": "ce-73-f",
+    "points": 145,
+    "image": "events/base/city/ce-73-f.png",
+    "xws": "ce73f"
+  },
+  {
+    "name": "ce-74-b",
+    "points": 146,
+    "image": "events/base/city/ce-74-b.png",
+    "xws": "ce74b"
+  },
+  {
+    "name": "ce-74-f",
+    "points": 147,
+    "image": "events/base/city/ce-74-f.png",
+    "xws": "ce74f"
+  },
+  {
+    "name": "ce-75-b",
+    "points": 148,
+    "image": "events/base/city/ce-75-b.png",
+    "xws": "ce75b"
+  },
+  {
+    "name": "ce-75-f",
+    "points": 149,
+    "image": "events/base/city/ce-75-f.png",
+    "xws": "ce75f"
+  },
+  {
+    "name": "ce-76-b",
+    "points": 150,
+    "image": "events/base/city/ce-76-b.png",
+    "xws": "ce76b"
+  },
+  {
+    "name": "ce-76-f",
+    "points": 151,
+    "image": "events/base/city/ce-76-f.png",
+    "xws": "ce76f"
+  },
+  {
+    "name": "ce-77-b",
+    "points": 152,
+    "image": "events/base/city/ce-77-b.png",
+    "xws": "ce77b"
+  },
+  {
+    "name": "ce-77-f",
+    "points": 153,
+    "image": "events/base/city/ce-77-f.png",
+    "xws": "ce77f"
+  },
+  {
+    "name": "ce-78-b",
+    "points": 154,
+    "image": "events/base/city/ce-78-b.png",
+    "xws": "ce78b"
+  },
+  {
+    "name": "ce-78-f",
+    "points": 155,
+    "image": "events/base/city/ce-78-f.png",
+    "xws": "ce78f"
+  },
+  {
+    "name": "ce-79-b",
+    "points": 156,
+    "image": "events/base/city/ce-79-b.png",
+    "xws": "ce79b"
+  },
+  {
+    "name": "ce-79-f",
+    "points": 157,
+    "image": "events/base/city/ce-79-f.png",
+    "xws": "ce79f"
+  },
+  {
+    "name": "ce-80-b",
+    "points": 158,
+    "image": "events/base/city/ce-80-b.png",
+    "xws": "ce80b"
+  },
+  {
+    "name": "ce-80-f",
+    "points": 159,
+    "image": "events/base/city/ce-80-f.png",
+    "xws": "ce80f"
+  },
+  {
+    "name": "ce-81-b",
+    "points": 160,
+    "image": "events/base/city/ce-81-b.png",
+    "xws": "ce81b"
+  },
+  {
+    "name": "ce-81-f",
+    "points": 161,
+    "image": "events/base/city/ce-81-f.png",
+    "xws": "ce81f"
+  },
+  {
+    "name": "re-01-b",
+    "points": 162,
     "image": "events/base/road/re-01-b.png",
     "xws": "re01b"
   },
   {
     "name": "re-01-f",
-    "points": 81,
+    "points": 163,
     "image": "events/base/road/re-01-f.png",
     "xws": "re01f"
   },
   {
     "name": "re-02-b",
-    "points": 82,
+    "points": 164,
     "image": "events/base/road/re-02-b.png",
     "xws": "re02b"
   },
   {
     "name": "re-02-f",
-    "points": 83,
+    "points": 165,
     "image": "events/base/road/re-02-f.png",
     "xws": "re02f"
   },
   {
     "name": "re-03-b",
-    "points": 84,
+    "points": 166,
     "image": "events/base/road/re-03-b.png",
     "xws": "re03b"
   },
   {
     "name": "re-03-f",
-    "points": 85,
+    "points": 167,
     "image": "events/base/road/re-03-f.png",
     "xws": "re03f"
   },
   {
     "name": "re-04-b",
-    "points": 86,
+    "points": 168,
     "image": "events/base/road/re-04-b.png",
     "xws": "re04b"
   },
   {
     "name": "re-04-f",
-    "points": 87,
+    "points": 169,
     "image": "events/base/road/re-04-f.png",
     "xws": "re04f"
   },
   {
     "name": "re-05-b",
-    "points": 88,
+    "points": 170,
     "image": "events/base/road/re-05-b.png",
     "xws": "re05b"
   },
   {
     "name": "re-05-f",
-    "points": 89,
+    "points": 171,
     "image": "events/base/road/re-05-f.png",
     "xws": "re05f"
   },
   {
     "name": "re-06-b",
-    "points": 90,
+    "points": 172,
     "image": "events/base/road/re-06-b.png",
     "xws": "re06b"
   },
   {
     "name": "re-06-f",
-    "points": 91,
+    "points": 173,
     "image": "events/base/road/re-06-f.png",
     "xws": "re06f"
   },
   {
     "name": "re-07-b",
-    "points": 92,
+    "points": 174,
     "image": "events/base/road/re-07-b.png",
     "xws": "re07b"
   },
   {
     "name": "re-07-f",
-    "points": 93,
+    "points": 175,
     "image": "events/base/road/re-07-f.png",
     "xws": "re07f"
   },
   {
     "name": "re-08-b",
-    "points": 94,
+    "points": 176,
     "image": "events/base/road/re-08-b.png",
     "xws": "re08b"
   },
   {
     "name": "re-08-f",
-    "points": 95,
+    "points": 177,
     "image": "events/base/road/re-08-f.png",
     "xws": "re08f"
   },
   {
     "name": "re-09-b",
-    "points": 96,
+    "points": 178,
     "image": "events/base/road/re-09-b.png",
     "xws": "re09b"
   },
   {
     "name": "re-09-f",
-    "points": 97,
+    "points": 179,
     "image": "events/base/road/re-09-f.png",
     "xws": "re09f"
   },
   {
     "name": "re-10-b",
-    "points": 98,
+    "points": 180,
     "image": "events/base/road/re-10-b.png",
     "xws": "re10b"
   },
   {
     "name": "re-10-f",
-    "points": 99,
+    "points": 181,
     "image": "events/base/road/re-10-f.png",
     "xws": "re10f"
   },
   {
     "name": "re-11-b",
-    "points": 100,
+    "points": 182,
     "image": "events/base/road/re-11-b.png",
     "xws": "re11b"
   },
   {
     "name": "re-11-f",
-    "points": 101,
+    "points": 183,
     "image": "events/base/road/re-11-f.png",
     "xws": "re11f"
   },
   {
     "name": "re-12-b",
-    "points": 102,
+    "points": 184,
     "image": "events/base/road/re-12-b.png",
     "xws": "re12b"
   },
   {
     "name": "re-12-f",
-    "points": 103,
+    "points": 185,
     "image": "events/base/road/re-12-f.png",
     "xws": "re12f"
   },
   {
     "name": "re-13-b",
-    "points": 104,
+    "points": 186,
     "image": "events/base/road/re-13-b.png",
     "xws": "re13b"
   },
   {
     "name": "re-13-f",
-    "points": 105,
+    "points": 187,
     "image": "events/base/road/re-13-f.png",
     "xws": "re13f"
   },
   {
     "name": "re-14-b",
-    "points": 106,
+    "points": 188,
     "image": "events/base/road/re-14-b.png",
     "xws": "re14b"
   },
   {
     "name": "re-14-f",
-    "points": 107,
+    "points": 189,
     "image": "events/base/road/re-14-f.png",
     "xws": "re14f"
   },
   {
     "name": "re-15-b",
-    "points": 108,
+    "points": 190,
     "image": "events/base/road/re-15-b.png",
     "xws": "re15b"
   },
   {
     "name": "re-15-f",
-    "points": 109,
+    "points": 191,
     "image": "events/base/road/re-15-f.png",
     "xws": "re15f"
   },
   {
     "name": "re-16-b",
-    "points": 110,
+    "points": 192,
     "image": "events/base/road/re-16-b.png",
     "xws": "re16b"
   },
   {
     "name": "re-16-f",
-    "points": 111,
+    "points": 193,
     "image": "events/base/road/re-16-f.png",
     "xws": "re16f"
   },
   {
     "name": "re-17-b",
-    "points": 112,
+    "points": 194,
     "image": "events/base/road/re-17-b.png",
     "xws": "re17b"
   },
   {
     "name": "re-17-f",
-    "points": 113,
+    "points": 195,
     "image": "events/base/road/re-17-f.png",
     "xws": "re17f"
   },
   {
     "name": "re-18-b",
-    "points": 114,
+    "points": 196,
     "image": "events/base/road/re-18-b.png",
     "xws": "re18b"
   },
   {
     "name": "re-18-f",
-    "points": 115,
+    "points": 197,
     "image": "events/base/road/re-18-f.png",
     "xws": "re18f"
   },
   {
     "name": "re-19-b",
-    "points": 116,
+    "points": 198,
     "image": "events/base/road/re-19-b.png",
     "xws": "re19b"
   },
   {
     "name": "re-19-f",
-    "points": 117,
+    "points": 199,
     "image": "events/base/road/re-19-f.png",
     "xws": "re19f"
   },
   {
     "name": "re-20-b",
-    "points": 118,
+    "points": 200,
     "image": "events/base/road/re-20-b.png",
     "xws": "re20b"
   },
   {
     "name": "re-20-f",
-    "points": 119,
+    "points": 201,
     "image": "events/base/road/re-20-f.png",
     "xws": "re20f"
   },
   {
     "name": "re-21-b",
-    "points": 120,
+    "points": 202,
     "image": "events/base/road/re-21-b.png",
     "xws": "re21b"
   },
   {
     "name": "re-21-f",
-    "points": 121,
+    "points": 203,
     "image": "events/base/road/re-21-f.png",
     "xws": "re21f"
   },
   {
     "name": "re-22-b",
-    "points": 122,
+    "points": 204,
     "image": "events/base/road/re-22-b.png",
     "xws": "re22b"
   },
   {
     "name": "re-22-f",
-    "points": 123,
+    "points": 205,
     "image": "events/base/road/re-22-f.png",
     "xws": "re22f"
   },
   {
     "name": "re-23-b",
-    "points": 124,
+    "points": 206,
     "image": "events/base/road/re-23-b.png",
     "xws": "re23b"
   },
   {
     "name": "re-23-f",
-    "points": 125,
+    "points": 207,
     "image": "events/base/road/re-23-f.png",
     "xws": "re23f"
   },
   {
     "name": "re-24-b",
-    "points": 126,
+    "points": 208,
     "image": "events/base/road/re-24-b.png",
     "xws": "re24b"
   },
   {
     "name": "re-24-f",
-    "points": 127,
+    "points": 209,
     "image": "events/base/road/re-24-f.png",
     "xws": "re24f"
   },
   {
     "name": "re-25-b",
-    "points": 128,
+    "points": 210,
     "image": "events/base/road/re-25-b.png",
     "xws": "re25b"
   },
   {
     "name": "re-25-f",
-    "points": 129,
+    "points": 211,
     "image": "events/base/road/re-25-f.png",
     "xws": "re25f"
   },
   {
     "name": "re-26-b",
-    "points": 130,
+    "points": 212,
     "image": "events/base/road/re-26-b.png",
     "xws": "re26b"
   },
   {
     "name": "re-26-f",
-    "points": 131,
+    "points": 213,
     "image": "events/base/road/re-26-f.png",
     "xws": "re26f"
   },
   {
     "name": "re-27-b",
-    "points": 132,
+    "points": 214,
     "image": "events/base/road/re-27-b.png",
     "xws": "re27b"
   },
   {
     "name": "re-27-f",
-    "points": 133,
+    "points": 215,
     "image": "events/base/road/re-27-f.png",
     "xws": "re27f"
   },
   {
     "name": "re-28-b",
-    "points": 134,
+    "points": 216,
     "image": "events/base/road/re-28-b.png",
     "xws": "re28b"
   },
   {
     "name": "re-28-f",
-    "points": 135,
+    "points": 217,
     "image": "events/base/road/re-28-f.png",
     "xws": "re28f"
   },
   {
     "name": "re-29-b",
-    "points": 136,
+    "points": 218,
     "image": "events/base/road/re-29-b.png",
     "xws": "re29b"
   },
   {
     "name": "re-29-f",
-    "points": 137,
+    "points": 219,
     "image": "events/base/road/re-29-f.png",
     "xws": "re29f"
   },
   {
     "name": "re-30-b",
-    "points": 138,
+    "points": 220,
     "image": "events/base/road/re-30-b.png",
     "xws": "re30b"
   },
   {
     "name": "re-30-f",
-    "points": 139,
+    "points": 221,
     "image": "events/base/road/re-30-f.png",
     "xws": "re30f"
   },
   {
     "name": "re-31-b",
-    "points": 140,
+    "points": 222,
     "image": "events/base/road/re-31-b.png",
     "xws": "re31b"
   },
   {
     "name": "re-31-f",
-    "points": 141,
+    "points": 223,
     "image": "events/base/road/re-31-f.png",
     "xws": "re31f"
   },
   {
     "name": "re-32-b",
-    "points": 142,
+    "points": 224,
     "image": "events/base/road/re-32-b.png",
     "xws": "re32b"
   },
   {
     "name": "re-32-f",
-    "points": 143,
+    "points": 225,
     "image": "events/base/road/re-32-f.png",
     "xws": "re32f"
   },
   {
     "name": "re-33-b",
-    "points": 144,
+    "points": 226,
     "image": "events/base/road/re-33-b.png",
     "xws": "re33b"
   },
   {
     "name": "re-33-f",
-    "points": 145,
+    "points": 227,
     "image": "events/base/road/re-33-f.png",
     "xws": "re33f"
   },
   {
     "name": "re-34-b",
-    "points": 146,
+    "points": 228,
     "image": "events/base/road/re-34-b.png",
     "xws": "re34b"
   },
   {
     "name": "re-34-f",
-    "points": 147,
+    "points": 229,
     "image": "events/base/road/re-34-f.png",
     "xws": "re34f"
   },
   {
     "name": "re-35-b",
-    "points": 148,
+    "points": 230,
     "image": "events/base/road/re-35-b.png",
     "xws": "re35b"
   },
   {
     "name": "re-35-f",
-    "points": 149,
+    "points": 231,
     "image": "events/base/road/re-35-f.png",
     "xws": "re35f"
   },
   {
     "name": "re-36-b",
-    "points": 150,
+    "points": 232,
     "image": "events/base/road/re-36-b.png",
     "xws": "re36b"
   },
   {
     "name": "re-36-f",
-    "points": 151,
+    "points": 233,
     "image": "events/base/road/re-36-f.png",
     "xws": "re36f"
   },
   {
     "name": "re-37-b",
-    "points": 152,
+    "points": 234,
     "image": "events/base/road/re-37-b.png",
     "xws": "re37b"
   },
   {
     "name": "re-37-f",
-    "points": 153,
+    "points": 235,
     "image": "events/base/road/re-37-f.png",
     "xws": "re37f"
   },
   {
     "name": "re-38-b",
-    "points": 154,
+    "points": 236,
     "image": "events/base/road/re-38-b.png",
     "xws": "re38b"
   },
   {
     "name": "re-38-f",
-    "points": 155,
+    "points": 237,
     "image": "events/base/road/re-38-f.png",
     "xws": "re38f"
   },
   {
     "name": "re-39-b",
-    "points": 156,
+    "points": 238,
     "image": "events/base/road/re-39-b.png",
     "xws": "re39b"
   },
   {
     "name": "re-39-f",
-    "points": 157,
+    "points": 239,
     "image": "events/base/road/re-39-f.png",
     "xws": "re39f"
   },
   {
     "name": "re-40-b",
-    "points": 158,
+    "points": 240,
     "image": "events/base/road/re-40-b.png",
     "xws": "re40b"
   },
   {
     "name": "re-40-f",
-    "points": 159,
+    "points": 241,
     "image": "events/base/road/re-40-f.png",
     "xws": "re40f"
   },
   {
     "name": "re-41-b",
-    "points": 160,
+    "points": 242,
     "image": "events/base/road/re-41-b.png",
     "xws": "re41b"
   },
   {
     "name": "re-41-f",
-    "points": 161,
+    "points": 243,
     "image": "events/base/road/re-41-f.png",
     "xws": "re41f"
   },
   {
     "name": "re-42-b",
-    "points": 162,
+    "points": 244,
     "image": "events/base/road/re-42-b.png",
     "xws": "re42b"
   },
   {
     "name": "re-42-f",
-    "points": 163,
+    "points": 245,
     "image": "events/base/road/re-42-f.png",
     "xws": "re42f"
   },
   {
     "name": "re-43-b",
-    "points": 164,
+    "points": 246,
     "image": "events/base/road/re-43-b.png",
     "xws": "re43b"
   },
   {
     "name": "re-43-f",
-    "points": 165,
+    "points": 247,
     "image": "events/base/road/re-43-f.png",
     "xws": "re43f"
   },
   {
     "name": "re-44-b",
-    "points": 166,
+    "points": 248,
     "image": "events/base/road/re-44-b.png",
     "xws": "re44b"
   },
   {
     "name": "re-44-f",
-    "points": 167,
+    "points": 249,
     "image": "events/base/road/re-44-f.png",
     "xws": "re44f"
   },
   {
     "name": "re-45-b",
-    "points": 168,
+    "points": 250,
     "image": "events/base/road/re-45-b.png",
     "xws": "re45b"
   },
   {
     "name": "re-45-f",
-    "points": 169,
+    "points": 251,
     "image": "events/base/road/re-45-f.png",
     "xws": "re45f"
   },
   {
     "name": "re-46-b",
-    "points": 170,
+    "points": 252,
     "image": "events/base/road/re-46-b.png",
     "xws": "re46b"
   },
   {
     "name": "re-46-f",
-    "points": 171,
+    "points": 253,
     "image": "events/base/road/re-46-f.png",
     "xws": "re46f"
   },
   {
     "name": "re-47-b",
-    "points": 172,
+    "points": 254,
     "image": "events/base/road/re-47-b.png",
     "xws": "re47b"
   },
   {
     "name": "re-47-f",
-    "points": 173,
+    "points": 255,
     "image": "events/base/road/re-47-f.png",
     "xws": "re47f"
   },
   {
     "name": "re-48-b",
-    "points": 174,
+    "points": 256,
     "image": "events/base/road/re-48-b.png",
     "xws": "re48b"
   },
   {
     "name": "re-48-f",
-    "points": 175,
+    "points": 257,
     "image": "events/base/road/re-48-f.png",
     "xws": "re48f"
   },
   {
     "name": "re-49-b",
-    "points": 176,
+    "points": 258,
     "image": "events/base/road/re-49-b.png",
     "xws": "re49b"
   },
   {
     "name": "re-49-f",
-    "points": 177,
+    "points": 259,
     "image": "events/base/road/re-49-f.png",
     "xws": "re49f"
   },
   {
     "name": "re-50-b",
-    "points": 178,
+    "points": 260,
     "image": "events/base/road/re-50-b.png",
     "xws": "re50b"
   },
   {
     "name": "re-50-f",
-    "points": 179,
+    "points": 261,
     "image": "events/base/road/re-50-f.png",
     "xws": "re50f"
   },
   {
     "name": "re-51-b",
-    "points": 180,
+    "points": 262,
     "image": "events/base/road/re-51-b.png",
     "xws": "re51b"
   },
   {
     "name": "re-51-f",
-    "points": 181,
+    "points": 263,
     "image": "events/base/road/re-51-f.png",
     "xws": "re51f"
   },
   {
     "name": "re-52-b",
-    "points": 182,
+    "points": 264,
     "image": "events/base/road/re-52-b.png",
     "xws": "re52b"
   },
   {
     "name": "re-52-f",
-    "points": 183,
+    "points": 265,
     "image": "events/base/road/re-52-f.png",
     "xws": "re52f"
   },
   {
     "name": "re-53-b",
-    "points": 184,
+    "points": 266,
     "image": "events/base/road/re-53-b.png",
     "xws": "re53b"
   },
   {
     "name": "re-53-f",
-    "points": 185,
+    "points": 267,
     "image": "events/base/road/re-53-f.png",
     "xws": "re53f"
   },
   {
     "name": "re-54-b",
-    "points": 186,
+    "points": 268,
     "image": "events/base/road/re-54-b.png",
     "xws": "re54b"
   },
   {
     "name": "re-54-f",
-    "points": 187,
+    "points": 269,
     "image": "events/base/road/re-54-f.png",
     "xws": "re54f"
   },
   {
     "name": "re-55-b",
-    "points": 188,
+    "points": 270,
     "image": "events/base/road/re-55-b.png",
     "xws": "re55b"
   },
   {
     "name": "re-55-f",
-    "points": 189,
+    "points": 271,
     "image": "events/base/road/re-55-f.png",
     "xws": "re55f"
   },
   {
     "name": "re-56-b",
-    "points": 190,
+    "points": 272,
     "image": "events/base/road/re-56-b.png",
     "xws": "re56b"
   },
   {
     "name": "re-56-f",
-    "points": 191,
+    "points": 273,
     "image": "events/base/road/re-56-f.png",
     "xws": "re56f"
   },
   {
     "name": "re-57-b",
-    "points": 192,
+    "points": 274,
     "image": "events/base/road/re-57-b.png",
     "xws": "re57b"
   },
   {
     "name": "re-57-f",
-    "points": 193,
+    "points": 275,
     "image": "events/base/road/re-57-f.png",
     "xws": "re57f"
   },
   {
     "name": "re-58-b",
-    "points": 194,
+    "points": 276,
     "image": "events/base/road/re-58-b.png",
     "xws": "re58b"
   },
   {
     "name": "re-58-f",
-    "points": 195,
+    "points": 277,
     "image": "events/base/road/re-58-f.png",
     "xws": "re58f"
   },
   {
     "name": "re-59-b",
-    "points": 196,
+    "points": 278,
     "image": "events/base/road/re-59-b.png",
     "xws": "re59b"
   },
   {
     "name": "re-59-f",
-    "points": 197,
+    "points": 279,
     "image": "events/base/road/re-59-f.png",
     "xws": "re59f"
   },
   {
     "name": "re-60-b",
-    "points": 198,
+    "points": 280,
     "image": "events/base/road/re-60-b.png",
     "xws": "re60b"
   },
   {
     "name": "re-60-f",
-    "points": 199,
+    "points": 281,
     "image": "events/base/road/re-60-f.png",
     "xws": "re60f"
   },
   {
     "name": "re-61-b",
-    "points": 200,
+    "points": 282,
     "image": "events/base/road/re-61-b.png",
     "xws": "re61b"
   },
   {
     "name": "re-61-f",
-    "points": 201,
+    "points": 283,
     "image": "events/base/road/re-61-f.png",
     "xws": "re61f"
   },
   {
     "name": "re-62-b",
-    "points": 202,
+    "points": 284,
     "image": "events/base/road/re-62-b.png",
     "xws": "re62b"
   },
   {
     "name": "re-62-f",
-    "points": 203,
+    "points": 285,
     "image": "events/base/road/re-62-f.png",
     "xws": "re62f"
   },
   {
     "name": "re-63-b",
-    "points": 204,
+    "points": 286,
     "image": "events/base/road/re-63-b.png",
     "xws": "re63b"
   },
   {
     "name": "re-63-f",
-    "points": 205,
+    "points": 287,
     "image": "events/base/road/re-63-f.png",
     "xws": "re63f"
   },
   {
     "name": "re-64-b",
-    "points": 206,
+    "points": 288,
     "image": "events/base/road/re-64-b.png",
     "xws": "re64b"
   },
   {
     "name": "re-64-f",
-    "points": 207,
+    "points": 289,
     "image": "events/base/road/re-64-f.png",
     "xws": "re64f"
   },
   {
     "name": "re-65-b",
-    "points": 208,
+    "points": 290,
     "image": "events/base/road/re-65-b.png",
     "xws": "re65b"
   },
   {
     "name": "re-65-f",
-    "points": 209,
+    "points": 291,
     "image": "events/base/road/re-65-f.png",
     "xws": "re65f"
   },
   {
     "name": "re-66-b",
-    "points": 210,
+    "points": 292,
     "image": "events/base/road/re-66-b.png",
     "xws": "re66b"
   },
   {
     "name": "re-66-f",
-    "points": 211,
+    "points": 293,
     "image": "events/base/road/re-66-f.png",
     "xws": "re66f"
   },
   {
     "name": "re-67-b",
-    "points": 212,
+    "points": 294,
     "image": "events/base/road/re-67-b.png",
     "xws": "re67b"
   },
   {
     "name": "re-67-f",
-    "points": 213,
+    "points": 295,
     "image": "events/base/road/re-67-f.png",
     "xws": "re67f"
   },
   {
     "name": "re-68-b",
-    "points": 214,
+    "points": 296,
     "image": "events/base/road/re-68-b.png",
     "xws": "re68b"
   },
   {
     "name": "re-68-f",
-    "points": 215,
+    "points": 297,
     "image": "events/base/road/re-68-f.png",
     "xws": "re68f"
   },
   {
     "name": "re-69-b",
-    "points": 216,
+    "points": 298,
     "image": "events/base/road/re-69-b.png",
     "xws": "re69b"
   },
   {
     "name": "re-69-f",
-    "points": 217,
+    "points": 299,
     "image": "events/base/road/re-69-f.png",
     "xws": "re69f"
   },
   {
     "name": "ce-ci-1-b",
-    "points": 218,
+    "points": 300,
     "image": "events/expeditions/capital-intrigue/ce-ci-1-b.png",
     "xws": "ceci1b"
   },
   {
     "name": "ce-ci-1-f",
-    "points": 219,
+    "points": 301,
     "image": "events/expeditions/capital-intrigue/ce-ci-1-f.png",
     "xws": "ceci1f"
   },
   {
     "name": "ce-ci-2-b",
-    "points": 220,
+    "points": 302,
     "image": "events/expeditions/capital-intrigue/ce-ci-2-b.png",
     "xws": "ceci2b"
   },
   {
     "name": "ce-ci-2-f",
-    "points": 221,
+    "points": 303,
     "image": "events/expeditions/capital-intrigue/ce-ci-2-f.png",
     "xws": "ceci2f"
   },
   {
     "name": "ce-ci-3-b",
-    "points": 222,
+    "points": 304,
     "image": "events/expeditions/capital-intrigue/ce-ci-3-b.png",
     "xws": "ceci3b"
   },
   {
     "name": "ce-ci-3-f",
-    "points": 223,
+    "points": 305,
     "image": "events/expeditions/capital-intrigue/ce-ci-3-f.png",
     "xws": "ceci3f"
   },
   {
     "name": "ce-ci-4-b",
-    "points": 224,
+    "points": 306,
     "image": "events/expeditions/capital-intrigue/ce-ci-4-b.png",
     "xws": "ceci4b"
   },
   {
     "name": "ce-ci-4-f",
-    "points": 225,
+    "points": 307,
     "image": "events/expeditions/capital-intrigue/ce-ci-4-f.png",
     "xws": "ceci4f"
   },
   {
     "name": "ce-ci-5-b",
-    "points": 226,
+    "points": 308,
     "image": "events/expeditions/capital-intrigue/ce-ci-5-b.png",
     "xws": "ceci5b"
   },
   {
     "name": "ce-ci-5-f",
-    "points": 227,
+    "points": 309,
     "image": "events/expeditions/capital-intrigue/ce-ci-5-f.png",
     "xws": "ceci5f"
   },
   {
     "name": "re-m1-f",
-    "points": 228,
+    "points": 310,
     "image": "events/expeditions/into-the-unknown/re-m1-f.png",
     "xws": "rem1f"
   },
   {
     "name": "re-m2-f",
-    "points": 229,
+    "points": 311,
     "image": "events/expeditions/into-the-unknown/re-m2-f.png",
     "xws": "rem2f"
   },
   {
     "name": "re-m3-f",
-    "points": 230,
+    "points": 312,
     "image": "events/expeditions/into-the-unknown/re-m3-f.png",
     "xws": "rem3f"
   },
   {
     "name": "re-m4-f",
-    "points": 231,
+    "points": 313,
     "image": "events/expeditions/into-the-unknown/re-m4-f.png",
     "xws": "rem4f"
   },
   {
     "name": "re-m5-f",
-    "points": 232,
+    "points": 314,
     "image": "events/expeditions/into-the-unknown/re-m5-f.png",
     "xws": "rem5f"
   },
   {
     "name": "re-m6-f",
-    "points": 233,
+    "points": 315,
     "image": "events/expeditions/into-the-unknown/re-m6-f.png",
     "xws": "rem6f"
   }
