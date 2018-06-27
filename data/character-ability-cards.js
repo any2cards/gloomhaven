@@ -3252,9 +3252,9 @@
     "xws": "volatileconcoction"
   },
   {
-    "name": "reference",
+    "name": "bear-reference",
     "points": 542,
-    "image": "character-ability-cards/BT/reference.png",
-    "xws": "reference"
+    "image": "character-ability-cards/BT/bear-reference.png",
+    "xws": "bearreference"
   }
 ]
