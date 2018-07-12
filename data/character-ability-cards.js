@@ -3258,7 +3258,7 @@
     "xws": "bearreference"
   },
   {
-    "name": "mobile-response",
+    "name": "mobile response",
     "points": 543,
     "image": "character-ability-cards/SB/mobile-response.png",
     "xws": "mobileresponse"
