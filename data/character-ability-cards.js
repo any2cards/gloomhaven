@@ -1248,10 +1248,10 @@
     "xws": "shapingtheether"
   },
   {
-    "name": "simulaerum",
+    "name": "simulacrum",
     "points": 208,
-    "image": "character-ability-cards/EL/simulaerum.png",
-    "xws": "simulaerum"
+    "image": "character-ability-cards/EL/simulacrum.png",
+    "xws": "simulacrum"
   },
   {
     "name": "stoking hail",
