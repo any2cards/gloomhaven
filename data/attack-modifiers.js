@@ -2470,5 +2470,95 @@
     "points": 411,
     "image": "attack-modifiers/TI/am-ti-16.png",
     "xws": "amti16"
+  },
+  {
+    "name": "am-dr-01",
+    "points": 412,
+    "image": "attack-modifiers/DR/am-dr-01.png",
+    "xws": "amdr01"
+  },
+  {
+    "name": "am-dr-02",
+    "points": 413,
+    "image": "attack-modifiers/DR/am-dr-02.png",
+    "xws": "amdr02"
+  },
+  {
+    "name": "am-dr-03",
+    "points": 414,
+    "image": "attack-modifiers/DR/am-dr-03.png",
+    "xws": "amdr03"
+  },
+  {
+    "name": "am-dr-04",
+    "points": 415,
+    "image": "attack-modifiers/DR/am-dr-04.png",
+    "xws": "amdr04"
+  },
+  {
+    "name": "am-dr-05",
+    "points": 416,
+    "image": "attack-modifiers/DR/am-dr-05.png",
+    "xws": "amdr05"
+  },
+  {
+    "name": "am-dr-06",
+    "points": 417,
+    "image": "attack-modifiers/DR/am-dr-06.png",
+    "xws": "amdr06"
+  },
+  {
+    "name": "am-dr-07",
+    "points": 418,
+    "image": "attack-modifiers/DR/am-dr-07.png",
+    "xws": "amdr07"
+  },
+  {
+    "name": "am-dr-08",
+    "points": 419,
+    "image": "attack-modifiers/DR/am-dr-08.png",
+    "xws": "amdr08"
+  },
+  {
+    "name": "am-dr-09",
+    "points": 420,
+    "image": "attack-modifiers/DR/am-dr-09.png",
+    "xws": "amdr09"
+  },
+  {
+    "name": "am-dr-10",
+    "points": 421,
+    "image": "attack-modifiers/DR/am-dr-10.png",
+    "xws": "amdr10"
+  },
+  {
+    "name": "am-dr-11",
+    "points": 422,
+    "image": "attack-modifiers/DR/am-dr-11.png",
+    "xws": "amdr11"
+  },
+  {
+    "name": "am-dr-12",
+    "points": 423,
+    "image": "attack-modifiers/DR/am-dr-12.png",
+    "xws": "amdr12"
+  },
+  {
+    "name": "am-dr-13",
+    "points": 424,
+    "image": "attack-modifiers/DR/am-dr-13.png",
+    "xws": "amdr13"
+  },
+  {
+    "name": "am-dr-14",
+    "points": 425,
+    "image": "attack-modifiers/DR/am-dr-14.png",
+    "xws": "amdr14"
+  },
+  {
+    "name": "am-dr-15",
+    "points": 426,
+    "image": "attack-modifiers/DR/am-dr-15.png",
+    "xws": "amdr15"
   }
 ]

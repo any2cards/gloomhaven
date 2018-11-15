@@ -3252,267 +3252,453 @@
     "xws": "volatileconcoction"
   },
   {
-    "name": "bear-reference",
+    "name": "anguish and salvation",
     "points": 542,
+    "image": "character-ability-cards/DR/anguish-and-salvation.png",
+    "xws": "anguishandsalvation"
+  },
+  {
+    "name": "anticipate intricacies",
+    "points": 543,
+    "image": "character-ability-cards/DR/anticipate-intricacies.png",
+    "xws": "anticipateintricacies"
+  },
+  {
+    "name": "bad omen",
+    "points": 544,
+    "image": "character-ability-cards/DR/bad-omen.png",
+    "xws": "badomen"
+  },
+  {
+    "name": "call of the nether",
+    "points": 545,
+    "image": "character-ability-cards/DR/call-of-the-nether.png",
+    "xws": "callofthenether"
+  },
+  {
+    "name": "careful attunement",
+    "points": 546,
+    "image": "character-ability-cards/DR/careful-attunement.png",
+    "xws": "carefulattunement"
+  },
+  {
+    "name": "clairvoyance",
+    "points": 547,
+    "image": "character-ability-cards/DR/clairvoyance.png",
+    "xws": "clairvoyance"
+  },
+  {
+    "name": "cleansing rite",
+    "points": 548,
+    "image": "character-ability-cards/DR/cleansing-rite.png",
+    "xws": "cleansingrite"
+  },
+  {
+    "name": "curative flux",
+    "points": 549,
+    "image": "character-ability-cards/DR/curative-flux.png",
+    "xws": "curativeflux"
+  },
+  {
+    "name": "cursed ground",
+    "points": 550,
+    "image": "character-ability-cards/DR/cursed-ground.png",
+    "xws": "cursedground"
+  },
+  {
+    "name": "deep contemplation",
+    "points": 551,
+    "image": "character-ability-cards/DR/deep-contemplation.png",
+    "xws": "deepcontemplation"
+  },
+  {
+    "name": "dimensional divide",
+    "points": 552,
+    "image": "character-ability-cards/DR/dimensional-divide.png",
+    "xws": "dimensionaldivide"
+  },
+  {
+    "name": "dimensional transfer",
+    "points": 553,
+    "image": "character-ability-cards/DR/dimensional-transfer.png",
+    "xws": "dimensionaltransfer"
+  },
+  {
+    "name": "dr-back",
+    "points": 554,
+    "image": "character-ability-cards/DR/dr-back.png",
+    "xws": "drback"
+  },
+  {
+    "name": "duality shards",
+    "points": 555,
+    "image": "character-ability-cards/DR/duality-shards.png",
+    "xws": "dualityshards"
+  },
+  {
+    "name": "enfeebling hex",
+    "points": 556,
+    "image": "character-ability-cards/DR/enfeebling-hex.png",
+    "xws": "enfeeblinghex"
+  },
+  {
+    "name": "envision the course",
+    "points": 557,
+    "image": "character-ability-cards/DR/envision-the-course.png",
+    "xws": "envisionthecourse"
+  },
+  {
+    "name": "ethereal vortex",
+    "points": 558,
+    "image": "character-ability-cards/DR/ethereal-vortex.png",
+    "xws": "etherealvortex"
+  },
+  {
+    "name": "gift of the void",
+    "points": 559,
+    "image": "character-ability-cards/DR/gift-of-the-void.png",
+    "xws": "giftofthevoid"
+  },
+  {
+    "name": "hand of destiny",
+    "points": 560,
+    "image": "character-ability-cards/DR/hand-of-destiny.png",
+    "xws": "handofdestiny"
+  },
+  {
+    "name": "inspiration from beyond",
+    "points": 561,
+    "image": "character-ability-cards/DR/inspiration-from-beyond.png",
+    "xws": "inspirationfrombeyond"
+  },
+  {
+    "name": "otherworldly journey",
+    "points": 562,
+    "image": "character-ability-cards/DR/otherworldly-journey.png",
+    "xws": "otherworldlyjourney"
+  },
+  {
+    "name": "peer into battle",
+    "points": 563,
+    "image": "character-ability-cards/DR/peer-into-battle.png",
+    "xws": "peerintobattle"
+  },
+  {
+    "name": "planar fissure",
+    "points": 564,
+    "image": "character-ability-cards/DR/planar-fissure.png",
+    "xws": "planarfissure"
+  },
+  {
+    "name": "preordain the path",
+    "points": 565,
+    "image": "character-ability-cards/DR/preordain-the-path.png",
+    "xws": "preordainthepath"
+  },
+  {
+    "name": "protective aura",
+    "points": 567,
+    "image": "character-ability-cards/DR/protective-aura.png",
+    "xws": "protectiveaura"
+  },
+  {
+    "name": "ray of light",
+    "points": 568,
+    "image": "character-ability-cards/DR/ray-of-light.png",
+    "xws": "rayoflight"
+  },
+  {
+    "name": "revitalizing fount",
+    "points": 569,
+    "image": "character-ability-cards/DR/revitalizing-fount.png",
+    "xws": "revitalizingfount"
+  },
+  {
+    "name": "seal their fate",
+    "points": 570,
+    "image": "character-ability-cards/DR/seal-their-fate.png",
+    "xws": "sealtheirfate"
+  },
+  {
+    "name": "void snare",
+    "points": 571,
+    "image": "character-ability-cards/DR/void-snare.png",
+    "xws": "voidsnare"
+  },
+  {
+    "name": "bear-reference",
+    "points": 572,
     "image": "character-ability-cards/BT/bear-reference.png",
     "xws": "bearreference"
   },
   {
     "name": "mobile response",
-    "points": 543,
+    "points": 573,
     "image": "character-ability-cards/SB/mobile-response.png",
     "xws": "mobileresponse"
   },
   {
     "name": "lightning moths",
-    "points": 544,
+    "points": 574,
     "image": "character-ability-cards/BS/bioluminescence.png",
     "xws": "bioluminescence"
   },
   {
     "name": "soul leeches",
-    "points": 546,
+    "points": 575,
     "image": "character-ability-cards/BS/corrupting-parasites.png",
     "xws": "corruptingparasites"
   },
   {
     "name": "creeping beetles",
-    "points": 547,
+    "points": 576,
     "image": "character-ability-cards/BS/death-march.png",
     "xws": "deathmarch"
   },
   {
     "name": "angry wasps",
-    "points": 548,
+    "points": 577,
     "image": "character-ability-cards/BS/engulfing-stingers.png",
     "xws": "engulfingstingers"
   },
   {
     "name": "bloat maggots",
-    "points": 549,
+    "points": 578,
     "image": "character-ability-cards/BS/putrid-grubs.png",
     "xws": "putridgrubs"
   },
   {
     "name": "dueling hornets",
-    "points": 550,
+    "points": 579,
     "image": "character-ability-cards/BS/solitary-horde.png",
     "xws": "solitaryhorde"
   },
   {
     "name": "steel scarabs",
-    "points": 551,
+    "points": 580,
     "image": "character-ability-cards/BS/unstoppable-army.png",
     "xws": "unstoppablearmy"
   },
   {
     "name": "rust vermin",
-    "points": 552,
+    "points": 581,
     "image": "character-ability-cards/BS/wasteland.png",
     "xws": "wasteland"
   },
   {
     "name": "tattered wolf",
-    "points": 553,
+    "points": 582,
     "image": "character-ability-cards/BT/relentless-ally.png",
     "xws": "relentlessally"
   },
   {
     "name": "red falcon",
-    "points": 554,
+    "points": 583,
     "image": "character-ability-cards/BT/soaring-ally.png",
     "xws": "soaringally"
   },
   {
     "name": "monolith",
-    "points": 555,
+    "points": 584,
     "image": "character-ability-cards/BT/stone-sigil.png",
     "xws": "stonesigil"
   },
   {
     "name": "wind totem",
-    "points": 556,
+    "points": 585,
     "image": "character-ability-cards/BT/storm-sigil.png",
     "xws": "stormsigil"
   },
   {
     "name": "spirit banner",
-    "points": 557,
+    "points": 586,
     "image": "character-ability-cards/BT/tribal-sigil.png",
     "xws": "tribalsigil"
   },
   {
     "name": "green adder",
-    "points": 558,
+    "points": 587,
     "image": "character-ability-cards/BT/venomous-ally.png",
     "xws": "venomousally"
   },
   {
     "name": "swamp alligator",
-    "points": 559,
+    "points": 588,
     "image": "character-ability-cards/BT/vicious-ally.png",
     "xws": "viciousally"
   },
   {
     "name": "war hawk",
-    "points": 560,
+    "points": 589,
     "image": "character-ability-cards/DS/felling-swoop.png",
     "xws": "fellingswoop"
   },
   {
     "name": "giant toad",
-    "points": 561,
+    "points": 590,
     "image": "character-ability-cards/DS/natures-hunger.png",
     "xws": "natureshunger"
   },
   {
     "name": "spitting cobra",
-    "points": 562,
+    "points": 591,
     "image": "character-ability-cards/DS/predator-and-prey.png",
     "xws": "predatorandprey"
   },
   {
     "name": "vicious jackal",
-    "points": 563,
+    "points": 592,
     "image": "character-ability-cards/DS/the-hunt-begins.png",
     "xws": "thehuntbegins"
   },
   {
     "name": "battle boar",
-    "points": 564,
+    "points": 593,
     "image": "character-ability-cards/DS/vital-charge.png",
     "xws": "vitalcharge"
   },
   {
     "name": "mana sphere",
-    "points": 565,
+    "points": 594,
     "image": "character-ability-cards/EL/ethereal-manifestation.png",
     "xws": "etherealmanifestation"
   },
   {
     "name": "doppelganger",
-    "points": 566,
+    "points": 595,
     "image": "character-ability-cards/EL/simulacrum.png",
     "xws": "simulacrum"
   },
   {
     "name": "rat swarm",
-    "points": 567,
+    "points": 596,
     "image": "character-ability-cards/MT/gnawing-horde.png",
     "xws": "gnawinghorde"
   },
   {
     "name": "rat king",
-    "points": 568,
+    "points": 597,
     "image": "character-ability-cards/MT/many-as-one.png",
     "xws": "manyasone"
   },
   {
     "name": "monstrous rat",
-    "points": 569,
+    "points": 598,
     "image": "character-ability-cards/MT/wretched-creature.png",
     "xws": "wretchedcreature"
   },
   {
     "name": "healing sprite",
-    "points": 570,
+    "points": 599,
     "image": "character-ability-cards/SU/conjured-aid.png",
     "xws": "conjuredaid"
   },
   {
     "name": "nail spheres",
-    "points": 571,
+    "points": 600,
     "image": "character-ability-cards/SU/endless-spikes.png",
     "xws": "endlessspikes"
   },
   {
     "name": "iron beast",
-    "points": 572,
+    "points": 601,
     "image": "character-ability-cards/SU/forged-ferocity.png",
     "xws": "forgedferocity"
   },
   {
     "name": "black unicorn",
-    "points": 573,
+    "points": 602,
     "image": "character-ability-cards/SU/horned-majesty.png",
     "xws": "hornedmajesty"
   },
   {
     "name": "bat swarm",
-    "points": 574,
+    "points": 603,
     "image": "character-ability-cards/SU/leathery-wings.png",
     "xws": "leatherywings"
   },
   {
     "name": "rock colossus",
-    "points": 575,
+    "points": 604,
     "image": "character-ability-cards/SU/living-mountain.png",
     "xws": "livingmountain"
   },
   {
     "name": "shadow wolves",
-    "points": 576,
+    "points": 605,
     "image": "character-ability-cards/SU/living-night.png",
     "xws": "livingnight"
   },
   {
     "name": "void eater",
-    "points": 577,
+    "points": 606,
     "image": "character-ability-cards/SU/negative-energy.png",
     "xws": "negativeenergy"
   },
   {
     "name": "slime spirit",
-    "points": 578,
+    "points": 607,
     "image": "character-ability-cards/SU/oozing-manifestation.png",
     "xws": "oozingmanifestation"
   },
   {
     "name": "lava golem",
-    "points": 579,
+    "points": 608,
     "image": "character-ability-cards/SU/unending-dominance.png",
     "xws": "unendingdominance"
   },
   {
     "name": "living bomb",
-    "points": 580,
+    "points": 609,
     "image": "character-ability-cards/SU/volatile-flame.png",
     "xws": "volatileflame"
   },
   {
     "name": "thorn shooter",
-    "points": 581,
+    "points": 610,
     "image": "character-ability-cards/SU/wild-animation.png",
     "xws": "wildanimation"
   },
   {
     "name": "mystic ally",
-    "points": 582,
+    "points": 611,
     "image": "character-ability-cards/SW/aid-from-the-ether.png",
     "xws": "aidfromtheether"
   },
   {
     "name": "burning avatar",
-    "points": 583,
+    "points": 612,
     "image": "character-ability-cards/SW/living-torch.png",
     "xws": "livingtorch"
   },
   {
     "name": "battle bot",
-    "points": 584,
+    "points": 613,
     "image": "character-ability-cards/TI/dangerous-contraption.png",
     "xws": "dangerouscontraption"
   },
   {
     "name": "decoy",
-    "points": 585,
+    "points": 614,
     "image": "character-ability-cards/TI/harmless-contraption.png",
     "xws": "harmlesscontraption"
   },
   {
     "name": "kill bot",
-    "points": 586,
+    "points": 615,
     "image": "character-ability-cards/TI/murderous-contraption.png",
     "xws": "murderouscontraption"
+  },
+  {
+    "name": "ghost falcons",
+    "points": 616,
+    "image": "character-ability-cards/DR/envision-the-course.png",
+    "xws": "envisionthecourse"
+  },
+  {
+    "name": "twilight archon",
+    "points": 617,
+    "image": "character-ability-cards/DR/planar-fissure.png",
+    "xws": "planarfissure"
   }
 ]

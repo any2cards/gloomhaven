@@ -106,5 +106,11 @@
     "points": 17,
     "image": "character-mats/tinkerer.png",
     "xws": "tinkerer"
+  },
+  {
+    "name": "diviner",
+    "points": 18,
+    "image": "character-mats/diviner.png",
+    "xws": "diviner"
   }
 ]
