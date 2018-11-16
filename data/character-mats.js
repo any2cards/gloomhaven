@@ -54,9 +54,9 @@
     "xws": "nightshroud"
   },
   {
-    "name": "plague herald",
+    "name": "plagueherald",
     "points": 9,
-    "image": "character-mats/plague-herald.png",
+    "image": "character-mats/plagueherald.png",
     "xws": "plagueherald"
   },
   {
