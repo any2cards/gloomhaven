@@ -6,10 +6,10 @@
     "xws": "beasttyrantperks"
   },
   {
-    "name": "beserker perks",
+    "name": "berserker perks",
     "points": 1,
-    "image": "character-perks/beserker-perks.png",
-    "xws": "beserkerperks"
+    "image": "character-perks/berserker-perks.png",
+    "xws": "berserkerperks"
   },
   {
     "name": "bladeswarm perks",
