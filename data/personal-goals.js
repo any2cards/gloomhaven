@@ -150,153 +150,147 @@
     "xws": "pgback"
   },
   {
-    "name": "Seeker of Xorn",
+    "name": "seeker of xorn",
     "points": 25,
     "image": "personal-goals/pg-510.png",
     "xws": "pg510"
   },
   {
-    "name": "Merchant Class",
+    "name": "merchant class",
     "points": 26,
     "image": "personal-goals/pg-511.png",
     "xws": "pg511"
   },
   {
-    "name": "Greed Is Good",
+    "name": "greed is good",
     "points": 27,
     "image": "personal-goals/pg-512.png",
     "xws": "pg512"
   },
   {
-    "name": "Finding the Cure",
+    "name": "finding the cure",
     "points": 28,
     "image": "personal-goals/pg-513.png",
     "xws": "pg513"
   },
   {
-    "name": "A Study of Anatomy",
+    "name": "a study of anatomy",
     "points": 29,
     "image": "personal-goals/pg-514.png",
     "xws": "pg514"
   },
   {
-    "name": "Law Bringer",
+    "name": "law bringer",
     "points": 30,
     "image": "personal-goals/pg-515.png",
     "xws": "pg515"
   },
   {
-    "name": "Pounds of Flesh",
+    "name": "pounds of flesh",
     "points": 31,
     "image": "personal-goals/pg-516.png",
     "xws": "pg516"
   },
   {
-    "name": "Trophy Hunt",
+    "name": "trophy hunt",
     "points": 32,
     "image": "personal-goals/pg-517.png",
     "xws": "pg517"
   },
   {
-    "name": "Eternal Wanderer",
+    "name": "eternal wanderer",
     "points": 33,
     "image": "personal-goals/pg-518.png",
     "xws": "pg518"
   },
   {
-    "name": "Battle Legend",
+    "name": "battle legend",
     "points": 34,
     "image": "personal-goals/pg-519.png",
     "xws": "pg519"
   },
   {
-    "name": "Implement of Light",
+    "name": "implement of light",
     "points": 35,
     "image": "personal-goals/pg-520.png",
     "xws": "pg520"
   },
   {
-    "name": "Take Back the Trees",
+    "name": "take back the trees",
     "points": 36,
     "image": "personal-goals/pg-521.png",
     "xws": "pg521"
   },
   {
-    "name": "The Thin Places",
+    "name": "the thin places",
     "points": 37,
     "image": "personal-goals/pg-522.png",
     "xws": "pg522"
   },
   {
-    "name": "Aberrant Slayer",
+    "name": "aberrant slayer",
     "points": 38,
     "image": "personal-goals/pg-523.png",
     "xws": "pg523"
   },
   {
-    "name": "Fearless Stand",
+    "name": "fearless stand",
     "points": 39,
     "image": "personal-goals/pg-524.png",
     "xws": "pg524"
   },
   {
-    "name": "Piety in All Things",
+    "name": "piety in all things",
     "points": 40,
     "image": "personal-goals/pg-525.png",
     "xws": "pg525"
   },
   {
-    "name": "Vengeance",
+    "name": "vengeance",
     "points": 41,
     "image": "personal-goals/pg-526.png",
     "xws": "pg526"
   },
   {
-    "name": "Zealot of the Blood God",
+    "name": "zealot of the blood god",
     "points": 42,
     "image": "personal-goals/pg-527.png",
     "xws": "pg527"
   },
   {
-    "name": "Goliath Toppler",
+    "name": "goliath toppler",
     "points": 43,
     "image": "personal-goals/pg-528.png",
     "xws": "pg528"
   },
   {
-    "name": "The Fall of Man",
+    "name": "the fall of man",
     "points": 44,
     "image": "personal-goals/pg-529.png",
     "xws": "pg529"
   },
   {
-    "name": "Augmented Abilities",
+    "name": "augmented abilities",
     "points": 45,
     "image": "personal-goals/pg-530.png",
     "xws": "pg530"
   },
   {
-    "name": "Elemental Samples",
+    "name": "elemental samples",
     "points": 46,
     "image": "personal-goals/pg-531.png",
     "xws": "pg531"
   },
   {
-    "name": "A Helping Hand",
+    "name": "a helping hand",
     "points": 47,
     "image": "personal-goals/pg-532.png",
     "xws": "pg532"
   },
   {
-    "name": "The Perfect Poison",
+    "name": "the perfect poison",
     "points": 48,
     "image": "personal-goals/pg-533.png",
     "xws": "pg533"
-  },
-  {
-    "name": "pg-back",
-    "points": 49,
-    "image": "personal-goals/pg-back.png",
-    "xws": "pgback"
   }
 ]
