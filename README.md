@@ -10,10 +10,12 @@ This repository contains data and images for the following components:
 - battle-goals
 - character-ability-cards
 - character-mats
+- character-perks
 - events
-- item-cards
+- items
 - monster-ability-cards
 - personal-goals
+- random-dungeons
 
 There are two top-level directories; `data` and `images`.
 
