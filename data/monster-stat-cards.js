@@ -444,16 +444,16 @@
     "xws": "spittingdrake"
   },
   {
-    "name": "stone elemental",
+    "name": "stone golem",
     "points": 74,
-    "image": "monster-stat-cards/stone-elemental-0.png",
-    "xws": "stoneelemental"
+    "image": "monster-stat-cards/stone-golem-0.png",
+    "xws": "stonegolem"
   },
   {
-    "name": "stone elemental",
+    "name": "stone golem",
     "points": 75,
-    "image": "monster-stat-cards/stone-elemental-4.png",
-    "xws": "stoneelemental"
+    "image": "monster-stat-cards/stone-golem-4.png",
+    "xws": "stonegolem"
   },
   {
     "name": "sum demon",
