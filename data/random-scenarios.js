@@ -14,7 +14,7 @@
   {
     "name": "clockwork cove",
     "points": 2,
-    "image": "random-scenarios/clockwork cove.png",
+    "image": "random-scenarios/clockwork-cove.png",
     "xws": "clockworkcove"
   },
   {
@@ -74,7 +74,7 @@
   {
     "name": "random scenario 66",
     "points": 12,
-    "image": "random-scenarios/clockwork cove.png",
+    "image": "random-scenarios/clockwork-cove.png",
     "xws": "clockworkcove"
   },
   {
