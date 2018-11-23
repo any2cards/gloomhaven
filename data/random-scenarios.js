@@ -30,10 +30,10 @@
     "xws": "randomscenarioback"
   },
   {
-    "name": "sulfer mine",
+    "name": "sulfur mine",
     "points": 5,
-    "image": "random-scenarios/sulfer-mine.png",
-    "xws": "sulfermine"
+    "image": "random-scenarios/sulfur-mine.png",
+    "xws": "sulfurmine"
   },
   {
     "name": "toxic moor",
