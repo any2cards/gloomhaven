@@ -62,7 +62,7 @@
   {
     "name": "captain of the guard",
     "points": 10,
-    "image": "monster-stat-cards/capatin-of-the-guard-0.png",
+    "image": "monster-stat-cards/captain-of-the-guard-0.png",
     "xws": "captainoftheguard"
   },
   {
