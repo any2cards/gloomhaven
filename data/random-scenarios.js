@@ -86,7 +86,7 @@
   {
     "name": "random scenario 65",
     "points": 14,
-    "image": "random-scenarios/sulfer-mine.png",
+    "image": "random-scenarios/sulfur-mine.png",
     "xws": "sulfermine"
   },
   {
