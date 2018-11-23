@@ -1,15 +1,15 @@
 [
   {
-    "name": "ancient artillary",
+    "name": "ancient artillery",
     "points": 0,
-    "image": "monster-stat-cards/ancient-artillary-0.png",
-    "xws": "ancientartillary"
+    "image": "monster-stat-cards/ancient-artillery-0.png",
+    "xws": "ancientartillery"
   },
   {
-    "name": "ancient artillary",
+    "name": "ancient artillery",
     "points": 1,
-    "image": "monster-stat-cards/ancient-artillary-4.png",
-    "xws": "ancientartillary"
+    "image": "monster-stat-cards/ancient-artillery-4.png",
+    "xws": "ancientartillery"
   },
   {
     "name": "bandit archer",
