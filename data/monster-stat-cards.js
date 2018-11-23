@@ -456,7 +456,7 @@
     "xws": "stonegolem"
   },
   {
-    "name": "sum demon",
+    "name": "sun demon",
     "points": 76,
     "image": "monster-stat-cards/sun-demon-0.png",
     "xws": "sundemon"
