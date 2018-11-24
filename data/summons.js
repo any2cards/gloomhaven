@@ -26,18 +26,24 @@
   {
     "name": "summons",
     "points": 4,
-    "image": "summons/purple1.png",
+    "image": "summons/orange1.png",
     "xws": "summons"
   },
   {
     "name": "summons",
     "points": 5,
-    "image": "summons/red1.png",
+    "image": "summons/purple1.png",
     "xws": "summons"
   },
   {
     "name": "summons",
     "points": 6,
+    "image": "summons/red1.png",
+    "xws": "summons"
+  },
+  {
+    "name": "summons",
+    "points": 7,
     "image": "summons/yellow1.png",
     "xws": "summons"
   }
