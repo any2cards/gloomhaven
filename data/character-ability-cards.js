@@ -2694,10 +2694,10 @@
     "xws": "tranquiltrill"
   },
   {
-    "name": "turning the outcome",
+    "name": "tuning the outcome",
     "points": 449,
-    "image": "character-ability-cards/SS/turning-the-outcome.png",
-    "xws": "turningtheoutcome"
+    "image": "character-ability-cards/SS/tuning-the-outcome.png",
+    "xws": "tuningtheoutcome"
   },
   {
     "name": "unending chant",
