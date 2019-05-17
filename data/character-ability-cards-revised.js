@@ -1,5 +1,4 @@
 [
-{
   {
     "name": "bt-back",
     "points": 0,
