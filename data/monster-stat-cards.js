@@ -624,14 +624,26 @@
     "xws": "humancommander"
   },
   {
-    "name": "valrath commander",
+    "name": "manifestation of corruption",
     "points": 104,
+    "image": "monster-stat-cards/manifestation-of-corruption-0.png",
+    "xws": "manifestationofcorruption"
+  },
+  {
+    "name": "manifestation of corruption",
+    "points": 105,
+    "image": "monster-stat-cards/manifestation-of-corruption-4.png",
+    "xws": "manifestationofcorruption"
+  },
+  {
+    "name": "valrath commander",
+    "points": 106,
     "image": "monster-stat-cards/valrath-commander-0.png",
     "xws": "valrathcommander"
   },
   {
     "name": "valrath commander",
-    "points": 105,
+    "points": 107,
     "image": "monster-stat-cards/valrath-commander-4.png",
     "xws": "valrathcommander"
   }
