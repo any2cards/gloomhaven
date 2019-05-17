@@ -1894,5 +1894,113 @@
     "points": 315,
     "image": "events/expeditions/into-the-unknown/re-m6-f.png",
     "xws": "rem6f"
+  },
+  {
+    "name": "ce-82-b",
+    "points": 316,
+    "image": "events/base/city/ce-82-b.png",
+    "xws": "ce82b"
+  },
+  {
+    "name": "ce-82-f",
+    "points": 317,
+    "image": "events/base/city/ce-82-f.png",
+    "xws": "ce82f"
+  },
+  {
+    "name": "ce-83-b",
+    "points": 318,
+    "image": "events/base/city/ce-83-b.png",
+    "xws": "ce83b"
+  },
+  {
+    "name": "ce-83-f",
+    "points": 319,
+    "image": "events/base/city/ce-83-f.png",
+    "xws": "ce83f"
+  },
+  {
+    "name": "ce-84-b",
+    "points": 320,
+    "image": "events/base/city/ce-84-b.png",
+    "xws": "ce84b"
+  },
+  {
+    "name": "ce-84-f",
+    "points": 321,
+    "image": "events/base/city/ce-84-f.png",
+    "xws": "ce84f"
+  },
+  {
+    "name": "ce-85-b",
+    "points": 322,
+    "image": "events/base/city/ce-85-b.png",
+    "xws": "ce85b"
+  },
+  {
+    "name": "ce-85-f",
+    "points": 323,
+    "image": "events/base/city/ce-85-f.png",
+    "xws": "ce85f"
+  },
+  {
+    "name": "ce-86-b",
+    "points": 324,
+    "image": "events/base/city/ce-86-b.png",
+    "xws": "ce86b"
+  },
+  {
+    "name": "ce-86-f",
+    "points": 325,
+    "image": "events/base/city/ce-86-f.png",
+    "xws": "ce86f"
+  },
+  {
+    "name": "ce-87-b",
+    "points": 326,
+    "image": "events/base/city/ce-87-b.png",
+    "xws": "ce87b"
+  },
+  {
+    "name": "ce-87-f",
+    "points": 327,
+    "image": "events/base/city/ce-87-f.png",
+    "xws": "ce87f"
+  },
+  {
+    "name": "ce-88-b",
+    "points": 328,
+    "image": "events/base/city/ce-88-b.png",
+    "xws": "ce88b"
+  },
+  {
+    "name": "ce-88-f",
+    "points": 329,
+    "image": "events/base/city/ce-88-f.png",
+    "xws": "ce88f"
+  },
+  {
+    "name": "ce-89-b",
+    "points": 330,
+    "image": "events/base/city/ce-89-b.png",
+    "xws": "ce89b"
+  },
+  {
+    "name": "ce-89-f",
+    "points": 331,
+    "image": "events/base/city/ce-89-f.png",
+    "xws": "ce89f"
+  },
+  {
+    "name": "ce-90-b",
+    "points": 332,
+    "image": "events/base/city/ce-90-b.png",
+    "xws": "ce90b"
+  },
+  {
+    "name": "ce-90-f",
+    "points": 333,
+    "image": "events/base/city/ce-90-f.png",
+    "xws": "ce90f"
   }
 ]
