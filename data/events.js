@@ -2109,7 +2109,7 @@
     "name": "rf-07-f",
     "points": 351,
     "image": "events/base/rift/rf-07-f.png",
-    "xws": "rf07f"                                                                                                                                              9
+    "xws": "rf07f"
   },
   {
     "name": "rf-08-b",
