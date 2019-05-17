@@ -1564,5 +1564,293 @@
     "points": 260,
     "image": "monster-ability-cards/wind-demon/ma-wd-back.png",
     "xws": "mawdback"
+  },
+  {
+    "name": "ma-ab-1",
+    "points": 261,
+    "image": "monster-ability-cards/ashblade/ma-ab-1.png",
+    "xws": "maab1"
+  },
+  {
+    "name": "ma-ab-2",
+    "points": 262,
+    "image": "monster-ability-cards/ashblade/ma-ab-2.png",
+    "xws": "maab2"
+  },
+  {
+    "name": "ma-ab-3",
+    "points": 263,
+    "image": "monster-ability-cards/ashblade/ma-ab-3.png",
+    "xws": "maab3"
+  },
+  {
+    "name": "ma-ab-4",
+    "points": 264,
+    "image": "monster-ability-cards/ashblade/ma-ab-4.png",
+    "xws": "maab4"
+  },
+  {
+    "name": "ma-ab-5",
+    "points": 265,
+    "image": "monster-ability-cards/ashblade/ma-ab-5.png",
+    "xws": "maab5"
+  },
+  {
+    "name": "ma-ab-6",
+    "points": 266,
+    "image": "monster-ability-cards/ashblade/ma-ab-6.png",
+    "xws": "maab6"
+  },
+  {
+    "name": "ma-ab-7",
+    "points": 267,
+    "image": "monster-ability-cards/ashblade/ma-ab-7.png",
+    "xws": "maab7"
+  },
+  {
+    "name": "ma-ab-8",
+    "points": 268,
+    "image": "monster-ability-cards/ashblade/ma-ab-8.png",
+    "xws": "maab8"
+  },
+  {
+    "name": "ma-ab-back",
+    "points": 269,
+    "image": "monster-ability-cards/ashblade/ma-ab-back.png",
+    "xws": "maabback"
+  },
+  {
+    "name": "ma-sv-1",
+    "points": 270,
+    "image": "monster-ability-cards/savage/ma-sv-1.png",
+    "xws": "masv1"
+  },
+  {
+    "name": "ma-sv-2",
+    "points": 271,
+    "image": "monster-ability-cards/savage/ma-sv-2.png",
+    "xws": "masv2"
+  },
+  {
+    "name": "ma-sv-3",
+    "points": 272,
+    "image": "monster-ability-cards/savage/ma-sv-3.png",
+    "xws": "masv3"
+  },
+  {
+    "name": "ma-sv-4",
+    "points": 273,
+    "image": "monster-ability-cards/savage/ma-sv-4.png",
+    "xws": "masv4"
+  },
+  {
+    "name": "ma-sv-5",
+    "points": 274,
+    "image": "monster-ability-cards/savage/ma-sv-5.png",
+    "xws": "masv5"
+  },
+  {
+    "name": "ma-sv-6",
+    "points": 275,
+    "image": "monster-ability-cards/savage/ma-sv-6.png",
+    "xws": "masv6"
+  },
+  {
+    "name": "ma-sv-7",
+    "points": 276,
+    "image": "monster-ability-cards/savage/ma-sv-7.png",
+    "xws": "masv7"
+  },
+  {
+    "name": "ma-sv-8",
+    "points": 277,
+    "image": "monster-ability-cards/savage/ma-sv-8.png",
+    "xws": "masv8"
+  },
+  {
+    "name": "ma-sv-back",
+    "points": 278,
+    "image": "monster-ability-cards/savage/ma-sv-back.png",
+    "xws": "masvback"
+  },
+  {
+    "name": "ma-tr-1",
+    "points": 279,
+    "image": "monster-ability-cards/tracker/ma-tr-1.png",
+    "xws": "matr1"
+  },
+  {
+    "name": "ma-tr-2",
+    "points": 280,
+    "image": "monster-ability-cards/tracker/ma-tr-2.png",
+    "xws": "matr2"
+  },
+  {
+    "name": "ma-tr-3",
+    "points": 281,
+    "image": "monster-ability-cards/tracker/ma-tr-3.png",
+    "xws": "matr3"
+  },
+  {
+    "name": "ma-tr-4",
+    "points": 282,
+    "image": "monster-ability-cards/tracker/ma-tr-4.png",
+    "xws": "matr4"
+  },
+  {
+    "name": "ma-tr-5",
+    "points": 283,
+    "image": "monster-ability-cards/tracker/ma-tr-5.png",
+    "xws": "matr5"
+  },
+  {
+    "name": "ma-tr-6",
+    "points": 284,
+    "image": "monster-ability-cards/tracker/ma-tr-6.png",
+    "xws": "matr6"
+  },
+  {
+    "name": "ma-tr-7",
+    "points": 285,
+    "image": "monster-ability-cards/tracker/ma-tr-7.png",
+    "xws": "matr7"
+  },
+  {
+    "name": "ma-tr-8",
+    "points": 286,
+    "image": "monster-ability-cards/tracker/ma-tr-8.png",
+    "xws": "matr8"
+  },
+  {
+    "name": "ma-tr-back",
+    "points": 287,
+    "image": "monster-ability-cards/tracker/ma-tr-back.png",
+    "xws": "matrback"
+  },
+  {
+    "name": "blistering heat",
+    "points": 288,
+    "image": "monster-ability-cards/manifestation-of-corruption/blistering-heat.png",
+    "xws": "blisteringheat"
+  },
+  {
+    "name": "corrupting presence",
+    "points": 289,
+    "image": "monster-ability-cards/manifestation-of-corruption/corrupting-presence.png",
+    "xws": "corruptingpresence"
+  },
+  {
+    "name": "endless legions",
+    "points": 290,
+    "image": "monster-ability-cards/manifestation-of-corruption/endless-legions.png",
+    "xws": "endlesslegions"
+  },
+  {
+    "name": "flame lance",
+    "points": 291,
+    "image": "monster-ability-cards/manifestation-of-corruption/flame-lance.png",
+    "xws": "flamelance"
+  },
+  {
+    "name": "harsh entrapment",
+    "points": 292,
+    "image": "monster-ability-cards/manifestation-of-corruption/harsh-entrapment.png",
+    "xws": "harshentrapment"
+  },
+  {
+    "name": "heed my call",
+    "points": 293,
+    "image": "monster-ability-cards/manifestation-of-corruption/heed-my-call.png",
+    "xws": "heedmycall"
+  },
+  {
+    "name": "legendary - domination",
+    "points": 294,
+    "image": "monster-ability-cards/manifestation-of-corruption/legendary-domination.png",
+    "xws": "legendarydomination"
+  },
+  {
+    "name": "legendary - gloom",
+    "points": 295,
+    "image": "monster-ability-cards/manifestation-of-corruption/legendary-gloom.png",
+    "xws": "legendarygloom"
+  },
+  {
+    "name": "legendary - shadows",
+    "points": 296,
+    "image": "monster-ability-cards/manifestation-of-corruption/legendary-shadows.png",
+    "xws": "legendaryshadows"
+  },
+  {
+    "name": "legendary - void",
+    "points": 297,
+    "image": "monster-ability-cards/manifestation-of-corruption/legendary-void.png",
+    "xws": "legendaryvoid"
+  },
+  {
+    "name": "lure them in",
+    "points": 298,
+    "image": "monster-ability-cards/manifestation-of-corruption/lure-them-in.png",
+    "xws": "lurethemin"
+  },
+  {
+    "name": "marked for death",
+    "points": 299,
+    "image": "monster-ability-cards/manifestation-of-corruption/marked-for-death.png",
+    "xws": "markedfordeath"
+  },
+  {
+    "name": "mc-back",
+    "points": 300,
+    "image": "monster-ability-cards/manifestation-of-corruption/mc-back.png",
+    "xws": "mcback"
+  },
+  {
+    "name": "nightmare spheres",
+    "points": 301,
+    "image": "monster-ability-cards/manifestation-of-corruption/nightmare-spheres.png",
+    "xws": "nightmarespheres"
+  },
+  {
+    "name": "plague their dreams",
+    "points": 302,
+    "image": "monster-ability-cards/manifestation-of-corruption/plague-their-dreams.png",
+    "xws": "plaguetheirdreams"
+  },
+  {
+    "name": "pulse of malice",
+    "points": 303,
+    "image": "monster-ability-cards/manifestation-of-corruption/pulse-of-malice.png",
+    "xws": "pulseofmalice"
+  },
+  {
+    "name": "searing vapors",
+    "points": 304,
+    "image": "monster-ability-cards/manifestation-of-corruption/searing vapors.png",
+    "xws": "searingvapors"
+  },
+  {
+    "name": "toxic blast",
+    "points": 305,
+    "image": "monster-ability-cards/manifestation-of-corruption/toxic-blast.png",
+    "xws": "toxicblast"
+  },
+  {
+    "name": "unfathomable fortitude",
+    "points": 306,
+    "image": "monster-ability-cards/manifestation-of-corruption/unfathomable-fortitude.png",
+    "xws": "unfathomablefortitude"
+  },
+  {
+    "name": "what's yours is mine",
+    "points": 307,
+    "image": "monster-ability-cards/manifestation-of-corruption/whats-yours-is-mine.png",
+    "xws": "whatsyoursismine"
+  },
+  {
+    "name": "you dare to defy me",
+    "points": 308,
+    "image": "monster-ability-cards/manifestation-of-corruption/you-dare-to-defy-me.png",
+    "xws": "youdaretodefyme"
   }
 ]

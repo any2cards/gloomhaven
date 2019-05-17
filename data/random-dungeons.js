@@ -502,5 +502,29 @@
     "points": 83,
     "image": "random-dungeons/monsters/monster-wild.png",
     "xws": "randomdungeonwild"
+  },
+  {
+    "name": "random dungeon arid",
+    "points": 84,
+    "image": "random-dungeons/monsters/monster-arid.png",
+    "xws": "randomdungeonarid"
+  },
+  {
+    "name": "random dungeon ethereal",
+    "points": 85,
+    "image": "random-dungeons/monsters/monster-ethereal.png",
+    "xws": "randomdungeonethereal"
+  },
+  {
+    "name": "random dungeon 622",
+    "points": 86,
+    "image": "random-dungeons/monsters/monster-arid.png",
+    "xws": "randomdungeonarid"
+  },
+  {
+    "name": "random dungeon 623",
+    "points": 87,
+    "image": "random-dungeons/monsters/monster-ethereal.png",
+    "xws": "randomdungeonethereal"
   }
 ]

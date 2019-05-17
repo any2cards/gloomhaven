@@ -562,5 +562,77 @@
     "points": 93,
     "image": "monster-stat-cards/winged-horror-4.png",
     "xws": "wingedhorror"
+  },
+  {
+    "name": "aesther ashblade",
+    "points": 94,
+    "image": "monster-stat-cards/aesther-ashblade-0.png",
+    "xws": "aestherashblade"
+  },
+  {
+    "name": "aesther ashblade",
+    "points": 95,
+    "image": "monster-stat-cards/aesther-ashblade-4.png",
+    "xws": "aestherashblade"
+  },
+  {
+    "name": "aesther scout",
+    "points": 96,
+    "image": "monster-stat-cards/aesther-scout-0.png",
+    "xws": "aestherscout"
+  },
+  {
+    "name": "aesther scout",
+    "points": 97,
+    "image": "monster-stat-cards/aesther-scout-4.png",
+    "xws": "aestherscout"
+  },
+  {
+    "name": "valrath savage",
+    "points": 98,
+    "image": "monster-stat-cards/valrath-savage-0.png",
+    "xws": "valrathsavage"
+  },
+  {
+    "name": "valrath savage",
+    "points": 99,
+    "image": "monster-stat-cards/valrath-savage-4.png",
+    "xws": "valrathsavage"
+  },
+  {
+    "name": "valrath tracker",
+    "points": 100,
+    "image": "monster-stat-cards/valrath-tracker-0.png",
+    "xws": "valrathtracker"
+  },
+  {
+    "name": "valrath tracker",
+    "points": 101,
+    "image": "monster-stat-cards/valrath-tracker-4.png",
+    "xws": "valrathtracker"
+  },
+  {
+    "name": "human commander",
+    "points": 102,
+    "image": "monster-stat-cards/human-commander-0.png",
+    "xws": "humancommander"
+  },
+  {
+    "name": "human commander",
+    "points": 103,
+    "image": "monster-stat-cards/human-commander-4.png",
+    "xws": "humancommander"
+  },
+  {
+    "name": "valrath commander",
+    "points": 104,
+    "image": "monster-stat-cards/valrath-commander-0.png",
+    "xws": "valrathcommander"
+  },
+  {
+    "name": "valrath commander",
+    "points": 105,
+    "image": "monster-stat-cards/valrath-commander-4.png",
+    "xws": "valrathcommander"
   }
 ]
