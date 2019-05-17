@@ -2002,5 +2002,17 @@
     "points": 333,
     "image": "events/base/city/ce-90-f.png",
     "xws": "ce90f"
+  },
+  {
+    "name": "re-82-b",
+    "points": 334,
+    "image": "events/base/road/re-82-b.png",
+    "xws": "re82b"
+  },
+  {
+    "name": "re-82-f",
+    "points": 335,
+    "image": "events/base/road/re-82-f.png",
+    "xws": "re82f"
   }
 ]
