@@ -1842,7 +1842,7 @@
     "xws": "unfathomablefortitude"
   },
   {
-    "name": "what's yours is mine",
+    "name": "whats yours is mine",
     "points": 307,
     "image": "monster-ability-cards/manifestation-of-corruption/whats-yours-is-mine.png",
     "xws": "whatsyoursismine"
