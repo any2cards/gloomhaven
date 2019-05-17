@@ -2026,5 +2026,245 @@
     "points": 337,
     "image": "events/base/road/re-83-f.png",
     "xws": "re83f"
+  },
+  {
+    "name": "rf-01-b",
+    "points": 338,
+    "image": "events/base/rift/rf-01-b.png",
+    "xws": "rf01b"
+  },
+  {
+    "name": "rf-01-f",
+    "points": 339,
+    "image": "events/base/rift/rf-01-f.png",
+    "xws": "rf01f"
+  },
+  {
+    "name": "rf-02-b",
+    "points": 340,
+    "image": "events/base/rift/rf-02-b.png",
+    "xws": "rf02b"
+  },
+  {
+    "name": "rf-02-f",
+    "points": 341,
+    "image": "events/base/rift/rf-02-f.png",
+    "xws": "rf02f"
+  },
+  {
+    "name": "rf-03-b",
+    "points": 342,
+    "image": "events/base/rift/rf-03-b.png",
+    "xws": "rf03b"
+  },
+  {
+    "name": "rf-03-f",
+    "points": 343,
+    "image": "events/base/rift/rf-03-f.png",
+    "xws": "rf03f"
+  },
+  {
+    "name": "rf-04-b",
+    "points": 344,
+    "image": "events/base/rift/rf-04-b.png",
+    "xws": "rf04b"
+  },
+  {
+    "name": "rf-04-f",
+    "points": 345,
+    "image": "events/base/rift/rf-04-f.png",
+    "xws": "rf04f"
+  },
+  {
+    "name": "rf-05-b",
+    "points": 346,
+    "image": "events/base/rift/rf-05-b.png",
+    "xws": "rf05b"
+  },
+  {
+    "name": "rf-05-f",
+    "points": 347,
+    "image": "events/base/rift/rf-05-f.png",
+    "xws": "rf05f"
+  },
+  {
+    "name": "rf-06-b",
+    "points": 348,
+    "image": "events/base/rift/rf-06-b.png",
+    "xws": "rf06b"
+  },
+  {
+    "name": "rf-06-f",
+    "points": 349,
+    "image": "events/base/rift/rf-06-f.png",
+    "xws": "rf06f"
+  },
+  {
+    "name": "rf-07-b",
+    "points": 350,
+    "image": "events/base/rift/rf-07-b.png",
+    "xws": "rf07b"
+  },
+  {
+    "name": "rf-07-f",
+    "points": 351,
+    "image": "events/base/rift/rf-07-f.png",
+    "xws": "rf07f"                                                                                                                                              9
+  },
+  {
+    "name": "rf-08-b",
+    "points": 352,
+    "image": "events/base/rift/rf-08-b.png",
+    "xws": "rf08b"
+  },
+  {
+    "name": "rf-08-f",
+    "points": 353,
+    "image": "events/base/rift/rf-08-f.png",
+    "xws": "rf08f"
+  },
+  {
+    "name": "rf-09-b",
+    "points": 354,
+    "image": "events/base/rift/rf-09-b.png",
+    "xws": "rf09b"
+  },
+  {
+    "name": "rf-09-f",
+    "points": 355,
+    "image": "events/base/rift/rf-09-f.png",
+    "xws": "rf09f"
+  },
+  {
+    "name": "rf-10-b",
+    "points": 356,
+    "image": "events/base/rift/rf-10-b.png",
+    "xws": "rf10b"
+  },
+  {
+    "name": "rf-10-f",
+    "points": 357,
+    "image": "events/base/rift/rf-10-f.png",
+    "xws": "rf10f"
+  },
+  {
+    "name": "rf-11-b",
+    "points": 358,
+    "image": "events/base/rift/rf-11-b.png",
+    "xws": "rf11b"
+  },
+  {
+    "name": "rf-11-f",
+    "points": 359,
+    "image": "events/base/rift/rf-11-f.png",
+    "xws": "rf11f"
+  },
+  {
+    "name": "rf-12-b",
+    "points": 360,
+    "image": "events/base/rift/rf-12-b.png",
+    "xws": "rf12b"
+  },
+  {
+    "name": "rf-12-f",
+    "points": 361,
+    "image": "events/base/rift/rf-12-f.png",
+    "xws": "rf12f"
+  },
+  {
+    "name": "rf-13-b",
+    "points": 362,
+    "image": "events/base/rift/rf-13-b.png",
+    "xws": "rf13b"
+  },
+  {
+    "name": "rf-13-f",
+    "points": 363,
+    "image": "events/base/rift/rf-13-f.png",
+    "xws": "rf13f"
+  },
+  {
+    "name": "rf-14-b",
+    "points": 364,
+    "image": "events/base/rift/rf-14-b.png",
+    "xws": "rf14b"
+  },
+  {
+    "name": "rf-14-f",
+    "points": 365,
+    "image": "events/base/rift/rf-14-f.png",
+    "xws": "rf14f"
+  },
+  {
+    "name": "rf-15-b",
+    "points": 366,
+    "image": "events/base/rift/rf-15-b.png",
+    "xws": "rf15b"
+  },
+  {
+    "name": "rf-15-f",
+    "points": 367,
+    "image": "events/base/rift/rf-15-f.png",
+    "xws": "rf15f"
+  },
+  {
+    "name": "rf-16-b",
+    "points": 368,
+    "image": "events/base/rift/rf-16-b.png",
+    "xws": "rf16b"
+  },
+  {
+    "name": "rf-16-f",
+    "points": 369,
+    "image": "events/base/rift/rf-16-f.png",
+    "xws": "rf16f"
+  },
+  {
+    "name": "rf-17-b",
+    "points": 370,
+    "image": "events/base/rift/rf-17-b.png",
+    "xws": "rf17b"
+  },
+  {
+    "name": "rf-17-f",
+    "points": 371,
+    "image": "events/base/rift/rf-17-f.png",
+    "xws": "rf17f"
+  },
+  {
+    "name": "rf-18-b",
+    "points": 372,
+    "image": "events/base/rift/rf-18-b.png",
+    "xws": "rf18b"
+  },
+  {
+    "name": "rf-18-f",
+    "points": 373,
+    "image": "events/base/rift/rf-18-f.png",
+    "xws": "rf18f"
+  },
+  {
+    "name": "rf-19-b",
+    "points": 374,
+    "image": "events/base/rift/rf-19-b.png",
+    "xws": "rf19b"
+  },
+  {
+    "name": "rf-19-f",
+    "points": 375,
+    "image": "events/base/rift/rf-19-f.png",
+    "xws": "rf19f"
+  },
+  {
+    "name": "rf-20-b",
+    "points": 376,
+    "image": "events/base/rift/rf-20-b.png",
+    "xws": "rf20b"
+  },
+  {
+    "name": "rf-20-f",
+    "points": 377,
+    "image": "events/base/rift/rf-20-f.png",
+    "xws": "rf20f"
   }
 ]
