@@ -2014,5 +2014,17 @@
     "points": 335,
     "image": "events/base/road/re-82-f.png",
     "xws": "re82f"
+  },
+  {
+    "name": "re-83-b",
+    "points": 336,
+    "image": "events/base/road/re-83-b.png",
+    "xws": "re83b"
+  },
+  {
+    "name": "re-83-f",
+    "points": 337,
+    "image": "events/base/road/re-83-f.png",
+    "xws": "re83f"
   }
 ]
