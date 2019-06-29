@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "name": "Gloomhaven Card Viewer",
+  "description": "Adds card images when it finds card names from the Gloomhaven game.",
+  "version": "1.9.0",
+  "web_accessible_resources": [
+    "icon-32.png"
+  ],
+  "content_scripts": [{
+    "matches": [
+      "*://*.fantasyflightgames.com/*",
+      "*://*.boardgamegeek.com/*",
+	  "*://*.reddit.com/r/Gloomhaven/*",
+	  "*://*.facebook.com/groups/646259685567420/*"
+    ],
+    "js": [
+      "content.js"
+    ],
+    "css": [
+      "content.css"
+    ],
+    "run_at": "document_idle"
+  }],
+  "browser_action": {
+    "default_icon": {
+      "32": "icon-32.png",
+      "48": "icon-48.png",
+      "128": "icon-128.png"
+    }
+  }
+}
