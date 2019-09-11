@@ -192,16 +192,17 @@ function moveTooltip(e) {
     const right = x + (amountOfMatches * (cardWidth + imagePadding)) + 20;
 
     if (right > windowRightBound) {
-      x -= right - windowRightBound;
-    }
-
-	if (y + cardHeight > window.scrollY + window.innerHeight) {
-      y = y - ( (y + cardHeight) - (window.scrollY + window.innerHeight) ) - 20;
+      x = 0;
     }
 
     if (x < 0) {
 	  x = 0;
 	}
+
+	if (y + cardHeight > window.scrollY + window.innerHeight) {
+      y = y - ( (y + cardHeight) - (window.scrollY + window.innerHeight) ) - 20;
+    }
+
 	if (y < 0) {
 	  y = 0;
 	}
