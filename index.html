@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+	<head>
+		<title>GCV Card Viewer - Test Page</title>
+		<meta charset="utf-8">
+		<!--
+		<script src="https://code.jquery.com/jquery.min.js"></script>
+		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+		-->
+		<script src="https://code.jquery.com/jquery-3.4.0.js"></script>
+		<script src="https://code.jquery.com/jquery-3.4.0.min.js"></script>
+		<!-- link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/font-awesome.min.css" -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<style>
+			.cdcRed {
+				color:red;
+			}
+			.accordion {
+				padding-left: 40px;
+			}
+			h1 .fa, h2 .fa, h3 .fa {
+				font-size: 10px;
+			}
+			.TextZone {
+				//to be used for custom display of the text;
+				padding-left: 40px;
+			}
+			.title {
+				top: 0;
+				left: 0;
+				position: fixed;
+				font-size: 10px;
+				padding: 5px;
+				margin: 5px 0 0 5px;
+				border-radius: 5px;
+				text-align: center;
+				border: 1px solid #9999ff;
+				background-color: #dddddd;
+			}
+		</style>
+		<script>
+			// at statup hide all
+			function Initialize(){
+				var $accordionIO = $('.accordion h1, h2, h3');
+				$accordionIO.next('div').hide();
+
+				$(".accordion h1, h2, h3").click(function() {
+					//catch icon to switch from + to - and the opposite
+					var Icon = $(this).children().first();
+
+					//catch zone do expand collapse
+					var LinkedTextZone = $(this).next();
+
+					if (Icon.hasClass('fa-plus')) {
+						//switch icin from + to -
+						Icon.removeClass('fa-plus').addClass('fa-minus');
+						//expand text Zone
+						LinkedTextZone.slideDown();
+					}
+					else {
+						//switch icin from - to +
+						Icon.removeClass('fa-minus').addClass('fa-plus');
+						//collapse text Zone
+						LinkedTextZone.slideUp();
+					}
+				})
+				$(".title").click(function() {
+					var Icon = $(this).children().first();
+					var $AllTextZones = $('.accordion h1, h2, h3');
+					if (Icon.hasClass('fa-minus')) {
+						//switch all icons from + to -
+						$('.fa-plus').removeClass('fa-plus').addClass('fa-minus');
+						//title icon is opposite of all others
+						Icon.removeClass('fa-minus').addClass('fa-plus');
+
+						//expand all
+						$AllTextZones.next('div').slideDown();
+					}
+					else {
+						//switch all icons from - to +
+						$('.fa-minus').removeClass('fa-minus').addClass('fa-plus');
+						//title icon is opposite of all others
+						Icon.removeClass('fa-plus').addClass('fa-minus');
+
+						//collapse all
+						$AllTextZones.next('div').slideUp();
+					}
+				})
+			}
+		</script>
+	</head>
+	<body onload="Initialize()">
+		<div class="title">
+			<i class="fa fa-minus"></i>
+			<br />
+			to All
+		</div>
+
+        <h1 align="center"> GCV Card Viewer - Test Page</h1>
+        <h1 align="center" class="cdcRed"> 		Community Driven Content: Entire Sections or Individual Entries Appear in RED Text </h1>
+
+		<div class="accordion">
+			<h1><i class="fa fa-plus"></i> Attack Modifiers </h1>
+			<div class="TextZone">
+				<div class="accordion">
+					<h2><i class="fa fa-plus"></i> Base </h2>
+					<div class="TextZone">
+						<div class="accordion">
+							<h2><i class="fa fa-plus"></i> Monster </h2>
+								<ul>
+									<li>am-m-01</li>
+									<li>am-m-02</li>
+									<li>am-m-03</li>
+									<li>am-m-04</li>
+									<li>am-m-05</li>
+									<li>am-m-06</li>
+									<li>am-m-07</li>
+									<li>am-m-08</li>
+									<li>am-m-09</li>
+									<li>am-m-10</li>
+									<li>am-m-11</li>
+									<li>am-m-12</li>
+									<li>am-m-13</li>
+									<li>am-m-14</li>
+									<li>am-m-15</li>
+									<li>am-m-16</li>
+									<li>am-m-17</li>
+									<li>am-m-18</li>
+									<li>am-m-19</li>
+									<li>am-m-20</li>
+								</ul>
+							<h2><i class="fa fa-plus"></i> Monster Mod</h2>
+								<ul>
+									<li>am-mm-01</li>
+									<li>am-mm-02</li>
+									<li>am-mm-03</li>
+									<li>am-mm-04</li>
+									<li>am-mm-05</li>
+									<li>am-mm-06</li>
+									<li>am-mm-07</li>
+									<li>am-mm-08</li>
+									<li>am-mm-09</li>
+									<li>am-mm-10</li>
+								</ul>
+							<h2><i class="fa fa-plus"></i> Player </h2>
+								<ul>
+									<li>am-p-01</li>
+									<li>am-p-02</li>
+									<li>am-p-03</li>
+									<li>am-p-04</li>
+									<li>am-p-05</li>
+									<li>am-p-06</li>
+									<li>am-p-07</li>
+									<li>am-p-08</li>
+									<li>am-p-09</li>
+									<li>am-p-10</li>
+									<li>am-p-11</li>
+									<li>am-p-12</li>
+									<li>am-p-13</li>
+									<li>am-p-14</li>
+									<li>am-p-15</li>
+									<li>am-p-16</li>
+									<li>am-p-17</li>
+									<li>am-p-18</li>
+									<li>am-p-19</li>
+									<li>am-p-20</li>
+								</ul>
+							<h2><i class="fa fa-plus"></i> Player Mod</h2>
+								<ul>
+									<li>am-pm-01</li>
+									<li>am-pm-02</li>
+									<li>am-pm-03</li>
+									<li>am-pm-04</li>
+									<li>am-pm-05</li>
+									<li>am-pm-06</li>
+									<li>am-pm-07</li>
+									<li>am-pm-08</li>
+									<li>am-pm-09</li>
+									<li>am-pm-10</li>
+									<li>am-pm-11</li>
+									<li>am-pm-12</li>
+									<li>am-pm-13</li>
+									<li>am-pm-14</li>
+									<li>am-pm-15</li>
+									<li>am-pm-16</li>
+									<li>am-pm-17</li>
+									<li>am-pm-18</li>
+									<li>am-pm-19</li>
+									<li>am-pm-20</li>
+									<li>am-pm-21</li>
+									<li>am-pm-22</li>
+									<li>am-pm-23</li>
+									<li>am-pm-24</li>
+									<li>am-pm-25</li>
+									<li>am-pm-26</li>
+									<li>am-pm-27</li>
+									<li>am-pm-28</li>
+									<li>am-pm-29</li>
+									<li>am-pm-30</li>
+									<li>am-pm-31</li>
+									<li>am-pm-32</li>
+									<li>am-pm-33</li>
+									<li>am-pm-34</li>
+									<li>am-pm-35</li>
+								</ul>
+						</div>
+					</div>
+				</div>
+				<div class="accordion">
+					<h2><i class="fa fa-plus"></i> BE </h2>
+					<div class="TextZone">
+						<ul>
+							<li>am-be-01</li>
+							<li>am-be-02</li>
+							<li>am-be-03</li>
+							<li>am-be-04</li>
+							<li>am-be-05</li>
+							<li>am-be-06</li>
+							<li>am-be-07</li>
+							<li>am-be-08</li>
+							<li>am-be-09</li>
+							<li>am-be-10</li>
+							<li>am-be-11</li>
+							<li>am-be-12</li>
+							<li>am-be-13</li>
+							<li>am-be-14</li>
+							<li>am-be-15</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
