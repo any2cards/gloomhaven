@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Gloomhaven Card Viewer",
   "description": "Adds card images when it finds card names from the Gloomhaven game.",
-  "version": "2.6.2",
+  "version": "2.6.3",
   "web_accessible_resources": [
     "icon-32.png"
   ],
@@ -11,7 +11,8 @@
       "*://*.fantasyflightgames.com/*",
       "*://*.boardgamegeek.com/*",
 	  "*://*.reddit.com/r/Gloomhaven/*",
-	  "*://*.facebook.com/groups/646259685567420/*"
+	  "*://*.facebook.com/groups/646259685567420/*",
+	  "*://any2cards.github.io/gloomhaven/*"
     ],
     "js": [
       "content.js"
