@@ -9,13 +9,20 @@ This repository contains data and images for the following components:
 - attack-modifiers
 - battle-goals
 - character-ability-cards
+- character-ability-cards-revised
 - character-mats
 - character-perks
 - events
 - items
 - monster-ability-cards
+- monster-stat-cards
+- overlay-tokens
 - personal-goals
+- player-aid-cards
 - random-dungeons
+- random-scenarios
+- summons
+- world-map
 
 There are two top-level directories; `data` and `images`.
 
@@ -53,7 +60,8 @@ When adding images please use [TinyPNG](https://tinypng.com/) to reduce their fi
 
 A list of projects that use this content:
 
-- [Gloomhaven Card Viewer](https://chrome.google.com/webstore/search/gloomhaven%20card%20viewer) (Chrome Extension)
+- [Gloomhaven Card Viewer](https://chrome.google.com/webstore/detail/gloomhaven-card-viewer/gjiegeogakafejcpakamlkjgdoeiecnk) (Chrome Extension)
+- [Gloomhaven Card Viewer](https://addons.mozilla.org/en-US/firefox/addon/gloomhaven-card-viewer/) (Firefox Add-On)
 
 Want your project listed here? [Let us know!](https://github.com/any2cards/gloomhaven/issues/new?title=Add%20Project)
 
