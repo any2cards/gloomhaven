@@ -10,7 +10,6 @@ const files = [
   'map-tiles.js',
   'monster-ability-cards.js',
   'monster-stat-cards.js',
-  'overlay-tokens.js',
   'personal-goals.js',
   'player-aid-cards.js',
   'random-dungeons.js',
@@ -18,6 +17,9 @@ const files = [
   'summons.js',
   'world-map.js',
 ]
+
+//  'overlay-tokens.js',
+
 
 const repoBaseUrl = 'https://raw.githubusercontent.com/any2cards/gloomhaven/master';
 const imgUrl = `${repoBaseUrl}/images/`;
