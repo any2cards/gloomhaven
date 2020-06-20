@@ -6,6 +6,7 @@ const files = [
   'character-mats.js',
   'character-perks.js',
   'events.js',
+  'events-revised.js',
   'items.js',
   'map-tiles.js',
   'monster-ability-cards.js',
