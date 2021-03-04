@@ -6,10 +6,10 @@
     "xws": "aggressor"
   },
   {
-    "name": "battlegoal-back",
+    "name": "battle-goals-back",
     "points": 1,
-    "image": "battle-goals/battlegoal-back.png",
-    "xws": "battlegoalback"
+    "image": "battle-goals/battle-goals-back.png",
+    "xws": "battlegoalsback"
   },
   {
     "name": "diehard",
@@ -38,7 +38,7 @@
   {
     "name": "fast healer",
     "points": 6,
-    "image": "battle-goals/fasthealer.png",
+    "image": "battle-goals/fast-healer.png",
     "xws": "fasthealer"
   },
   {
