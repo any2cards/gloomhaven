@@ -1982,217 +1982,217 @@
   {
     "name": "imposing blade",
     "points": 330,
-    "image": "items/64-151/imposing-blade.png",
+    "image": "items/64-151/134-imposing-blade.png",
     "xws": "imposingblade"
   },
   {
     "name": "imposing blade",
     "points": 331,
-    "image": "items/64-151/imposing-blade-back.png",
+    "image": "items/64-151/134-imposing-blade-back.png",
     "xws": "imposingblade"
   },
   {
     "name": "focusing ray",
     "points": 332,
-    "image": "items/64-151/focusing-ray.png",
+    "image": "items/64-151/135-focusing-ray.png",
     "xws": "focusingray"
   },
   {
     "name": "focusing ray",
     "points": 333,
-    "image": "items/64-151/focusing-ray-back.png",
+    "image": "items/64-151/135-focusing-ray-back.png",
     "xws": "focusingray"
   },
   {
     "name": "volatile elixir",
     "points": 334,
-    "image": "items/64-151/volatile-elixir.png",
+    "image": "items/64-151/136-volatile-elixir.png",
     "xws": "volatileelixir"
   },
   {
     "name": "volatile elixir",
     "points": 335,
-    "image": "items/64-151/volatile-elixir-back.png",
+    "image": "items/64-151/136-volatile-elixir-back.png",
     "xws": "volatileelixir"
   },
   {
     "name": "silent stiletto",
     "points": 336,
-    "image": "items/64-151/silent-stiletto.png",
+    "image": "items/64-151/137-silent-stiletto.png",
     "xws": "silentstiletto"
   },
   {
     "name": "silent stiletto",
     "points": 337,
-    "image": "items/64-151/silent-stiletto-back.png",
+    "image": "items/64-151/137-silent-stiletto-back.png",
     "xws": "silentstiletto"
   },
   {
     "name": "stone charm",
     "points": 338,
-    "image": "items/64-151/stone-charm.png",
+    "image": "items/64-151/138-stone-charm.png",
     "xws": "stonecharm"
   },
   {
     "name": "stone charm",
     "points": 339,
-    "image": "items/64-151/stone-charm-back.png",
+    "image": "items/64-151/138-stone-charm-back.png",
     "xws": "stonecharm"
   },
   {
     "name": "psychic knife",
     "points": 340,
-    "image": "items/64-151/psychic-knife.png",
+    "image": "items/64-151/139-psychic-knife.png",
     "xws": "psychicknife"
   },
   {
     "name": "psychic knife",
     "points": 341,
-    "image": "items/64-151/psychic-knife-back.png",
+    "image": "items/64-151/139-psychic-knife-back.png",
     "xws": "psychicknife"
   },
   {
     "name": "sun shield",
     "points": 342,
-    "image": "items/64-151/sun-shield.png",
+    "image": "items/64-151/140-sun-shield.png",
     "xws": "sunshield"
   },
   {
     "name": "sun shield",
     "points": 343,
-    "image": "items/64-151/sun-shield-back.png",
+    "image": "items/64-151/140-sun-shield-back.png",
     "xws": "sunshield"
   },
   {
     "name": "utility belt",
     "points": 344,
-    "image": "items/64-151/utility-belt.png",
+    "image": "items/64-151/141-utility-belt.png",
     "xws": "utilitybelt"
   },
   {
     "name": "utility belt",
     "points": 345,
-    "image": "items/64-151/utility-belt-back.png",
+    "image": "items/64-151/141-utility-belt-back.png",
     "xws": "utilitybelt"
   },
   {
     "name": "phasing idol",
     "points": 346,
-    "image": "items/64-151/phasing-idol.png",
+    "image": "items/64-151/142-phasing-idol.png",
     "xws": "phasingidol"
   },
   {
     "name": "phasing idol",
     "points": 347,
-    "image": "items/64-151/phasing-idol-back.png",
+    "image": "items/64-151/142-phasing-idol-back.png",
     "xws": "phasingidol"
   },
   {
     "name": "smoke elixir",
     "points": 348,
-    "image": "items/64-151/smoke-elixir.png",
+    "image": "items/64-151/143-smoke-elixir.png",
     "xws": "smokeelixir"
   },
   {
     "name": "smoke elixir",
     "points": 349,
-    "image": "items/64-151/smoke-elixir-back.png",
+    "image": "items/64-151/143-smoke-elixir-back.png",
     "xws": "smokeelixir"
   },
   {
     "name": "pendant of the plague",
     "points": 350,
-    "image": "items/64-151/pendant-of-the-plague.png",
+    "image": "items/64-151/144-pendant-of-the-plague.png",
     "xws": "pendantoftheplague"
   },
   {
     "name": "pendant of the plague",
     "points": 351,
-    "image": "items/64-151/pendant-of-the-plague-back.png",
+    "image": "items/64-151/144-pendant-of-the-plague-back.png",
     "xws": "pendantoftheplague"
   },
   {
     "name": "mask of death",
     "points": 352,
-    "image": "items/64-151/mask-of-death.png",
+    "image": "items/64-151/145-mask-of-death.png",
     "xws": "maskofdeath"
   },
   {
     "name": "mask of death",
     "points": 353,
-    "image": "items/64-151/mask-of-death-back.png",
+    "image": "items/64-151/145-mask-of-death-back.png",
     "xws": "maskofdeath"
   },
   {
     "name": "master's lute",
     "points": 354,
-    "image": "items/64-151/masters-lute.png",
+    "image": "items/64-151/146-masters-lute.png",
     "xws": "masterslute"
   },
   {
     "name": "master's lute",
     "points": 355,
-    "image": "items/64-151/masters-lute-back.png",
+    "image": "items/64-151/146-masters-lute-back.png",
     "xws": "masterslute"
   },
   {
     "name": "cloak of the hunter",
     "points": 356,
-    "image": "items/64-151/cloak-of-the-hunter.png",
+    "image": "items/64-151/147-cloak-of-the-hunter.png",
     "xws": "cloakofthehunter"
   },
   {
     "name": "cloak of the hunter",
     "points": 357,
-    "image": "items/64-151/cloak-of-the-hunter-back.png",
+    "image": "items/64-151/147-cloak-of-the-hunter-back.png",
     "xws": "cloakofthehunter"
   },
   {
     "name": "doctor's coat",
     "points": 358,
-    "image": "items/64-151/doctors-coat.png",
+    "image": "items/64-151/148-doctors-coat.png",
     "xws": "doctors coat"
   },
   {
     "name": "doctor's coat",
     "points": 359,
-    "image": "items/64-151/doctors-coat-back.png",
+    "image": "items/64-151/148-doctors-coat-back.png",
     "xws": "doctors coat"
   },
   {
     "name": "elemental boots",
     "points": 360,
-    "image": "items/64-151/elemental-boots.png",
+    "image": "items/64-151/149-elemental-boots.png",
     "xws": "elementalboots"
   },
   {
     "name": "elemental boots",
     "points": 361,
-    "image": "items/64-151/elemental-boots-back.png",
+    "image": "items/64-151/149-elemental-boots-back.png",
     "xws": "elementalboots"
   },
   {
     "name": "staff of command",
     "points": 362,
-    "image": "items/64-151/staff-of-command.png",
+    "image": "items/64-151/150-staff-of-command.png",
     "xws": "staffofcommand"
   },
   {
     "name": "staff of command",
     "points": 363,
-    "image": "items/64-151/staff-of-command-back.png",
+    "image": "items/64-151/150-staff-of-command-back.png",
     "xws": "staffofcommand"
   },
   {
     "name": "sword of the sands",
     "points": 364,
-    "image": "items/64-151/sword-of-the-sands.png",
+    "image": "items/64-151/151-sword-of-the-sands.png",
     "xws": "swordofthesands"
   },
   {
     "name": "sword of the sands",
     "points": 365,
-    "image": "items/64-151/sword-of-the-sands-back.png",
+    "image": "items/64-151/151-sword-of-the-sands-back.png",
     "xws": "swordofthesands"
   },
   {
