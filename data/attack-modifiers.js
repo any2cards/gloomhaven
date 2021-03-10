@@ -188,7 +188,7 @@
   {
     "name": "am-mm-back",
     "points": 31,
-    "image": "attack-modifiers/base/monster/am-mm-back.png",
+    "image": "attack-modifiers/base/monster-mod/am-mm-back.png",
     "xws": "ammmback"
   },
   {
