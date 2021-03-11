@@ -648,40 +648,40 @@
     "xws": "valrathtracker"
   },
   {
-    "name": "vyart lkkuma",
-    "points": 108,
-    "image": "monster-stat-cards/vyart-lkkuma-0.png",
-    "xws": "vyartlkkuma"
-  },
-  {
-    "name": "vyart lkkuma",
-    "points": 109,
-    "image": "monster-stat-cards/vyart-lkkuma-4.png",
-    "xws": "vyartlkkuma"
-  },
-  {
     "name": "vermling scout",
-    "points": 110,
+    "points": 108,
     "image": "monster-stat-cards/vermling-scout-0.png",
     "xws": "vermlingscout"
   },
   {
     "name": "vermling scout",
-    "points": 111,
+    "points": 109,
     "image": "monster-stat-cards/vermling-scout-4.png",
     "xws": "vermlingscout"
   },
   {
     "name": "vermling shaman",
-    "points": 112,
+    "points": 110,
     "image": "monster-stat-cards/vermling-shaman-0.png",
     "xws": "vermlingshaman"
   },
   {
     "name": "vermling shaman",
-    "points": 113,
+    "points": 111,
     "image": "monster-stat-cards/vermling-shaman-4.png",
     "xws": "vermlingshaman"
+  },
+  {
+    "name": "vyart lkkuma",
+    "points": 112,
+    "image": "monster-stat-cards/vyart-lkkuma-0.png",
+    "xws": "vyartlkkuma"
+  },
+  {
+    "name": "vyart lkkuma",
+    "points": 113,
+    "image": "monster-stat-cards/vyart-lkkuma-4.png",
+    "xws": "vyartlkkuma"
   },
   {
     "name": "wind demon",
