@@ -60,56 +60,62 @@
     "xws": "nightshroudperks"
   },
   {
-    "name": "plagueherald perks",
+    "name": "party sheet",
     "points": 10,
+    "image": "character-perks/party-sheet.png",
+    "xws": "partysheet"
+  },
+  {
+    "name": "plagueherald perks",
+    "points": 11,
     "image": "character-perks/plagueherald-perks.png",
     "xws": "plagueheraldperks"
   },
   {
     "name": "quartermaster perks",
-    "points": 11,
+    "points": 12,
     "image": "character-perks/quartermaster-perks.png",
     "xws": "quartermasterperks"
   },
   {
     "name": "sawbones perks",
-    "points": 12,
+    "points": 13,
     "image": "character-perks/sawbones-perks.png",
     "xws": "sawbonesperks"
   },
   {
     "name": "scoundrel perks",
-    "points": 13,
+    "points": 14,
     "image": "character-perks/scoundrel-perks.png",
     "xws": "scoundrelperks"
   },
   {
     "name": "soothsinger perks",
-    "points": 14,
+    "points": 15,
     "image": "character-perks/soothsinger-perks.png",
     "xws": "soothsingerperks"
   },
   {
     "name": "spellweaver perks",
-    "points": 15,
+    "points": 16,
     "image": "character-perks/spellweaver-perks.png",
     "xws": "spellweaverperks"
   },
   {
     "name": "summoner perks",
-    "points": 16,
+    "points": 17,
     "image": "character-perks/summoner-perks.png",
     "xws": "summonerperks"
   },
   {
     "name": "sunkeeper perks",
-    "points": 17,
+    "points": 18,
     "image": "character-perks/sunkeeper-perks.png",
     "xws": "sunkeeperperks"
   },
   {
     "name": "tinkerer perks",
-    "points": 18,
+    "points": 19,
     "image": "character-perks/tinkerer-perks.png",
     "xws": "tinkererperks"
   }
