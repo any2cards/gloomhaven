@@ -612,6 +612,18 @@
     "xws": "thesteellion"
   },
   {
+    "name": "uyart ikkuma",
+    "points": 112,
+    "image": "monster-stat-cards/uyart-ikkuma-0.png",
+    "xws": "uyartikkuma"
+  },
+  {
+    "name": "uyart ikkuma",
+    "points": 113,
+    "image": "monster-stat-cards/uyart-ikkuma-4.png",
+    "xws": "uyartikkuma"
+  },
+  {
     "name": "valrath commander",
     "points": 102,
     "image": "monster-stat-cards/valrath-commander-0.png",
@@ -670,18 +682,6 @@
     "points": 111,
     "image": "monster-stat-cards/vermling-shaman-4.png",
     "xws": "vermlingshaman"
-  },
-  {
-    "name": "vyart lkkuma",
-    "points": 112,
-    "image": "monster-stat-cards/vyart-lkkuma-0.png",
-    "xws": "vyartlkkuma"
-  },
-  {
-    "name": "vyart lkkuma",
-    "points": 113,
-    "image": "monster-stat-cards/vyart-lkkuma-4.png",
-    "xws": "vyartlkkuma"
   },
   {
     "name": "wind demon",
