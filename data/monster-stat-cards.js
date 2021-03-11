@@ -492,170 +492,218 @@
     "xws": "savvaslavaflow"
   },
   {
-    "name": "spitting drake",
+    "name": "selah naberis",
     "points": 82,
+    "image": "monster-stat-cards/selah-naberis-0.png",
+    "xws": "selahnaberis"
+  },
+  {
+    "name": "selah naberis",
+    "points": 83,
+    "image": "monster-stat-cards/selah-naberis-4.png",
+    "xws": "selahnaberis"
+  },
+  {
+    "name": "spitting drake",
+    "points": 84,
     "image": "monster-stat-cards/spitting-drake-0.png",
     "xws": "spittingdrake"
   },
   {
     "name": "spitting drake",
-    "points": 83,
+    "points": 85,
     "image": "monster-stat-cards/spitting-drake-4.png",
     "xws": "spittingdrake"
   },
   {
+    "name": "sraka the wise",
+    "points": 86,
+    "image": "monster-stat-cards/sraka-the-wise-0.png",
+    "xws": "srakathewise"
+  },
+  {
+    "name": "sraka the wise",
+    "points": 87,
+    "image": "monster-stat-cards/sraka-the-wise-4.png",
+    "xws": "srakathewise"
+  },
+  {
     "name": "stone golem",
-    "points": 84,
+    "points": 88,
     "image": "monster-stat-cards/stone-golem-0.png",
     "xws": "stonegolem"
   },
   {
     "name": "stone golem",
-    "points": 85,
+    "points": 89,
     "image": "monster-stat-cards/stone-golem-4.png",
     "xws": "stonegolem"
   },
   {
     "name": "sun demon",
-    "points": 86,
+    "points": 90,
     "image": "monster-stat-cards/sun-demon-0.png",
     "xws": "sundemon"
   },
   {
     "name": "sun demon",
-    "points": 87,
+    "points": 91,
     "image": "monster-stat-cards/sun-demon-4.png",
     "xws": "sundemon"
   },
   {
     "name": "the betrayer",
-    "points": 88,
+    "points": 92,
     "image": "monster-stat-cards/the-betrayer-0.png",
     "xws": "thebetrayer"
   },
   {
     "name": "the betrayer",
-    "points": 89,
+    "points": 93,
     "image": "monster-stat-cards/the-betrayer-4.png",
     "xws": "thebetrayer"
   },
   {
     "name": "the colorless",
-    "points": 90,
+    "points": 94,
     "image": "monster-stat-cards/the-colorless-0.png",
     "xws": "thecolorless"
   },
   {
     "name": "the colorless",
-    "points": 91,
+    "points": 95,
     "image": "monster-stat-cards/the-colorless-4.png",
     "xws": "thecolorless"
   },
   {
     "name": "the gloom",
-    "points": 92,
+    "points": 96,
     "image": "monster-stat-cards/the-gloom-0.png",
     "xws": "thegloom"
   },
   {
     "name": "the gloom",
-    "points": 93,
+    "points": 97,
     "image": "monster-stat-cards/the-gloom-4.png",
     "xws": "thegloom"
   },
   {
     "name": "the sightless eye",
-    "points": 94,
+    "points": 98,
     "image": "monster-stat-cards/the-sightless-eye-0.png",
     "xws": "thesightlesseye"
   },
   {
     "name": "the sightless eye",
-    "points": 95,
+    "points": 99,
     "image": "monster-stat-cards/the-sightless-eye-4.png",
     "xws": "thesightlesseye"
   },
   {
+    "name": "the steel lion",
+    "points": 100,
+    "image": "monster-stat-cards/the-steel-lion-0.png",
+    "xws": "thesteellion"
+  },
+  {
+    "name": "the steel lion",
+    "points": 101,
+    "image": "monster-stat-cards/the-steel-lion-4.png",
+    "xws": "thesteellion"
+  },
+  {
     "name": "valrath commander",
-    "points": 96,
+    "points": 102,
     "image": "monster-stat-cards/valrath-commander-0.png",
     "xws": "valrathcommander"
   },
   {
     "name": "valrath commander",
-    "points": 97,
+    "points": 103,
     "image": "monster-stat-cards/valrath-commander-4.png",
     "xws": "valrathcommander"
   },
   {
     "name": "valrath savage",
-    "points": 98,
+    "points": 104,
     "image": "monster-stat-cards/valrath-savage-0.png",
     "xws": "valrathsavage"
   },
   {
     "name": "valrath savage",
-    "points": 99,
+    "points": 105,
     "image": "monster-stat-cards/valrath-savage-4.png",
     "xws": "valrathsavage"
   },
   {
     "name": "valrath tracker",
-    "points": 100,
+    "points": 106,
     "image": "monster-stat-cards/valrath-tracker-0.png",
     "xws": "valrathtracker"
   },
   {
     "name": "valrath tracker",
-    "points": 101,
+    "points": 107,
     "image": "monster-stat-cards/valrath-tracker-4.png",
     "xws": "valrathtracker"
   },
   {
+    "name": "vyart lkkuma",
+    "points": 108,
+    "image": "monster-stat-cards/vyart-lkkuma-0.png",
+    "xws": "vyartlkkuma"
+  },
+  {
+    "name": "vyart lkkuma",
+    "points": 109,
+    "image": "monster-stat-cards/vyart-lkkuma-4.png",
+    "xws": "vyartlkkuma"
+  },
+  {
     "name": "vermling scout",
-    "points": 102,
+    "points": 110,
     "image": "monster-stat-cards/vermling-scout-0.png",
     "xws": "vermlingscout"
   },
   {
     "name": "vermling scout",
-    "points": 103,
+    "points": 111,
     "image": "monster-stat-cards/vermling-scout-4.png",
     "xws": "vermlingscout"
   },
   {
     "name": "vermling shaman",
-    "points": 104,
+    "points": 112,
     "image": "monster-stat-cards/vermling-shaman-0.png",
     "xws": "vermlingshaman"
   },
   {
     "name": "vermling shaman",
-    "points": 105,
+    "points": 113,
     "image": "monster-stat-cards/vermling-shaman-4.png",
     "xws": "vermlingshaman"
   },
   {
     "name": "wind demon",
-    "points": 106,
+    "points": 114,
     "image": "monster-stat-cards/wind-demon-0.png",
     "xws": "winddemon"
   },
   {
     "name": "wind demon",
-    "points": 107,
+    "points": 115,
     "image": "monster-stat-cards/wind-demon-4.png",
     "xws": "winddemon"
   },
   {
     "name": "winged horror",
-    "points": 108,
+    "points": 116,
     "image": "monster-stat-cards/winged-horror-0.png",
     "xws": "wingedhorror"
   },
   {
     "name": "winged horror",
-    "points": 109,
+    "points": 117,
     "image": "monster-stat-cards/winged-horror-4.png",
     "xws": "wingedhorror"
   }
