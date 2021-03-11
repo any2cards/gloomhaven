@@ -6,350 +6,266 @@
     "xws": "btback"
   },
   {
-    "name": "bt-back",
-    "points": 1,
-    "image": "character-ability-cards-revised/BT/bt-back2.png",
-    "xws": "btback"
-  },
-  {
     "name": "disorienting roar",
-    "points": 2,
+    "points": 1,
     "image": "character-ability-cards-revised/BT/disorienting-roar.png",
     "xws": "disorientingroar"
   },
   {
-    "name": "disorienting roar",
-    "points": 3,
-    "image": "character-ability-cards-revised/BT/disorienting-roar2.png",
-    "xws": "disorientingroar"
-  },
-  {
     "name": "primal blessing",
-    "points": 4,
+    "points": 2,
     "image": "character-ability-cards-revised/BT/primal-blessing.png",
     "xws": "primalblessing"
   },
   {
-    "name": "primal blessing",
-    "points": 5,
-    "image": "character-ability-cards-revised/BT/primal-blessing2.png",
-    "xws": "primalblessing"
-  },
-  {
     "name": "spirit swap",
-    "points": 6,
+    "points": 3,
     "image": "character-ability-cards-revised/BT/spirit-swap.png",
     "xws": "spiritswap"
   },
   {
-    "name": "spirit swap",
-    "points": 7,
-    "image": "character-ability-cards-revised/BT/spirit-swap2.png",
-    "xws": "spiritswap"
-  },
-  {
     "name": "anguish and salvation",
-    "points": 8,
+    "points": 4,
     "image": "character-ability-cards-revised/DR/anguish-and-salvation.png",
     "xws": "anguishandsalvation"
   },
   {
     "name": "anticipate intricacies",
-    "points": 9,
+    "points": 5,
     "image": "character-ability-cards-revised/DR/anticipate-intricacies.png",
     "xws": "anticipateintricacies"
   },
   {
     "name": "bad omen",
-    "points": 10,
+    "points": 6,
     "image": "character-ability-cards-revised/DR/bad-omen.png",
     "xws": "badomen"
   },
   {
     "name": "call of the nether",
-    "points": 11,
+    "points": 7,
     "image": "character-ability-cards-revised/DR/call-of-the-nether.png",
     "xws": "callofthenether"
   },
   {
     "name": "careful attunement",
-    "points": 12,
+    "points": 8,
     "image": "character-ability-cards-revised/DR/careful-attunement.png",
     "xws": "carefulattunement"
   },
   {
     "name": "clairvoyance",
-    "points": 13,
+    "points": 9,
     "image": "character-ability-cards-revised/DR/clairvoyance.png",
     "xws": "clairvoyance"
   },
   {
     "name": "cleansing rite",
-    "points": 14,
+    "points": 10,
     "image": "character-ability-cards-revised/DR/cleansing-rite.png",
     "xws": "cleansingrite"
   },
   {
     "name": "curative flux",
-    "points": 15,
+    "points": 11,
     "image": "character-ability-cards-revised/DR/curative-flux.png",
     "xws": "curativeflux"
   },
   {
     "name": "cursed ground",
-    "points": 16,
+    "points": 12,
     "image": "character-ability-cards-revised/DR/cursed-ground.png",
     "xws": "cursedground"
   },
   {
     "name": "deep contemplation",
-    "points": 17,
+    "points": 13,
     "image": "character-ability-cards-revised/DR/deep-contemplation.png",
     "xws": "deepcontemplation"
   },
   {
     "name": "dimensional divide",
-    "points": 18,
+    "points": 14,
     "image": "character-ability-cards-revised/DR/dimensional-divide.png",
     "xws": "dimensionaldivide"
   },
   {
     "name": "dimensional transfer",
-    "points": 19,
+    "points": 15,
     "image": "character-ability-cards-revised/DR/dimensional-transfer.png",
     "xws": "dimensionaltransfer"
   },
   {
     "name": "dr-back",
-    "points": 20,
+    "points": 16,
     "image": "character-ability-cards-revised/DR/dr-back.png",
     "xws": "drback"
   },
   {
     "name": "duality shards",
-    "points": 21,
+    "points": 17,
     "image": "character-ability-cards-revised/DR/duality-shards.png",
     "xws": "dualityshards"
   },
   {
     "name": "enfeebling hex",
-    "points": 22,
+    "points": 18,
     "image": "character-ability-cards-revised/DR/enfeebling-hex.png",
     "xws": "enfeeblinghex"
   },
   {
     "name": "envision the course",
-    "points": 23,
+    "points": 19,
     "image": "character-ability-cards-revised/DR/envision-the-course.png",
     "xws": "envisionthecourse"
   },
   {
     "name": "ethereal vortex",
-    "points": 24,
+    "points": 20,
     "image": "character-ability-cards-revised/DR/ethereal-vortex.png",
     "xws": "etherealvortex"
   },
   {
     "name": "gift of the void",
-    "points": 25,
+    "points": 21,
     "image": "character-ability-cards-revised/DR/gift-of-the-void.png",
     "xws": "giftofthevoid"
   },
   {
     "name": "hand of destiny",
-    "points": 26,
+    "points": 22,
     "image": "character-ability-cards-revised/DR/hand-of-destiny.png",
     "xws": "handofdestiny"
   },
   {
     "name": "inspiration from beyond",
-    "points": 27,
+    "points": 23,
     "image": "character-ability-cards-revised/DR/inspiration-from-beyond.png",
     "xws": "inspirationfrombeyond"
   },
   {
     "name": "otherworldly journey",
-    "points": 28,
+    "points": 24,
     "image": "character-ability-cards-revised/DR/otherworldly-journey.png",
     "xws": "otherworldlyjourney"
   },
   {
     "name": "peer into battle",
-    "points": 29,
+    "points": 25,
     "image": "character-ability-cards-revised/DR/peer-into-battle.png",
     "xws": "peerintobattle"
   },
   {
     "name": "planar fissure",
-    "points": 30,
+    "points": 26,
     "image": "character-ability-cards-revised/DR/planar-fissure.png",
     "xws": "planarfissure"
   },
   {
     "name": "preordain the path",
-    "points": 31,
+    "points": 27,
     "image": "character-ability-cards-revised/DR/preordain-the-path.png",
     "xws": "preordainthepath"
   },
   {
     "name": "protective aura",
-    "points": 32,
+    "points": 28,
     "image": "character-ability-cards-revised/DR/protective-aura.png",
     "xws": "protectiveaura"
   },
   {
     "name": "ray of light",
-    "points": 33,
+    "points": 29,
     "image": "character-ability-cards-revised/DR/ray-of-light.png",
     "xws": "rayoflight"
   },
   {
     "name": "revitalizing fount",
-    "points": 34,
+    "points": 30,
     "image": "character-ability-cards-revised/DR/revitalizing-fount.png",
     "xws": "revitalizingfount"
   },
   {
     "name": "seal their fate",
-    "points": 35,
+    "points": 31,
     "image": "character-ability-cards-revised/DR/seal-their-fate.png",
     "xws": "sealtheirfate"
   },
   {
     "name": "void snare",
-    "points": 36,
+    "points": 32,
     "image": "character-ability-cards-revised/DR/void-snare.png",
     "xws": "voidsnare"
   },
   {
     "name": "ghost falcons",
-    "points": 37,
+    "points": 33,
     "image": "character-ability-cards-revised/DR/envision-the-course.png",
     "xws": "envisionthecourse"
   },
   {
     "name": "twilight archon",
-    "points": 38,
+    "points": 34,
     "image": "character-ability-cards-revised/DR/planar-fissure.png",
     "xws": "planarfissure"
   },
   {
     "name": "ds-back",
-    "points": 39,
+    "points": 35,
     "image": "character-ability-cards-revised/DS/ds-back.png",
     "xws": "dsback"
   },
   {
-    "name": "ds-back",
-    "points": 40,
-    "image": "character-ability-cards-revised/DS/ds-back2.png",
-    "xws": "dsback"
-  },
-  {
     "name": "felling swoop",
-    "points": 41,
+    "points": 36,
     "image": "character-ability-cards-revised/DS/felling-swoop.png",
     "xws": "fellingswoop"
   },
   {
-    "name": "felling swoop",
-    "points": 42,
-    "image": "character-ability-cards-revised/DS/felling-swoop2.png",
-    "xws": "fellingswoop"
-  },
-  {
     "name": "concealed dominance",
-    "points": 43,
+    "points": 37,
     "image": "character-ability-cards-revised/NS/concealed-dominance.png",
     "xws": "concealeddominance"
   },
   {
-    "name": "concealed dominance",
-    "points": 44,
-    "image": "character-ability-cards-revised/NS/concealed-dominance2.png",
-    "xws": "concealeddominance"
-  },
-  {
     "name": "ns-back",
-    "points": 45,
+    "points": 38,
     "image": "character-ability-cards-revised/NS/ns-back.png",
     "xws": "nsback"
   },
   {
-    "name": "ns-back",
-    "points": 46,
-    "image": "character-ability-cards-revised/NS/ns-back2.png",
-    "xws": "nsback"
-  },
-  {
     "name": "otherworldly rage",
-    "points": 47,
+    "points": 39,
     "image": "character-ability-cards-revised/SU/otherworldly-rage.png",
     "xws": "otherworldlyrage"
   },
   {
-    "name": "otherworldly rage",
-    "points": 48,
-    "image": "character-ability-cards-revised/SU/otherworldly-rage2.png",
-    "xws": "otherworldlyrage"
-  },
-  {
     "name": "su-back",
-    "points": 49,
+    "points": 40,
     "image": "character-ability-cards-revised/SU/su-back.png",
     "xws": "suback"
   },
   {
-    "name": "su-back",
-    "points": 50,
-    "image": "character-ability-cards-revised/SU/su-back2.png",
-    "xws": "suback"
-  },
-  {
     "name": "halt-bottom-back",
-    "points": 51,
+    "points": 41,
     "image": "character-ability-cards-revised/ZZ/halt-bottom-back.png",
     "xws": "haltbottomback"
   },
   {
-    "name": "halt-bottom-back",
-    "points": 52,
-    "image": "character-ability-cards-revised/ZZ/halt-bottom-back2.png",
-    "xws": "haltbottomback"
-  },
-  {
     "name": "halt-bottom-front",
-    "points": 53,
+    "points": 42,
     "image": "character-ability-cards-revised/ZZ/halt-bottom-front.png",
     "xws": "haltbottomfront"
   },
   {
-    "name": "halt-bottom-front",
-    "points": 54,
-    "image": "character-ability-cards-revised/ZZ/halt-bottom-front2.png",
-    "xws": "haltbottomfront"
-  },
-  {
     "name": "halt-top-back",
-    "points": 55,
+    "points": 43,
     "image": "character-ability-cards-revised/ZZ/halt-top-back.png",
     "xws": "halttopback"
   },
   {
-    "name": "halt-top-back",
-    "points": 56,
-    "image": "character-ability-cards-revised/ZZ/halt-top-back2.png",
-    "xws": "halttopback"
-  },
-  {
     "name": "halt-top-front",
-    "points": 57,
-    "image": "character-ability-cards-revised/ZZ/halt-top-front2.png",
-    "xws": "halttopfront"
-  },
-  {
-    "name": "halt-top-front",
-    "points": 58,
+    "points": 44,
     "image": "character-ability-cards-revised/ZZ/halt-top-front.png",
     "xws": "halttopfront"
   }
