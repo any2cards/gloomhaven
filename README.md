@@ -1,6 +1,6 @@
-# Gloomhaven
+# Gloomhaven (GH)
 
-An easy-to-use collection of data and images from [Gloomhaven] (http://www.cephalofair.com/gloomhaven) by [Cephalofair Games] (http://www.cephalofair.com/) [Developer: Isaac Childres].
+An easy-to-use collection of data and images from [Gloomhaven](http://www.cephalofair.com/gloomhaven) by [Cephalofair Games](http://www.cephalofair.com/) - Developer: **Isaac Childres**.
 
 ## What's included
 
@@ -24,15 +24,23 @@ This repository contains data and images for the following components:
 - summons
 - world-map
 
-There are two top-level directories; `data` and `images`.
+There are four top-level directories; `data` , `images` , `pbf` ,and `xwc`.
 
 ### data
 
-The `data` folder contains all Gloomhaven data in JSON format.
+The `data` folder contains all GH Card Viewer data in JSON format.
 
 ### images
 
-The `images` folder contains images for each of the above components.
+The `images` folder contains all GH Card Viewer images for each of the above components.
+
+### pbf
+
+The `pbf` folder contains specific GH Card Viewer images for Play By Forum (PBF) use.
+
+### xwc
+
+The `xwc` folder contains all of the files that power the GH Card Viewer Chrome Extension/Firefox Add-On.
 
 ## Usage
 
@@ -60,8 +68,8 @@ When adding images please use [TinyPNG](https://tinypng.com/) to reduce their fi
 
 A list of projects that use this content:
 
-- [Gloomhaven Card Viewer](https://chrome.google.com/webstore/detail/gloomhaven-card-viewer/gjiegeogakafejcpakamlkjgdoeiecnk) (Chrome Extension)
-- [Gloomhaven Card Viewer](https://addons.mozilla.org/en-US/firefox/addon/gloomhaven-card-viewer/) (Firefox Add-On)
+- [GH Card Viewer](https://chrome.google.com/webstore/detail/gloomhaven-card-viewer/gjiegeogakafejcpakamlkjgdoeiecnk) (Chrome Extension)
+- [GH Card Viewer](https://addons.mozilla.org/en-US/firefox/addon/gloomhaven-card-viewer/) (Firefox Add-On)
 
 Want your project listed here? [Let us know!](https://github.com/any2cards/gloomhaven/issues/new?title=Add%20Project)
 
