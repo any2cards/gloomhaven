@@ -11,7 +11,7 @@ const files = [
   'map-tiles.js',
   'monster-ability-cards.js',
   'monster-stat-cards.js',
-  'personal-goals.js',
+  'personal-quests.js',
   'player-aid-cards.js',
   'random-dungeons.js',
   'random-scenarios.js',
