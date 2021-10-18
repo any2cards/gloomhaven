@@ -1,121 +1,187 @@
 [
   {
-    "name": "beast tyrant perks",
+    "name": "party sheet",
     "points": 0,
+    "image": "character-perks/party-sheet.png",
+    "xws": "partysheet"
+  },
+  {
+    "name": "beast tyrant perks",
+    "points": 1,
+    "image": "character-perks/beast-tyrant-perks.png",
+    "xws": "beasttyrantperks"
+  },
+  {
+    "name": "two minis perks",
+    "points": 2,
     "image": "character-perks/beast-tyrant-perks.png",
     "xws": "beasttyrantperks"
   },
   {
     "name": "berserker perks",
-    "points": 1,
+    "points": 3,
+    "image": "character-perks/berserker-perks.png",
+    "xws": "berserkerperks"
+  },
+  {
+    "name": "lightning bolt perks",
+    "points": 4,
     "image": "character-perks/berserker-perks.png",
     "xws": "berserkerperks"
   },
   {
     "name": "bladeswarm perks",
-    "points": 2,
+    "points": 5,
     "image": "character-perks/bladeswarm-perks.png",
     "xws": "bladeswarmperks"
   },
   {
     "name": "brute perks",
-    "points": 3,
+    "points": 6,
     "image": "character-perks/brute-perks.png",
     "xws": "bruteperks"
   },
   {
     "name": "cragheart perks",
-    "points": 4,
+    "points": 7,
     "image": "character-perks/cragheart-perks.png",
     "xws": "cragheartperks"
   },
   {
     "name": "diviner perks",
-    "points": 5,
+    "points": 8,
     "image": "character-perks/diviner-perks.png",
     "xws": "divinerperks"
   },
   {
     "name": "doomstalker perks",
-    "points": 6,
+    "points": 9,
+    "image": "character-perks/doomstalker-perks.png",
+    "xws": "doomstalkerperks"
+  },
+  {
+    "name": "angry face perks",
+    "points": 10,
     "image": "character-perks/doomstalker-perks.png",
     "xws": "doomstalkerperks"
   },
   {
     "name": "elementalist perks",
-    "points": 7,
+    "points": 11,
+    "image": "character-perks/elementalist-perks.png",
+    "xws": "elementalistperks"
+  },
+  {
+    "name": "triangles perks",
+    "points": 12,
     "image": "character-perks/elementalist-perks.png",
     "xws": "elementalistperks"
   },
   {
     "name": "mindthief perks",
-    "points": 8,
+    "points": 13,
     "image": "character-perks/mindthief-perks.png",
     "xws": "mindthiefperks"
   },
   {
     "name": "nightshroud perks",
-    "points": 9,
+    "points": 14,
     "image": "character-perks/nightshroud-perks.png",
     "xws": "nightshroudperks"
   },
   {
-    "name": "party sheet",
-    "points": 10,
-    "image": "character-perks/party-sheet.png",
-    "xws": "partysheet"
+    "name": "eclipse perks",
+    "points": 15,
+    "image": "character-perks/nightshroud-perks.png",
+    "xws": "nightshroudperks"
   },
   {
     "name": "plagueherald perks",
-    "points": 11,
+    "points": 16,
+    "image": "character-perks/plagueherald-perks.png",
+    "xws": "plagueheraldperks"
+  },
+  {
+    "name": "cthulhu perks",
+    "points": 17,
     "image": "character-perks/plagueherald-perks.png",
     "xws": "plagueheraldperks"
   },
   {
     "name": "quartermaster perks",
-    "points": 12,
+    "points": 18,
+    "image": "character-perks/quartermaster-perks.png",
+    "xws": "quartermasterperks"
+  },
+  {
+    "name": "three spears perks",
+    "points": 19,
     "image": "character-perks/quartermaster-perks.png",
     "xws": "quartermasterperks"
   },
   {
     "name": "sawbones perks",
-    "points": 13,
+    "points": 20,
+    "image": "character-perks/sawbones-perks.png",
+    "xws": "sawbonesperks"
+  },
+  {
+    "name": "saw perks",
+    "points": 21,
     "image": "character-perks/sawbones-perks.png",
     "xws": "sawbonesperks"
   },
   {
     "name": "scoundrel perks",
-    "points": 14,
+    "points": 22,
     "image": "character-perks/scoundrel-perks.png",
     "xws": "scoundrelperks"
   },
   {
     "name": "soothsinger perks",
-    "points": 15,
+    "points": 23,
+    "image": "character-perks/soothsinger-perks.png",
+    "xws": "soothsingerperks"
+  },
+  {
+    "name": "music note perks",
+    "points": 24,
     "image": "character-perks/soothsinger-perks.png",
     "xws": "soothsingerperks"
   },
   {
     "name": "spellweaver perks",
-    "points": 16,
+    "points": 25,
     "image": "character-perks/spellweaver-perks.png",
     "xws": "spellweaverperks"
   },
   {
     "name": "summoner perks",
-    "points": 17,
+    "points": 26,
+    "image": "character-perks/summoner-perks.png",
+    "xws": "summonerperks"
+  },
+  {
+    "name": "circles perks",
+    "points": 27,
     "image": "character-perks/summoner-perks.png",
     "xws": "summonerperks"
   },
   {
     "name": "sunkeeper perks",
-    "points": 18,
+    "points": 28,
+    "image": "character-perks/sunkeeper-perks.png",
+    "xws": "sunkeeperperks"
+  },
+  {
+    "name": "sun perks",
+    "points": 29,
     "image": "character-perks/sunkeeper-perks.png",
     "xws": "sunkeeperperks"
   },
   {
     "name": "tinkerer perks",
-    "points": 19,
+    "points": 30,
     "image": "character-perks/tinkerer-perks.png",
     "xws": "tinkererperks"
   }
