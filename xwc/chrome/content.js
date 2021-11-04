@@ -390,7 +390,10 @@ document.body.addEventListener(
         moveTooltip(e);
       });
 
-      showTooltip();
+      // Reveal tooltip if CTRL key is pressed while hovering over card name!
+      if (e.ctrlKey) {
+	      showTooltip();
+			}
     }
   },
   false,
