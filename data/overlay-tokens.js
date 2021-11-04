@@ -3,7 +3,7 @@
     "name": "rift",
     "points": 0,
     "expansion": "Forgotten Circles",
-    "image": "overlay-tokens/character-toens/diviner-rift.png",
+    "image": "overlay-tokens/character-tokens/diviner-rift.png",
     "xws": "rift"
   },
   {
