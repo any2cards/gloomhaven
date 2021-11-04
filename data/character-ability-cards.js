@@ -1,4 +1,4 @@
-[1
+[
   {
     "name": "be-back",
     "points": 0,
