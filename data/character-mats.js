@@ -1,4 +1,4 @@
-[
+[7
   {
     "name": "beast tyrant",
     "points": 0,
