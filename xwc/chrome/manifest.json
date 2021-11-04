@@ -1,0 +1,46 @@
+{
+	"manifest_version": 2,
+	"name": "Gloomhaven Card Viewer",
+	"description": "Display Gloomhaven Game Assets",
+	"version": "3.0.0",
+	"web_accessible_resources": [
+		"icon-32.png"
+	],
+	"content_scripts": [{
+		"matches": [
+			"*://*.boardgamegeek.com/*",
+			"*://*.reddit.com/r/Gloomhaven/*",
+			"*://*.facebook.com/groups/646259685567420/*",
+			"*://any2cards.github.io/gloomhaven/*"
+		],
+		"js": [
+			"content.js"
+		],
+		"css": [
+			"content.css"
+		],
+		"run_at": "document_idle"
+	}],
+	"permissions": [
+		"storage",
+		"contextMenus",
+		"activeTab",
+		"https://raw.githubusercontent.com/*"
+	],
+	"background": {
+		"persistent": false,
+		"scripts": ["background.js"]
+	},
+	"icons": {
+		"32": "icon-32.png"
+	},
+	"browser_action": {
+		"default_title": "Gloomhaven Card Viewer Options",
+		"default_popup": "popup.html",
+		"default_icon": {
+			"32": "icon-32.png",
+			"48": "icon-48.png",
+			"128": "icon-128.png"
+		}
+	}
+}
