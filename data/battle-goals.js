@@ -1,6 +1,6 @@
 [
   {
-    "name": "battle-goals-back",
+    "name": "battle-goals-backfred",
     "points": 0,
     "expansion": "Gloomhaven",
     "image": "battle-goals/battle-goals-back.png",
