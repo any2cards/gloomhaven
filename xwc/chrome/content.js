@@ -20,7 +20,6 @@ var files = [
 	'world-map.js',
 ];
 
-
 var expansion_conversion = {
 	"bg": "Gloomhaven",
   "fc": "Forgotten Circles",
