@@ -1,6 +1,6 @@
 [
   {
-    "name": "am-m-01f",
+    "name": "am-m-01",
     "points": 0,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/base/monster/am-m-01.png",
