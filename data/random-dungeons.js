@@ -1,530 +1,625 @@
 [
   {
-    "name": "random dungeon a-back",
+    "name": "random dungeon 534",
     "points": 0,
-    "image": "random-dungeons/dungeons/dungeon-a-back.png",
-    "xws": "randomdungeonaback"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-sewer.png",
+    "xws": "randomdungeonsewer"
   },
   {
-    "name": "random dungeon ab-back",
+    "name": "random dungeon sewer",
     "points": 1,
-    "image": "random-dungeons/dungeons/dungeon-ab-back.png",
-    "xws": "randomdungeonabback"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-sewer.png",
+    "xws": "randomdungeonsewer"
   },
   {
-    "name": "random dungeon alcove",
+    "name": "random dungeon 535",
     "points": 2,
-    "image": "random-dungeons/dungeons/dungeon-alcove.png",
-    "xws": "randomdungeonalcove"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-crossroads.png",
+    "xws": "randomdungeoncrossroads"
   },
   {
-    "name": "random dungeon 551",
+    "name": "random dungeon crossroads",
     "points": 3,
-    "image": "random-dungeons/dungeons/dungeon-alcove.png",
-    "xws": "randomdungeonalcove"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-crossroads.png",
+    "xws": "randomdungeoncrossroads"
   },
   {
-    "name": "random dungeon altar",
+    "name": "random dungeon 536",
     "points": 4,
-    "image": "random-dungeons/dungeons/dungeon-altar.png",
-    "xws": "randomdungeonaltar"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-passage.png",
+    "xws": "randomdungeonpassage"
   },
   {
-    "name": "random dungeon 542",
+    "name": "random dungeon passage",
     "points": 5,
-    "image": "random-dungeons/dungeons/dungeon-altar.png",
-    "xws": "randomdungeonaltar"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-passage.png",
+    "xws": "randomdungeonpassage"
   },
   {
-    "name": "random dungeon armory",
+    "name": "random dungeon 537",
     "points": 6,
-    "image": "random-dungeons/dungeons/dungeon-armory.png",
-    "xws": "randomdungeonarmory"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-dead-end.png",
+    "xws": "randomdungeondeadend"
   },
   {
-    "name": "random dungeon 543",
+    "name": "random dungeon dead-end",
     "points": 7,
-    "image": "random-dungeons/dungeons/dungeon-armory.png",
-    "xws": "randomdungeonarmory"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-dead-end.png",
+    "xws": "randomdungeondeadend"
   },
   {
-    "name": "random dungeon b-back",
+    "name": "random dungeon 538",
     "points": 8,
-    "image": "random-dungeons/dungeons/dungeon-b-back.png",
-    "xws": "randomdungeonbback"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-hallway.png",
+    "xws": "randomdungeonhallway"
   },
   {
-    "name": "random dungeon burrow",
+    "name": "random dungeon hallway",
     "points": 9,
-    "image": "random-dungeons/dungeons/dungeon-burrow.png",
-    "xws": "randomdungeonburrow"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-hallway.png",
+    "xws": "randomdungeonhallway"
   },
   {
-    "name": "random dungeon 553",
+    "name": "random dungeon 539",
     "points": 10,
-    "image": "random-dungeons/dungeons/dungeon-burrow.png",
-    "xws": "randomdungeonburrow"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-road.png",
+    "xws": "randomdungeonroad"
   },
   {
-    "name": "random dungeon cabin",
+    "name": "random dungeon road",
     "points": 11,
-    "image": "random-dungeons/dungeons/dungeon-cabin.png",
-    "xws": "randomdungeoncabin"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-road.png",
+    "xws": "randomdungeonroad"
   },
   {
     "name": "random dungeon 540",
     "points": 12,
+    "expansion": "Gloomhaven",
     "image": "random-dungeons/dungeons/dungeon-cabin.png",
     "xws": "randomdungeoncabin"
   },
   {
-    "name": "random dungeon cave",
+    "name": "random dungeon cabin",
     "points": 13,
-    "image": "random-dungeons/dungeons/dungeon-cave.png",
-    "xws": "randomdungeoncave"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-cabin.png",
+    "xws": "randomdungeoncabin"
   },
   {
-    "name": "random dungeon 549",
+    "name": "random dungeon 541",
     "points": 14,
-    "image": "random-dungeons/dungeons/dungeon-cave.png",
-    "xws": "randomdungeoncave"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-clearing.png",
+    "xws": "randomdungeonclearing"
   },
   {
     "name": "random dungeon clearing",
     "points": 15,
+    "expansion": "Gloomhaven",
     "image": "random-dungeons/dungeons/dungeon-clearing.png",
     "xws": "randomdungeonclearing"
   },
   {
-    "name": "random dungeon 541",
+    "name": "random dungeon 542",
     "points": 16,
-    "image": "random-dungeons/dungeons/dungeon-clearing.png",
-    "xws": "randomdungeonclearing"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-altar.png",
+    "xws": "randomdungeonaltar"
   },
   {
-    "name": "random dungeon corridor",
+    "name": "random dungeon altar",
     "points": 17,
-    "image": "random-dungeons/dungeons/dungeon-corridor.png",
-    "xws": "randomdungeoncorridor"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-altar.png",
+    "xws": "randomdungeonaltar"
   },
   {
-    "name": "random dungeon 548",
+    "name": "random dungeon 543",
     "points": 18,
-    "image": "random-dungeons/dungeons/dungeon-corridor.png",
-    "xws": "randomdungeoncorridor"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-armory.png",
+    "xws": "randomdungeonarmory"
   },
   {
-    "name": "random dungeon crossroads",
+    "name": "random dungeon armory",
     "points": 19,
-    "image": "random-dungeons/dungeons/dungeon-crossroads.png",
-    "xws": "randomdungeoncrossroads"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-armory.png",
+    "xws": "randomdungeonarmory"
   },
   {
-    "name": "random dungeon 535",
+    "name": "random dungeon 544",
     "points": 20,
-    "image": "random-dungeons/dungeons/dungeon-crossroads.png",
-    "xws": "randomdungeoncrossroads"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-encampment.png",
+    "xws": "randomdungeonencampment"
   },
   {
-    "name": "random dungeon dead-end",
+    "name": "random dungeon encampment",
     "points": 21,
-    "image": "random-dungeons/dungeons/dungeon-dead-end.png",
-    "xws": "randomdungeondeadend"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-encampment.png",
+    "xws": "randomdungeonencampment"
   },
   {
-    "name": "random dungeon 537",
+    "name": "random dungeon 545",
     "points": 22,
-    "image": "random-dungeons/dungeons/dungeon-dead-end.png",
-    "xws": "randomdungeondeadend"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-library.png",
+    "xws": "randomdungeonlibrary"
   },
   {
-    "name": "random dungeon den",
+    "name": "random dungeon library",
     "points": 23,
-    "image": "random-dungeons/dungeons/dungeon-den.png",
-    "xws": "randomdungeonden"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-library.png",
+    "xws": "randomdungeonlibrary"
   },
   {
     "name": "random dungeon 546",
     "points": 24,
+    "expansion": "Gloomhaven",
     "image": "random-dungeons/dungeons/dungeon-den.png",
     "xws": "randomdungeonden"
   },
   {
-    "name": "random dungeon encampment",
+    "name": "random dungeon den",
     "points": 25,
-    "image": "random-dungeons/dungeons/dungeon-encampment.png",
-    "xws": "randomdungeonencampment"
-  },
-  {
-    "name": "random dungeon 544",
-    "points": 26,
-    "image": "random-dungeons/dungeons/dungeon-encampment.png",
-    "xws": "randomdungeonencampment"
-  },
-  {
-    "name": "random dungeon hallway",
-    "points": 27,
-    "image": "random-dungeons/dungeons/dungeon-hallway.png",
-    "xws": "randomdungeonhallway"
-  },
-  {
-    "name": "random dungeon 538",
-    "points": 28,
-    "image": "random-dungeons/dungeons/dungeon-hallway.png",
-    "xws": "randomdungeonhallway"
-  },
-  {
-    "name": "random dungeon hovel",
-    "points": 29,
-    "image": "random-dungeons/dungeons/dungeon-hovel.png",
-    "xws": "randomdungeonhovel"
-  },
-  {
-    "name": "random dungeon 552",
-    "points": 30,
-    "image": "random-dungeons/dungeons/dungeon-hovel.png",
-    "xws": "randomdungeonhovel"
-  },
-  {
-    "name": "random dungeon library",
-    "points": 31,
-    "image": "random-dungeons/dungeons/dungeon-library.png",
-    "xws": "randomdungeonlibrary"
-  },
-  {
-    "name": "random dungeon 545",
-    "points": 32,
-    "image": "random-dungeons/dungeons/dungeon-library.png",
-    "xws": "randomdungeonlibrary"
-  },
-  {
-    "name": "random dungeon passage",
-    "points": 33,
-    "image": "random-dungeons/dungeons/dungeon-passage.png",
-    "xws": "randomdungeonpassage"
-  },
-  {
-    "name": "random dungeon 536",
-    "points": 34,
-    "image": "random-dungeons/dungeons/dungeon-passage.png",
-    "xws": "randomdungeonpassage"
-  },
-  {
-    "name": "random dungeon road",
-    "points": 35,
-    "image": "random-dungeons/dungeons/dungeon-road.png",
-    "xws": "randomdungeonroad"
-  },
-  {
-    "name": "random dungeon 539",
-    "points": 36,
-    "image": "random-dungeons/dungeons/dungeon-road.png",
-    "xws": "randomdungeonroad"
-  },
-  {
-    "name": "random dungeon sewer",
-    "points": 37,
-    "image": "random-dungeons/dungeons/dungeon-sewer.png",
-    "xws": "randomdungeonsewer"
-  },
-  {
-    "name": "random dungeon 534",
-    "points": 38,
-    "image": "random-dungeons/dungeons/dungeon-sewer.png",
-    "xws": "randomdungeonsewer"
-  },
-  {
-    "name": "random dungeon trail",
-    "points": 39,
-    "image": "random-dungeons/dungeons/dungeon-trail.png",
-    "xws": "randomdungeontrail"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-den.png",
+    "xws": "randomdungeonden"
   },
   {
     "name": "random dungeon 547",
-    "points": 40,
+    "points": 26,
+    "expansion": "Gloomhaven",
     "image": "random-dungeons/dungeons/dungeon-trail.png",
     "xws": "randomdungeontrail"
   },
   {
-    "name": "random dungeon tunnel",
-    "points": 41,
-    "image": "random-dungeons/dungeons/dungeon-tunnel.png",
-    "xws": "randomdungeontunnel"
+    "name": "random dungeon trail",
+    "points": 27,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-trail.png",
+    "xws": "randomdungeontrail"
+  },
+  {
+    "name": "random dungeon 548",
+    "points": 28,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-corridor.png",
+    "xws": "randomdungeoncorridor"
+  },
+  {
+    "name": "random dungeon corridor",
+    "points": 29,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-corridor.png",
+    "xws": "randomdungeoncorridor"
+  },
+  {
+    "name": "random dungeon 549",
+    "points": 30,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-cave.png",
+    "xws": "randomdungeoncave"
+  },
+  {
+    "name": "random dungeon cave",
+    "points": 31,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-cave.png",
+    "xws": "randomdungeoncave"
   },
   {
     "name": "random dungeon 550",
-    "points": 42,
+    "points": 32,
+    "expansion": "Gloomhaven",
     "image": "random-dungeons/dungeons/dungeon-tunnel.png",
     "xws": "randomdungeontunnel"
   },
   {
-    "name": "random dungeon archaic",
+    "name": "random dungeon tunnel",
+    "points": 33,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-tunnel.png",
+    "xws": "randomdungeontunnel"
+  },
+  {
+    "name": "random dungeon 551",
+    "points": 34,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-alcove.png",
+    "xws": "randomdungeonalcove"
+  },
+  {
+    "name": "random dungeon alcove",
+    "points": 35,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-alcove.png",
+    "xws": "randomdungeonalcove"
+  },
+  {
+    "name": "random dungeon 552",
+    "points": 36,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-hovel.png",
+    "xws": "randomdungeonhovel"
+  },
+  {
+    "name": "random dungeon hovel",
+    "points": 37,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-hovel.png",
+    "xws": "randomdungeonhovel"
+  },
+  {
+    "name": "random dungeon 553",
+    "points": 38,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-burrow.png",
+    "xws": "randomdungeonburrow"
+  },
+  {
+    "name": "random dungeon burrow",
+    "points": 39,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-burrow.png",
+    "xws": "randomdungeonburrow"
+  },
+  {
+    "name": "random dungeon 554",
+    "points": 40,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-mangy.png",
+    "xws": "randomdungeonmangy"
+  },
+  {
+    "name": "random dungeon mangy",
+    "points": 41,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-mangy.png",
+    "xws": "randomdungeonmangy"
+  },
+  {
+    "name": "random dungeon 555",
+    "points": 42,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-drowned.png",
+    "xws": "randomdungeondrowned"
+  },
+  {
+    "name": "random dungeon drowned",
     "points": 43,
-    "image": "random-dungeons/monsters/monster-archaic.png",
-    "xws": "randomdungeonarchaic"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-drowned.png",
+    "xws": "randomdungeondrowned"
   },
   {
-    "name": "random dungeon 566",
+    "name": "random dungeon 556",
     "points": 44,
-    "image": "random-dungeons/monsters/monster-archaic.png",
-    "xws": "randomdungeonarchaic"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-hopeless.png",
+    "xws": "randomdungeonhopeless"
   },
   {
-    "name": "random dungeon arid",
+    "name": "random dungeon hopeless",
     "points": 45,
-    "image": "random-dungeons/monsters/monster-arid.png",
-    "xws": "randomdungeonarid"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-hopeless.png",
+    "xws": "randomdungeonhopeless"
   },
   {
-    "name": "random dungeon 622",
+    "name": "random dungeon 557",
     "points": 46,
-    "image": "random-dungeons/monsters/monster-arid.png",
-    "xws": "randomdungeonarid"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-defiled.png",
+    "xws": "randomdungeondefiled"
   },
   {
-    "name": "random dungeon corrupted",
+    "name": "random dungeon defiled",
     "points": 47,
-    "image": "random-dungeons/monsters/monster-corrupted.png",
-    "xws": "randomdungeoncorrupted"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-defiled.png",
+    "xws": "randomdungeondefiled"
   },
   {
-    "name": "random dungeon 570",
+    "name": "random dungeon 558",
     "points": 48,
-    "image": "random-dungeons/monsters/monster-corrupted.png",
-    "xws": "randomdungeoncorrupted"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-wild.png",
+    "xws": "randomdungeonwild"
   },
   {
-    "name": "random dungeon crushing",
+    "name": "random dungeon wild",
     "points": 49,
-    "image": "random-dungeons/monsters/monster-crushing.png",
-    "xws": "randomdungeoncrushing"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-wild.png",
+    "xws": "randomdungeonwild"
   },
   {
-    "name": "random dungeon 563",
+    "name": "random dungeon 559",
     "points": 50,
-    "image": "random-dungeons/monsters/monster-crushing.png",
-    "xws": "randomdungeoncrushing"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-fortified.png",
+    "xws": "randomdungeonfortified"
   },
   {
-    "name": "random dungeon cutthroat",
+    "name": "random dungeon fortified",
     "points": 51,
-    "image": "random-dungeons/monsters/monster-cutthroat.png",
-    "xws": "randomdungeoncutthroat"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-fortified.png",
+    "xws": "randomdungeonfortified"
   },
   {
     "name": "random dungeon 560",
     "points": 52,
+    "expansion": "Gloomhaven",
     "image": "random-dungeons/monsters/monster-cutthroat.png",
     "xws": "randomdungeoncutthroat"
   },
   {
-    "name": "random dungeon defiled",
+    "name": "random dungeon cutthroat",
     "points": 53,
-    "image": "random-dungeons/monsters/monster-defiled.png",
-    "xws": "randomdungeondefiled"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-cutthroat.png",
+    "xws": "randomdungeoncutthroat"
   },
   {
-    "name": "random dungeon 557",
+    "name": "random dungeon 561",
     "points": 54,
-    "image": "random-dungeons/monsters/monster-defiled.png",
-    "xws": "randomdungeondefiled"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-rotting.png",
+    "xws": "randomdungeonrotting"
   },
   {
-    "name": "random dungeon drowned",
+    "name": "random dungeon rotting",
     "points": 55,
-    "image": "random-dungeons/monsters/monster-drowned.png",
-    "xws": "randomdungeondrowned"
-  },
-  {
-    "name": "random dungeon 555",
-    "points": 56,
-    "image": "random-dungeons/monsters/monster-drowned.png",
-    "xws": "randomdungeondrowned"
-  },
-  {
-    "name": "random dungeon ethereal",
-    "points": 57,
-    "image": "random-dungeons/monsters/monster-ethereal.png",
-    "xws": "randomdungeonethereal"
-  },
-  {
-    "name": "random dungeon 623",
-    "points": 58,
-    "image": "random-dungeons/monsters/monster-ethereal.png",
-    "xws": "randomdungeonethereal"
-  },
-  {
-    "name": "random dungeon foggy",
-    "points": 59,
-    "image": "random-dungeons/monsters/monster-foggy.png",
-    "xws": "randomdungeonfoggy"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-rotting.png",
+    "xws": "randomdungeonrotting"
   },
   {
     "name": "random dungeon 562",
-    "points": 60,
+    "points": 56,
+    "expansion": "Gloomhaven",
     "image": "random-dungeons/monsters/monster-foggy.png",
     "xws": "randomdungeonfoggy"
   },
   {
-    "name": "random dungeon fortified",
+    "name": "random dungeon foggy",
+    "points": 57,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-foggy.png",
+    "xws": "randomdungeonfoggy"
+  },
+  {
+    "name": "random dungeon 563",
+    "points": 58,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-crushing.png",
+    "xws": "randomdungeoncrushing"
+  },
+  {
+    "name": "random dungeon crushing",
+    "points": 59,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-crushing.png",
+    "xws": "randomdungeoncrushing"
+  },
+  {
+    "name": "random dungeon 564",
+    "points": 60,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-tribal.png",
+    "xws": "randomdungeontribal"
+  },
+  {
+    "name": "random dungeon tribal",
     "points": 61,
-    "image": "random-dungeons/monsters/monster-fortified.png",
-    "xws": "randomdungeonfortified"
-  },
-  {
-    "name": "random dungeon 559",
-    "points": 62,
-    "image": "random-dungeons/monsters/monster-fortified.png",
-    "xws": "randomdungeonfortified"
-  },
-  {
-    "name": "random dungeon frigid",
-    "points": 63,
-    "image": "random-dungeons/monsters/monster-frigid.png",
-    "xws": "randomdungeonfrigid"
-  },
-  {
-    "name": "random dungeon 573",
-    "points": 64,
-    "image": "random-dungeons/monsters/monster-frigid.png",
-    "xws": "randomdungeonfrigid"
-  },
-  {
-    "name": "random dungeon hopeless",
-    "points": 65,
-    "image": "random-dungeons/monsters/monster-hopeless.png",
-    "xws": "randomdungeonhopeless"
-  },
-  {
-    "name": "random dungeon 556",
-    "points": 66,
-    "image": "random-dungeons/monsters/monster-hopeless.png",
-    "xws": "randomdungeonhopeless"
-  },
-  {
-    "name": "random dungeon horrific",
-    "points": 67,
-    "image": "random-dungeons/monsters/monster-horrific.png",
-    "xws": "randomdungeonhorrific"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-tribal.png",
+    "xws": "randomdungeontribal"
   },
   {
     "name": "random dungeon 565",
-    "points": 68,
+    "points": 62,
+    "expansion": "Gloomhaven",
     "image": "random-dungeons/monsters/monster-horrific.png",
     "xws": "randomdungeonhorrific"
   },
   {
-    "name": "random dungeon infected",
+    "name": "random dungeon horrific",
+    "points": 63,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-horrific.png",
+    "xws": "randomdungeonhorrific"
+  },
+  {
+    "name": "random dungeon 566",
+    "points": 64,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-archaic.png",
+    "xws": "randomdungeonarchaic"
+  },
+  {
+    "name": "random dungeon archaic",
+    "points": 65,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-archaic.png",
+    "xws": "randomdungeonarchaic"
+  },
+  {
+    "name": "random dungeon 567",
+    "points": 66,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-scaled.png",
+    "xws": "randomdungeonscaled"
+  },
+  {
+    "name": "random dungeon scaled",
+    "points": 67,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-scaled.png",
+    "xws": "randomdungeonscaled"
+  },
+  {
+    "name": "random dungeon 568",
+    "points": 68,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-venomous.png",
+    "xws": "randomdungeonvenomous"
+  },
+  {
+    "name": "random dungeon venomous",
     "points": 69,
-    "image": "random-dungeons/monsters/monster-infected.png",
-    "xws": "randomdungeoninfected"
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-venomous.png",
+    "xws": "randomdungeonvenomous"
+  },
+  {
+    "name": "random dungeon 569",
+    "points": 70,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-unstable.png",
+    "xws": "randomdungeonunstable"
+  },
+  {
+    "name": "random dungeon unstable",
+    "points": 71,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-unstable.png",
+    "xws": "randomdungeonunstable"
+  },
+  {
+    "name": "random dungeon 570",
+    "points": 72,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-corrupted.png",
+    "xws": "randomdungeoncorrupted"
+  },
+  {
+    "name": "random dungeon corrupted",
+    "points": 73,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-corrupted.png",
+    "xws": "randomdungeoncorrupted"
   },
   {
     "name": "random dungeon 571",
-    "points": 70,
+    "points": 74,
+    "expansion": "Gloomhaven",
     "image": "random-dungeons/monsters/monster-infected.png",
     "xws": "randomdungeoninfected"
   },
   {
-    "name": "random dungeon mangy",
-    "points": 71,
-    "image": "random-dungeons/monsters/monster-mangy.png",
-    "xws": "randomdungeonmangy"
+    "name": "random dungeon infected",
+    "points": 75,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-infected.png",
+    "xws": "randomdungeoninfected"
   },
   {
-    "name": "random dungeon 554",
-    "points": 72,
-    "image": "random-dungeons/monsters/monster-mangy.png",
-    "xws": "randomdungeonmangy"
+    "name": "random dungeon 572",
+    "points": 76,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-putrid.png",
+    "xws": "randomdungeonputrid"
+  },
+  {
+    "name": "random dungeon putrid",
+    "points": 77,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-putrid.png",
+    "xws": "randomdungeonputrid"
+  },
+  {
+    "name": "random dungeon 573",
+    "points": 78,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-frigid.png",
+    "xws": "randomdungeonfrigid"
+  },
+  {
+    "name": "random dungeon frigid",
+    "points": 79,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/monsters/monster-frigid.png",
+    "xws": "randomdungeonfrigid"
+  },
+  {
+    "name": "random dungeon 622",
+    "points": 80,
+    "expansion": "Forgotten Circles",
+    "image": "random-dungeons/monsters/monster-arid.png",
+    "xws": "randomdungeonarid"
+  },
+  {
+    "name": "random dungeon arid",
+    "points": 81,
+    "expansion": "Forgotten Circles",
+    "image": "random-dungeons/monsters/monster-arid.png",
+    "xws": "randomdungeonarid"
+  },
+  {
+    "name": "random dungeon 623",
+    "points": 82,
+    "expansion": "Forgotten Circles",
+    "image": "random-dungeons/monsters/monster-ethereal.png",
+    "xws": "randomdungeonethereal"
+  },
+  {
+    "name": "random dungeon ethereal",
+    "points": 83,
+    "expansion": "Forgotten Circles",
+    "image": "random-dungeons/monsters/monster-ethereal.png",
+    "xws": "randomdungeonethereal"
+  },
+  {
+    "name": "random dungeon a-back",
+    "points": 84,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-a-back.png",
+    "xws": "randomdungeonaback"
+  },
+  {
+    "name": "random dungeon b-back",
+    "points": 85,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-b-back.png",
+    "xws": "randomdungeonbback"
+  },
+  {
+    "name": "random dungeon ab-back",
+    "points": 86,
+    "expansion": "Gloomhaven",
+    "image": "random-dungeons/dungeons/dungeon-ab-back.png",
+    "xws": "randomdungeonabback"
   },
   {
     "name": "random dungeon monster-back",
-    "points": 73,
+    "points": 87,
+    "expansion": "Gloomhaven",
     "image": "random-dungeons/monsters/monster-monster-back.png",
     "xws": "randomdungeonmonsterback"
   },
   {
-    "name": "random dungeon putrid",
-    "points": 74,
-    "image": "random-dungeons/monsters/monster-putrid.png",
-    "xws": "randomdungeonputrid"
-  },
-  {
-    "name": "random dungeon 572",
-    "points": 75,
-    "image": "random-dungeons/monsters/monster-putrid.png",
-    "xws": "randomdungeonputrid"
-  },
-  {
-    "name": "random dungeon rotting",
-    "points": 76,
-    "image": "random-dungeons/monsters/monster-rotting.png",
-    "xws": "randomdungeonrotting"
-  },
-  {
-    "name": "random dungeon 561",
-    "points": 77,
-    "image": "random-dungeons/monsters/monster-rotting.png",
-    "xws": "randomdungeonrotting"
-  },
-  {
-    "name": "random dungeon scaled",
-    "points": 78,
-    "image": "random-dungeons/monsters/monster-scaled.png",
-    "xws": "randomdungeonscaled"
-  },
-  {
-    "name": "random dungeon 567",
-    "points": 79,
-    "image": "random-dungeons/monsters/monster-scaled.png",
-    "xws": "randomdungeonscaled"
-  },
-  {
-    "name": "random dungeon tribal",
-    "points": 80,
-    "image": "random-dungeons/monsters/monster-tribal.png",
-    "xws": "randomdungeontribal"
-  },
-  {
-    "name": "random dungeon 564",
-    "points": 81,
-    "image": "random-dungeons/monsters/monster-tribal.png",
-    "xws": "randomdungeontribal"
-  },
-  {
-    "name": "random dungeon unstable",
-    "points": 82,
-    "image": "random-dungeons/monsters/monster-unstable.png",
-    "xws": "randomdungeonunstable"
-  },
-  {
-    "name": "random dungeon 569",
-    "points": 83,
-    "image": "random-dungeons/monsters/monster-unstable.png",
-    "xws": "randomdungeonunstable"
-  },
-  {
-    "name": "random dungeon venomous",
-    "points": 84,
-    "image": "random-dungeons/monsters/monster-venomous.png",
-    "xws": "randomdungeonvenomous"
-  },
-  {
-    "name": "random dungeon 568",
-    "points": 85,
-    "image": "random-dungeons/monsters/monster-venomous.png",
-    "xws": "randomdungeonvenomous"
-  },
-  {
-    "name": "random dungeon wild",
-    "points": 86,
-    "image": "random-dungeons/monsters/monster-wild.png",
-    "xws": "randomdungeonwild"
-  },
-  {
-    "name": "random dungeon 558",
-    "points": 87,
-    "image": "random-dungeons/monsters/monster-wild.png",
-    "xws": "randomdungeonwild"
+    "name": "random dungeon monster-back",
+    "points": 88,
+    "expansion": "Forgotten Circles",
+    "image": "random-dungeons/monsters/monster-monster-back.png",
+    "xws": "randomdungeonmonsterback"
   }
 ]

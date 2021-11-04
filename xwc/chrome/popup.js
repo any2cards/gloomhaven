@@ -1,9 +1,9 @@
 var expansion_conversion = {
 	"bg": "Gloomhaven",
-  "fc": "Forgotten Circles",
-  "fh": "Frosthaven",
-  "jl": "Jaws Of The Lion",
-  "cs": "Crimson Scales",
+	"fc": "Forgotten Circles",
+	"fh": "Frosthaven",
+	"jl": "Jaws Of The Lion",
+	"cs": "Crimson Scales",
 };
 
 const getExpFromInputId = (input_id) => {
