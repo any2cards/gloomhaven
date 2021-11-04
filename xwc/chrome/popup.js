@@ -1,5 +1,5 @@
 var expansion_conversion = {
-	"bg": "Base Game",
+	"bg": "Gloomhaven",
   "fc": "Forgotten Circles",
   "fh": "Frosthaven",
   "jl": "Jaws Of The Lion",
