@@ -3,28 +3,28 @@
     "name": "halt bottom front",
     "points": 0,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards-revised/ZZ/halt-bottom-front.png",
+    "image": "player-aid-cards/fc-halt-bottom-front.png",
     "xws": "haltbottomfront"
   },
   {
     "name": "halt bottom back",
     "points": 1,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards-revised/ZZ/halt-bottom-back.png",
+    "image": "player-aid-cards/fc-halt-bottom-back.png",
     "xws": "haltbottomback"
   },
   {
     "name": "halt top front",
     "points": 2,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards-revised/ZZ/halt-top-front.png",
+    "image": "player-aid-cards/fc-halt-top-front.png",
     "xws": "halttopfront"
   },
   {
     "name": "halt top back",
     "points": 3,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards-revised/ZZ/halt-top-back.png",
+    "image": "player-aid-cards/fc-halt-top-back.png",
     "xws": "halttopback"
   },
   {

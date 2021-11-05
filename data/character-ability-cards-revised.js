@@ -285,33 +285,5 @@
     "expansion": "Gloomhaven",
     "image": "character-ability-cards-revised/SU/su-back.png",
     "xws": "suback"
-  },
-  {
-    "name": "halt-bottom-back",
-    "points": 41,
-    "expansion": "Forgotten Circles",
-    "image": "character-ability-cards-revised/ZZ/halt-bottom-back.png",
-    "xws": "haltbottomback"
-  },
-  {
-    "name": "halt-bottom-front",
-    "points": 42,
-    "expansion": "Forgotten Circles",
-    "image": "character-ability-cards-revised/ZZ/halt-bottom-front.png",
-    "xws": "haltbottomfront"
-  },
-  {
-    "name": "halt-top-back",
-    "points": 43,
-    "expansion": "Forgotten Circles",
-    "image": "character-ability-cards-revised/ZZ/halt-top-back.png",
-    "xws": "halttopback"
-  },
-  {
-    "name": "halt-top-front",
-    "points": 44,
-    "expansion": "Forgotten Circles",
-    "image": "character-ability-cards-revised/ZZ/halt-top-front.png",
-    "xws": "halttopfront"
   }
 ]
