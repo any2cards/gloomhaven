@@ -2131,7 +2131,7 @@
     "name": "searing vapors",
     "points": 304,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/searing vapors.png",
+    "image": "monster-ability-cards/manifestation-of-corruption/searing-vapors.png",
     "xws": "searingvapors"
   },
   {
