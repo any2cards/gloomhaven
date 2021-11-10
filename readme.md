@@ -1,8 +1,8 @@
-# NOTE: This repository will be deprecated and removed as of December 1st, 2021.  As of 11/10/2021, it has been superseded by the [Worldhaven Asset Viewer](https://github.com/any2cards/worldhaven). If you have forked or starred this current repository, I suggest you go the the Worldhaven Asset Viewer and do the same.  Thank you.
-
-## Gloomhaven (GH)
+# Gloomhaven (GH)
 
 An easy-to-use collection of data and images from [Gloomhaven](http://www.cephalofair.com/gloomhaven) by [Cephalofair Games](http://www.cephalofair.com/) - Developer: **Isaac Childres**.
+
+11/10/2021: Only used for Firefox Add-On. The new Chrome Extension is powered by [Worldhaven Asset Viewer] (https://github.com/any2cards/worldhaven).
 
 ## What's included
 
@@ -70,7 +70,6 @@ When adding images please use [TinyPNG](https://tinypng.com/) to reduce their fi
 
 A list of projects that use this content:
 
-- [GH Card Viewer](https://chrome.google.com/webstore/detail/gloomhaven-card-viewer/gjiegeogakafejcpakamlkjgdoeiecnk) (Chrome Extension)
 - [GH Card Viewer](https://addons.mozilla.org/en-US/firefox/addon/gloomhaven-card-viewer/) (Firefox Add-On)
 
 Want your project listed here? [Let us know!](https://github.com/any2cards/gloomhaven/issues/new?title=Add%20Project)
