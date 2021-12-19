@@ -1442,2164 +1442,2150 @@
     "xws": "ambs15"
   },
   {
-    "name": "am-bs-16",
-    "points": 206,
-    "expansion": "Gloomhaven",
-    "image": "attack-modifiers/BS/am-bs-16.png",
-    "xws": "ambs16"
-  },
-  {
-    "name": "am-bs-17",
-    "points": 207,
-    "expansion": "Gloomhaven",
-    "image": "attack-modifiers/BS/am-bs-17.png",
-    "xws": "ambs17"
-  },
-  {
     "name": "am-bs-back",
-    "points": 208,
+    "points": 206,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BS/am-bs-back.png",
     "xws": "ambsback"
   },
   {
     "name": "am-bt-01",
-    "points": 209,
+    "points": 207,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BT/am-bt-01.png",
     "xws": "ambt01"
   },
   {
     "name": "am-bt-02",
-    "points": 210,
+    "points": 208,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BT/am-bt-02.png",
     "xws": "ambt02"
   },
   {
     "name": "am-bt-03",
-    "points": 211,
+    "points": 209,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BT/am-bt-03.png",
     "xws": "ambt03"
   },
   {
     "name": "am-bt-04",
-    "points": 212,
+    "points": 210,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BT/am-bt-04.png",
     "xws": "ambt04"
   },
   {
     "name": "am-bt-05",
-    "points": 213,
+    "points": 211,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BT/am-bt-05.png",
     "xws": "ambt05"
   },
   {
     "name": "am-bt-06",
-    "points": 214,
+    "points": 212,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BT/am-bt-06.png",
     "xws": "ambt06"
   },
   {
     "name": "am-bt-07",
-    "points": 215,
+    "points": 213,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BT/am-bt-07.png",
     "xws": "ambt07"
   },
   {
     "name": "am-bt-08",
-    "points": 216,
+    "points": 214,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BT/am-bt-08.png",
     "xws": "ambt08"
   },
   {
     "name": "am-bt-09",
-    "points": 217,
+    "points": 215,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BT/am-bt-09.png",
     "xws": "ambt09"
   },
   {
     "name": "am-bt-10",
-    "points": 218,
+    "points": 216,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BT/am-bt-10.png",
     "xws": "ambt10"
   },
   {
     "name": "am-bt-11",
-    "points": 219,
+    "points": 217,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BT/am-bt-11.png",
     "xws": "ambt11"
   },
   {
     "name": "am-bt-12",
-    "points": 220,
+    "points": 218,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BT/am-bt-12.png",
     "xws": "ambt12"
   },
   {
     "name": "am-bt-13",
-    "points": 221,
+    "points": 219,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BT/am-bt-13.png",
     "xws": "ambt13"
   },
   {
     "name": "am-bt-14",
-    "points": 222,
+    "points": 220,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BT/am-bt-14.png",
     "xws": "ambt14"
   },
   {
     "name": "am-bt-15",
-    "points": 223,
+    "points": 221,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BT/am-bt-15.png",
     "xws": "ambt15"
   },
   {
     "name": "am-bt-16",
-    "points": 224,
+    "points": 222,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BT/am-bt-16.png",
     "xws": "ambt16"
   },
   {
     "name": "am-bt-17",
-    "points": 225,
+    "points": 223,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BT/am-bt-17.png",
     "xws": "ambt17"
   },
   {
     "name": "am-bt-back",
-    "points": 226,
+    "points": 224,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/BT/am-bt-back.png",
     "xws": "ambtback"
   },
   {
     "name": "am-ch-01",
-    "points": 227,
+    "points": 225,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-01.png",
     "xws": "amch01"
   },
   {
     "name": "am-ch-02",
-    "points": 228,
+    "points": 226,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-02.png",
     "xws": "amch02"
   },
   {
     "name": "am-ch-03",
-    "points": 229,
+    "points": 227,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-03.png",
     "xws": "amch03"
   },
   {
     "name": "am-ch-04",
-    "points": 230,
+    "points": 228,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-04.png",
     "xws": "amch04"
   },
   {
     "name": "am-ch-05",
-    "points": 231,
+    "points": 229,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-05.png",
     "xws": "amch05"
   },
   {
     "name": "am-ch-06",
-    "points": 232,
+    "points": 230,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-06.png",
     "xws": "amch06"
   },
   {
     "name": "am-ch-07",
-    "points": 233,
+    "points": 231,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-07.png",
     "xws": "amch07"
   },
   {
     "name": "am-ch-08",
-    "points": 234,
+    "points": 232,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-08.png",
     "xws": "amch08"
   },
   {
     "name": "am-ch-09",
-    "points": 235,
+    "points": 233,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-09.png",
     "xws": "amch09"
   },
   {
     "name": "am-ch-10",
-    "points": 236,
+    "points": 234,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-10.png",
     "xws": "amch10"
   },
   {
     "name": "am-ch-11",
-    "points": 237,
+    "points": 235,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-11.png",
     "xws": "amch11"
   },
   {
     "name": "am-ch-12",
-    "points": 238,
+    "points": 236,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-12.png",
     "xws": "amch12"
   },
   {
     "name": "am-ch-13",
-    "points": 239,
+    "points": 237,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-13.png",
     "xws": "amch13"
   },
   {
     "name": "am-ch-14",
-    "points": 240,
+    "points": 238,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-14.png",
     "xws": "amch14"
   },
   {
     "name": "am-ch-15",
-    "points": 241,
+    "points": 239,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-15.png",
     "xws": "amch15"
   },
   {
     "name": "am-ch-16",
-    "points": 242,
+    "points": 240,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-16.png",
     "xws": "amch16"
   },
   {
     "name": "am-ch-17",
-    "points": 243,
+    "points": 241,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-17.png",
     "xws": "amch17"
   },
   {
     "name": "am-ch-18",
-    "points": 244,
+    "points": 242,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-18.png",
     "xws": "amch18"
   },
   {
     "name": "am-ch-back",
-    "points": 245,
+    "points": 243,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/CH/am-ch-back.png",
     "xws": "amchback"
   },
   {
     "name": "am-dr-01",
-    "points": 246,
+    "points": 244,
     "expansion": "Forgotten Circles",
     "image": "attack-modifiers/DR/am-dr-01.png",
     "xws": "amdr01"
   },
   {
     "name": "am-dr-02",
-    "points": 247,
+    "points": 245,
     "expansion": "Forgotten Circles",
     "image": "attack-modifiers/DR/am-dr-02.png",
     "xws": "amdr02"
   },
   {
     "name": "am-dr-03",
-    "points": 248,
+    "points": 246,
     "expansion": "Forgotten Circles",
     "image": "attack-modifiers/DR/am-dr-03.png",
     "xws": "amdr03"
   },
   {
     "name": "am-dr-04",
-    "points": 249,
+    "points": 247,
     "expansion": "Forgotten Circles",
     "image": "attack-modifiers/DR/am-dr-04.png",
     "xws": "amdr04"
   },
   {
     "name": "am-dr-05",
-    "points": 250,
+    "points": 248,
     "expansion": "Forgotten Circles",
     "image": "attack-modifiers/DR/am-dr-05.png",
     "xws": "amdr05"
   },
   {
     "name": "am-dr-06",
-    "points": 251,
+    "points": 249,
     "expansion": "Forgotten Circles",
     "image": "attack-modifiers/DR/am-dr-06.png",
     "xws": "amdr06"
   },
   {
     "name": "am-dr-07",
-    "points": 252,
+    "points": 250,
     "expansion": "Forgotten Circles",
     "image": "attack-modifiers/DR/am-dr-07.png",
     "xws": "amdr07"
   },
   {
     "name": "am-dr-08",
-    "points": 253,
+    "points": 251,
     "expansion": "Forgotten Circles",
     "image": "attack-modifiers/DR/am-dr-08.png",
     "xws": "amdr08"
   },
   {
     "name": "am-dr-09",
-    "points": 254,
+    "points": 252,
     "expansion": "Forgotten Circles",
     "image": "attack-modifiers/DR/am-dr-09.png",
     "xws": "amdr09"
   },
   {
     "name": "am-dr-10",
-    "points": 255,
+    "points": 253,
     "expansion": "Forgotten Circles",
     "image": "attack-modifiers/DR/am-dr-10.png",
     "xws": "amdr10"
   },
   {
     "name": "am-dr-11",
-    "points": 256,
+    "points": 254,
     "expansion": "Forgotten Circles",
     "image": "attack-modifiers/DR/am-dr-11.png",
     "xws": "amdr11"
   },
   {
     "name": "am-dr-12",
-    "points": 257,
+    "points": 255,
     "expansion": "Forgotten Circles",
     "image": "attack-modifiers/DR/am-dr-12.png",
     "xws": "amdr12"
   },
   {
     "name": "am-dr-13",
-    "points": 258,
+    "points": 256,
     "expansion": "Forgotten Circles",
     "image": "attack-modifiers/DR/am-dr-13.png",
     "xws": "amdr13"
   },
   {
     "name": "am-dr-14",
-    "points": 259,
+    "points": 257,
     "expansion": "Forgotten Circles",
     "image": "attack-modifiers/DR/am-dr-14.png",
     "xws": "amdr14"
   },
   {
     "name": "am-dr-15",
-    "points": 260,
+    "points": 258,
     "expansion": "Forgotten Circles",
     "image": "attack-modifiers/DR/am-dr-15.png",
     "xws": "amdr15"
   },
   {
     "name": "am-dr-back",
-    "points": 261,
+    "points": 259,
     "expansion": "Forgotten Circles",
     "image": "attack-modifiers/DR/am-dr-back.png",
     "xws": "amdrback"
   },
   {
     "name": "am-ds-01",
-    "points": 262,
+    "points": 260,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/DS/am-ds-01.png",
     "xws": "amds01"
   },
   {
     "name": "am-ds-02",
-    "points": 263,
+    "points": 261,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/DS/am-ds-02.png",
     "xws": "amds02"
   },
   {
     "name": "am-ds-03",
-    "points": 264,
+    "points": 262,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/DS/am-ds-03.png",
     "xws": "amds03"
   },
   {
     "name": "am-ds-04",
-    "points": 265,
+    "points": 263,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/DS/am-ds-04.png",
     "xws": "amds04"
   },
   {
     "name": "am-ds-05",
-    "points": 266,
+    "points": 264,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/DS/am-ds-05.png",
     "xws": "amds05"
   },
   {
     "name": "am-ds-06",
-    "points": 267,
+    "points": 265,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/DS/am-ds-06.png",
     "xws": "amds06"
   },
   {
     "name": "am-ds-07",
-    "points": 268,
+    "points": 266,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/DS/am-ds-07.png",
     "xws": "amds07"
   },
   {
     "name": "am-ds-08",
-    "points": 269,
+    "points": 267,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/DS/am-ds-08.png",
     "xws": "amds08"
   },
   {
     "name": "am-ds-09",
-    "points": 270,
+    "points": 268,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/DS/am-ds-09.png",
     "xws": "amds09"
   },
   {
     "name": "am-ds-10",
-    "points": 271,
+    "points": 269,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/DS/am-ds-10.png",
     "xws": "amds10"
   },
   {
     "name": "am-ds-11",
-    "points": 272,
+    "points": 270,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/DS/am-ds-11.png",
     "xws": "amds11"
   },
   {
     "name": "am-ds-12",
-    "points": 273,
+    "points": 271,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/DS/am-ds-12.png",
     "xws": "amds12"
   },
   {
     "name": "am-ds-13",
-    "points": 274,
+    "points": 272,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/DS/am-ds-13.png",
     "xws": "amds13"
   },
   {
     "name": "am-ds-14",
-    "points": 275,
+    "points": 273,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/DS/am-ds-14.png",
     "xws": "amds14"
   },
   {
     "name": "am-ds-15",
-    "points": 276,
+    "points": 274,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/DS/am-ds-15.png",
     "xws": "amds15"
   },
   {
     "name": "am-ds-16",
-    "points": 277,
+    "points": 275,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/DS/am-ds-16.png",
     "xws": "amds16"
   },
   {
     "name": "am-ds-17",
-    "points": 278,
+    "points": 276,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/DS/am-ds-17.png",
     "xws": "amds17"
   },
   {
     "name": "am-ds-back",
-    "points": 279,
+    "points": 277,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/DS/am-ds-back.png",
     "xws": "amdsback"
   },
   {
     "name": "am-el-01",
-    "points": 280,
+    "points": 278,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-01.png",
     "xws": "amel01"
   },
   {
     "name": "am-el-02",
-    "points": 281,
+    "points": 279,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-02.png",
     "xws": "amel02"
   },
   {
     "name": "am-el-03",
-    "points": 282,
+    "points": 280,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-03.png",
     "xws": "amel03"
   },
   {
     "name": "am-el-04",
-    "points": 283,
+    "points": 281,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-04.png",
     "xws": "amel04"
   },
   {
     "name": "am-el-05",
-    "points": 284,
+    "points": 282,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-05.png",
     "xws": "amel05"
   },
   {
     "name": "am-el-06",
-    "points": 285,
+    "points": 283,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-06.png",
     "xws": "amel06"
   },
   {
     "name": "am-el-07",
-    "points": 286,
+    "points": 284,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-07.png",
     "xws": "amel07"
   },
   {
     "name": "am-el-08",
-    "points": 287,
+    "points": 285,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-08.png",
     "xws": "amel08"
   },
   {
     "name": "am-el-09",
-    "points": 288,
+    "points": 286,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-09.png",
     "xws": "amel09"
   },
   {
     "name": "am-el-10",
-    "points": 289,
+    "points": 287,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-10.png",
     "xws": "amel10"
   },
   {
     "name": "am-el-11",
-    "points": 290,
+    "points": 288,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-11.png",
     "xws": "amel11"
   },
   {
     "name": "am-el-12",
-    "points": 291,
+    "points": 289,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-12.png",
     "xws": "amel12"
   },
   {
     "name": "am-el-13",
-    "points": 292,
+    "points": 290,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-13.png",
     "xws": "amel13"
   },
   {
     "name": "am-el-14",
-    "points": 293,
+    "points": 291,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-14.png",
     "xws": "amel14"
   },
   {
     "name": "am-el-15",
-    "points": 294,
+    "points": 292,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-15.png",
     "xws": "amel15"
   },
   {
     "name": "am-el-16",
-    "points": 295,
+    "points": 293,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-16.png",
     "xws": "amel16"
   },
   {
     "name": "am-el-17",
-    "points": 296,
+    "points": 294,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-17.png",
     "xws": "amel17"
   },
   {
     "name": "am-el-18",
-    "points": 297,
+    "points": 295,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-18.png",
     "xws": "amel18"
   },
   {
     "name": "am-el-19",
-    "points": 298,
+    "points": 296,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-19.png",
     "xws": "amel19"
   },
   {
     "name": "am-el-20",
-    "points": 299,
+    "points": 297,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-20.png",
     "xws": "amel20"
   },
   {
     "name": "am-el-21",
-    "points": 300,
+    "points": 298,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-21.png",
     "xws": "amel21"
   },
   {
     "name": "am-el-22",
-    "points": 301,
+    "points": 299,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-22.png",
     "xws": "amel22"
   },
   {
     "name": "am-el-23",
-    "points": 302,
+    "points": 300,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-23.png",
     "xws": "amel23"
   },
   {
     "name": "am-el-24",
-    "points": 303,
+    "points": 301,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-24.png",
     "xws": "amel24"
   },
   {
     "name": "am-el-back",
-    "points": 304,
+    "points": 302,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/EL/am-el-back.png",
     "xws": "amelback"
   },
   {
     "name": "am-mt-01",
-    "points": 305,
+    "points": 303,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-01.png",
     "xws": "ammt01"
   },
   {
     "name": "am-mt-02",
-    "points": 306,
+    "points": 304,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-02.png",
     "xws": "ammt02"
   },
   {
     "name": "am-mt-03",
-    "points": 307,
+    "points": 305,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-03.png",
     "xws": "ammt03"
   },
   {
     "name": "am-mt-04",
-    "points": 308,
+    "points": 306,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-04.png",
     "xws": "ammt04"
   },
   {
     "name": "am-mt-05",
-    "points": 309,
+    "points": 307,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-05.png",
     "xws": "ammt05"
   },
   {
     "name": "am-mt-06",
-    "points": 310,
+    "points": 308,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-06.png",
     "xws": "ammt06"
   },
   {
     "name": "am-mt-07",
-    "points": 311,
+    "points": 309,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-07.png",
     "xws": "ammt07"
   },
   {
     "name": "am-mt-08",
-    "points": 312,
+    "points": 310,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-08.png",
     "xws": "ammt08"
   },
   {
     "name": "am-mt-09",
-    "points": 313,
+    "points": 311,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-09.png",
     "xws": "ammt09"
   },
   {
     "name": "am-mt-10",
-    "points": 314,
+    "points": 312,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-10.png",
     "xws": "ammt10"
   },
   {
     "name": "am-mt-11",
-    "points": 315,
+    "points": 313,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-11.png",
     "xws": "ammt11"
   },
   {
     "name": "am-mt-12",
-    "points": 316,
+    "points": 314,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-12.png",
     "xws": "ammt12"
   },
   {
     "name": "am-mt-13",
-    "points": 317,
+    "points": 315,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-13.png",
     "xws": "ammt13"
   },
   {
     "name": "am-mt-14",
-    "points": 318,
+    "points": 316,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-14.png",
     "xws": "ammt14"
   },
   {
     "name": "am-mt-15",
-    "points": 319,
+    "points": 317,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-15.png",
     "xws": "ammt15"
   },
   {
     "name": "am-mt-16",
-    "points": 320,
+    "points": 318,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-16.png",
     "xws": "ammt16"
   },
   {
     "name": "am-mt-17",
-    "points": 321,
+    "points": 319,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-17.png",
     "xws": "ammt17"
   },
   {
     "name": "am-mt-18",
-    "points": 322,
+    "points": 320,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-18.png",
     "xws": "ammt18"
   },
   {
     "name": "am-mt-19",
-    "points": 323,
+    "points": 321,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-19.png",
     "xws": "ammt19"
   },
   {
     "name": "am-mt-20",
-    "points": 324,
+    "points": 322,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-20.png",
     "xws": "ammt20"
   },
   {
     "name": "am-mt-back",
-    "points": 325,
+    "points": 323,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/MT/am-mt-back.png",
     "xws": "ammtback"
   },
   {
     "name": "am-ns-01",
-    "points": 326,
+    "points": 324,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-01.png",
     "xws": "amns01"
   },
   {
     "name": "am-ns-02",
-    "points": 327,
+    "points": 325,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-02.png",
     "xws": "amns02"
   },
   {
     "name": "am-ns-03",
-    "points": 328,
+    "points": 326,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-03.png",
     "xws": "amns03"
   },
   {
     "name": "am-ns-04",
-    "points": 329,
+    "points": 327,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-04.png",
     "xws": "amns04"
   },
   {
     "name": "am-ns-05",
-    "points": 330,
+    "points": 328,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-05.png",
     "xws": "amns05"
   },
   {
     "name": "am-ns-06",
-    "points": 331,
+    "points": 329,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-06.png",
     "xws": "amns06"
   },
   {
     "name": "am-ns-07",
-    "points": 332,
+    "points": 330,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-07.png",
     "xws": "amns07"
   },
   {
     "name": "am-ns-08",
-    "points": 333,
+    "points": 331,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-08.png",
     "xws": "amns08"
   },
   {
     "name": "am-ns-09",
-    "points": 334,
+    "points": 332,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-09.png",
     "xws": "amns09"
   },
   {
     "name": "am-ns-10",
-    "points": 335,
+    "points": 333,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-10.png",
     "xws": "amns10"
   },
   {
     "name": "am-ns-11",
-    "points": 336,
+    "points": 334,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-11.png",
     "xws": "amns11"
   },
   {
     "name": "am-ns-12",
-    "points": 337,
+    "points": 335,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-12.png",
     "xws": "amns12"
   },
   {
     "name": "am-ns-13",
-    "points": 338,
+    "points": 336,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-13.png",
     "xws": "amns13"
   },
   {
     "name": "am-ns-14",
-    "points": 339,
+    "points": 337,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-14.png",
     "xws": "amns14"
   },
   {
     "name": "am-ns-15",
-    "points": 340,
+    "points": 338,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-15.png",
     "xws": "amns15"
   },
   {
     "name": "am-ns-16",
-    "points": 341,
+    "points": 339,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-16.png",
     "xws": "amns16"
   },
   {
     "name": "am-ns-17",
-    "points": 342,
+    "points": 340,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-17.png",
     "xws": "amns17"
   },
   {
     "name": "am-ns-18",
-    "points": 343,
+    "points": 341,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-18.png",
     "xws": "amns18"
   },
   {
     "name": "am-ns-19",
-    "points": 344,
+    "points": 342,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-19.png",
     "xws": "amns19"
   },
   {
     "name": "am-ns-back",
-    "points": 345,
+    "points": 343,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/NS/am-ns-back.png",
     "xws": "amnsback"
   },
   {
     "name": "am-ph-01",
-    "points": 346,
+    "points": 344,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-01.png",
     "xws": "amph01"
   },
   {
     "name": "am-ph-02",
-    "points": 347,
+    "points": 345,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-02.png",
     "xws": "amph02"
   },
   {
     "name": "am-ph-03",
-    "points": 348,
+    "points": 346,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-03.png",
     "xws": "amph03"
   },
   {
     "name": "am-ph-04",
-    "points": 349,
+    "points": 347,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-04.png",
     "xws": "amph04"
   },
   {
     "name": "am-ph-05",
-    "points": 350,
+    "points": 348,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-05.png",
     "xws": "amph05"
   },
   {
     "name": "am-ph-06",
-    "points": 351,
+    "points": 349,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-06.png",
     "xws": "amph06"
   },
   {
     "name": "am-ph-07",
-    "points": 352,
+    "points": 350,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-07.png",
     "xws": "amph07"
   },
   {
     "name": "am-ph-08",
-    "points": 353,
+    "points": 351,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-08.png",
     "xws": "amph08"
   },
   {
     "name": "am-ph-09",
-    "points": 354,
+    "points": 352,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-09.png",
     "xws": "amph09"
   },
   {
     "name": "am-ph-10",
-    "points": 355,
+    "points": 353,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-10.png",
     "xws": "amph10"
   },
   {
     "name": "am-ph-11",
-    "points": 356,
+    "points": 354,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-11.png",
     "xws": "amph11"
   },
   {
     "name": "am-ph-12",
-    "points": 357,
+    "points": 355,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-12.png",
     "xws": "amph12"
   },
   {
     "name": "am-ph-13",
-    "points": 358,
+    "points": 356,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-13.png",
     "xws": "amph13"
   },
   {
     "name": "am-ph-14",
-    "points": 359,
+    "points": 357,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-14.png",
     "xws": "amph14"
   },
   {
     "name": "am-ph-15",
-    "points": 360,
+    "points": 358,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-15.png",
     "xws": "amph15"
   },
   {
     "name": "am-ph-16",
-    "points": 361,
+    "points": 359,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-16.png",
     "xws": "amph16"
   },
   {
     "name": "am-ph-17",
-    "points": 362,
+    "points": 360,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-17.png",
     "xws": "amph17"
   },
   {
     "name": "am-ph-18",
-    "points": 363,
+    "points": 361,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-18.png",
     "xws": "amph18"
   },
   {
     "name": "am-ph-19",
-    "points": 364,
+    "points": 362,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-19.png",
     "xws": "amph19"
   },
   {
     "name": "am-ph-20",
-    "points": 365,
+    "points": 363,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-20.png",
     "xws": "amph20"
   },
   {
     "name": "am-ph-back",
-    "points": 366,
+    "points": 364,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/PH/am-ph-back.png",
     "xws": "amphback"
   },
   {
     "name": "am-qm-01",
-    "points": 367,
+    "points": 365,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-01.png",
     "xws": "amqm01"
   },
   {
     "name": "am-qm-02",
-    "points": 368,
+    "points": 366,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-02.png",
     "xws": "amqm02"
   },
   {
     "name": "am-qm-03",
-    "points": 369,
+    "points": 367,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-03.png",
     "xws": "amqm03"
   },
   {
     "name": "am-qm-04",
-    "points": 370,
+    "points": 368,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-04.png",
     "xws": "amqm04"
   },
   {
     "name": "am-qm-05",
-    "points": 371,
+    "points": 369,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-05.png",
     "xws": "amqm05"
   },
   {
     "name": "am-qm-06",
-    "points": 372,
+    "points": 370,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-06.png",
     "xws": "amqm06"
   },
   {
     "name": "am-qm-07",
-    "points": 373,
+    "points": 371,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-07.png",
     "xws": "amqm07"
   },
   {
     "name": "am-qm-08",
-    "points": 374,
+    "points": 372,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-08.png",
     "xws": "amqm08"
   },
   {
     "name": "am-qm-09",
-    "points": 375,
+    "points": 373,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-09.png",
     "xws": "amqm09"
   },
   {
     "name": "am-qm-10",
-    "points": 376,
+    "points": 374,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-10.png",
     "xws": "amqm10"
   },
   {
     "name": "am-qm-11",
-    "points": 377,
+    "points": 375,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-11.png",
     "xws": "amqm11"
   },
   {
     "name": "am-qm-12",
-    "points": 378,
+    "points": 376,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-12.png",
     "xws": "amqm12"
   },
   {
     "name": "am-qm-13",
-    "points": 379,
+    "points": 377,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-13.png",
     "xws": "amqm13"
   },
   {
     "name": "am-qm-14",
-    "points": 380,
+    "points": 378,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-14.png",
     "xws": "amqm14"
   },
   {
     "name": "am-qm-15",
-    "points": 381,
+    "points": 379,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-15.png",
     "xws": "amqm15"
   },
   {
     "name": "am-qm-16",
-    "points": 382,
+    "points": 380,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-16.png",
     "xws": "amqm16"
   },
   {
     "name": "am-qm-17",
-    "points": 383,
+    "points": 381,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-17.png",
     "xws": "amqm17"
   },
   {
     "name": "am-qm-18",
-    "points": 384,
+    "points": 382,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-18.png",
     "xws": "amqm18"
   },
   {
     "name": "am-qm-back",
-    "points": 385,
+    "points": 383,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/QM/am-qm-back.png",
     "xws": "amqmback"
   },
   {
     "name": "am-sb-01",
-    "points": 386,
+    "points": 384,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SB/am-sb-01.png",
     "xws": "amsb01"
   },
   {
     "name": "am-sb-02",
-    "points": 387,
+    "points": 385,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SB/am-sb-02.png",
     "xws": "amsb02"
   },
   {
     "name": "am-sb-03",
-    "points": 388,
+    "points": 386,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SB/am-sb-03.png",
     "xws": "amsb03"
   },
   {
     "name": "am-sb-04",
-    "points": 389,
+    "points": 387,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SB/am-sb-04.png",
     "xws": "amsb04"
   },
   {
     "name": "am-sb-05",
-    "points": 390,
+    "points": 388,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SB/am-sb-05.png",
     "xws": "amsb05"
   },
   {
     "name": "am-sb-06",
-    "points": 391,
+    "points": 389,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SB/am-sb-06.png",
     "xws": "amsb06"
   },
   {
     "name": "am-sb-07",
-    "points": 392,
+    "points": 390,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SB/am-sb-07.png",
     "xws": "amsb07"
   },
   {
     "name": "am-sb-08",
-    "points": 393,
+    "points": 391,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SB/am-sb-08.png",
     "xws": "amsb08"
   },
   {
     "name": "am-sb-09",
-    "points": 394,
+    "points": 392,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SB/am-sb-09.png",
     "xws": "amsb09"
   },
   {
     "name": "am-sb-10",
-    "points": 395,
+    "points": 393,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SB/am-sb-10.png",
     "xws": "amsb10"
   },
   {
     "name": "am-sb-11",
-    "points": 396,
+    "points": 394,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SB/am-sb-11.png",
     "xws": "amsb11"
   },
   {
     "name": "am-sb-12",
-    "points": 397,
+    "points": 395,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SB/am-sb-12.png",
     "xws": "amsb12"
   },
   {
     "name": "am-sb-13",
-    "points": 398,
+    "points": 396,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SB/am-sb-13.png",
     "xws": "amsb13"
   },
   {
     "name": "am-sb-14",
-    "points": 399,
+    "points": 397,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SB/am-sb-14.png",
     "xws": "amsb14"
   },
   {
     "name": "am-sb-back",
-    "points": 400,
+    "points": 398,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SB/am-sb-back.png",
     "xws": "amsbback"
   },
   {
     "name": "am-sc-01",
-    "points": 401,
+    "points": 399,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SC/am-sc-01.png",
     "xws": "amsc01"
   },
   {
     "name": "am-sc-02",
-    "points": 402,
+    "points": 400,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SC/am-sc-02.png",
     "xws": "amsc02"
   },
   {
     "name": "am-sc-03",
-    "points": 403,
+    "points": 401,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SC/am-sc-03.png",
     "xws": "amsc03"
   },
   {
     "name": "am-sc-04",
-    "points": 404,
+    "points": 402,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SC/am-sc-04.png",
     "xws": "amsc04"
   },
   {
     "name": "am-sc-05",
-    "points": 405,
+    "points": 403,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SC/am-sc-05.png",
     "xws": "amsc05"
   },
   {
     "name": "am-sc-06",
-    "points": 406,
+    "points": 404,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SC/am-sc-06.png",
     "xws": "amsc06"
   },
   {
     "name": "am-sc-07",
-    "points": 407,
+    "points": 405,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SC/am-sc-07.png",
     "xws": "amsc07"
   },
   {
     "name": "am-sc-08",
-    "points": 408,
+    "points": 406,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SC/am-sc-08.png",
     "xws": "amsc08"
   },
   {
     "name": "am-sc-09",
-    "points": 409,
+    "points": 407,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SC/am-sc-09.png",
     "xws": "amsc09"
   },
   {
     "name": "am-sc-10",
-    "points": 410,
+    "points": 408,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SC/am-sc-10.png",
     "xws": "amsc10"
   },
   {
     "name": "am-sc-11",
-    "points": 411,
+    "points": 409,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SC/am-sc-11.png",
     "xws": "amsc11"
   },
   {
     "name": "am-sc-12",
-    "points": 412,
+    "points": 410,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SC/am-sc-12.png",
     "xws": "amsc12"
   },
   {
     "name": "am-sc-13",
-    "points": 413,
+    "points": 411,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SC/am-sc-13.png",
     "xws": "amsc13"
   },
   {
     "name": "am-sc-14",
-    "points": 414,
+    "points": 412,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SC/am-sc-14.png",
     "xws": "amsc14"
   },
   {
     "name": "am-sc-15",
-    "points": 415,
+    "points": 413,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SC/am-sc-15.png",
     "xws": "amsc15"
   },
   {
     "name": "am-sc-16",
-    "points": 416,
+    "points": 414,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SC/am-sc-16.png",
     "xws": "amsc16"
   },
   {
     "name": "am-sc-17",
-    "points": 417,
+    "points": 415,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SC/am-sc-17.png",
     "xws": "amsc17"
   },
   {
     "name": "am-sc-back",
-    "points": 418,
+    "points": 416,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SC/am-sc-back.png",
     "xws": "amscback"
   },
   {
     "name": "am-sk-01",
-    "points": 419,
+    "points": 417,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-01.png",
     "xws": "amsk01"
   },
   {
     "name": "am-sk-02",
-    "points": 420,
+    "points": 418,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-02.png",
     "xws": "amsk02"
   },
   {
     "name": "am-sk-03",
-    "points": 421,
+    "points": 419,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-03.png",
     "xws": "amsk03"
   },
   {
     "name": "am-sk-04",
-    "points": 422,
+    "points": 420,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-04.png",
     "xws": "amsk04"
   },
   {
     "name": "am-sk-05",
-    "points": 423,
+    "points": 421,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-05.png",
     "xws": "amsk05"
   },
   {
     "name": "am-sk-06",
-    "points": 424,
+    "points": 422,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-06.png",
     "xws": "amsk06"
   },
   {
     "name": "am-sk-07",
-    "points": 425,
+    "points": 423,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-07.png",
     "xws": "amsk07"
   },
   {
     "name": "am-sk-08",
-    "points": 426,
+    "points": 424,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-08.png",
     "xws": "amsk08"
   },
   {
     "name": "am-sk-09",
-    "points": 427,
+    "points": 425,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-09.png",
     "xws": "amsk09"
   },
   {
     "name": "am-sk-10",
-    "points": 428,
+    "points": 426,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-10.png",
     "xws": "amsk10"
   },
   {
     "name": "am-sk-11",
-    "points": 429,
+    "points": 427,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-11.png",
     "xws": "amsk11"
   },
   {
     "name": "am-sk-12",
-    "points": 430,
+    "points": 428,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-12.png",
     "xws": "amsk12"
   },
   {
     "name": "am-sk-13",
-    "points": 431,
+    "points": 429,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-13.png",
     "xws": "amsk13"
   },
   {
     "name": "am-sk-14",
-    "points": 432,
+    "points": 430,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-14.png",
     "xws": "amsk14"
   },
   {
     "name": "am-sk-15",
-    "points": 433,
+    "points": 431,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-15.png",
     "xws": "amsk15"
   },
   {
     "name": "am-sk-16",
-    "points": 434,
+    "points": 432,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-16.png",
     "xws": "amsk16"
   },
   {
     "name": "am-sk-17",
-    "points": 435,
+    "points": 433,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-17.png",
     "xws": "amsk17"
   },
   {
     "name": "am-sk-18",
-    "points": 436,
+    "points": 434,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-18.png",
     "xws": "amsk18"
   },
   {
     "name": "am-sk-19",
-    "points": 437,
+    "points": 435,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-19.png",
     "xws": "amsk19"
   },
   {
     "name": "am-sk-back",
-    "points": 438,
+    "points": 436,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SK/am-sk-back.png",
     "xws": "amskback"
   },
   {
     "name": "am-ss-01",
-    "points": 439,
+    "points": 437,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SS/am-ss-01.png",
     "xws": "amss01"
   },
   {
     "name": "am-ss-02",
-    "points": 440,
+    "points": 438,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SS/am-ss-02.png",
     "xws": "amss02"
   },
   {
     "name": "am-ss-03",
-    "points": 441,
+    "points": 439,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SS/am-ss-03.png",
     "xws": "amss03"
   },
   {
     "name": "am-ss-04",
-    "points": 442,
+    "points": 440,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SS/am-ss-04.png",
     "xws": "amss04"
   },
   {
     "name": "am-ss-05",
-    "points": 443,
+    "points": 441,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SS/am-ss-05.png",
     "xws": "amss05"
   },
   {
     "name": "am-ss-06",
-    "points": 444,
+    "points": 442,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SS/am-ss-06.png",
     "xws": "amss06"
   },
   {
     "name": "am-ss-07",
-    "points": 445,
+    "points": 443,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SS/am-ss-07.png",
     "xws": "amss07"
   },
   {
     "name": "am-ss-08",
-    "points": 446,
+    "points": 444,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SS/am-ss-08.png",
     "xws": "amss08"
   },
   {
     "name": "am-ss-09",
-    "points": 447,
+    "points": 445,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SS/am-ss-09.png",
     "xws": "amss09"
   },
   {
     "name": "am-ss-10",
-    "points": 448,
+    "points": 446,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SS/am-ss-10.png",
     "xws": "amss10"
   },
   {
     "name": "am-ss-11",
-    "points": 449,
+    "points": 447,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SS/am-ss-11.png",
     "xws": "amss11"
   },
   {
     "name": "am-ss-12",
-    "points": 450,
+    "points": 448,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SS/am-ss-12.png",
     "xws": "amss12"
   },
   {
     "name": "am-ss-13",
-    "points": 451,
+    "points": 449,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SS/am-ss-13.png",
     "xws": "amss13"
   },
   {
     "name": "am-ss-14",
-    "points": 452,
+    "points": 450,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SS/am-ss-14.png",
     "xws": "amss14"
   },
   {
     "name": "am-ss-15",
-    "points": 453,
+    "points": 451,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SS/am-ss-15.png",
     "xws": "amss15"
   },
   {
     "name": "am-ss-16",
-    "points": 454,
+    "points": 452,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SS/am-ss-16.png",
     "xws": "amss16"
   },
   {
     "name": "am-ss-back",
-    "points": 455,
+    "points": 453,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SS/am-ss-back.png",
     "xws": "amssback"
   },
   {
     "name": "am-su-01",
-    "points": 456,
+    "points": 454,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-01.png",
     "xws": "amsu01"
   },
   {
     "name": "am-su-02",
-    "points": 457,
+    "points": 455,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-02.png",
     "xws": "amsu02"
   },
   {
     "name": "am-su-03",
-    "points": 458,
+    "points": 456,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-03.png",
     "xws": "amsu03"
   },
   {
     "name": "am-su-04",
-    "points": 459,
+    "points": 457,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-04.png",
     "xws": "amsu04"
   },
   {
     "name": "am-su-05",
-    "points": 460,
+    "points": 458,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-05.png",
     "xws": "amsu05"
   },
   {
     "name": "am-su-06",
-    "points": 461,
+    "points": 459,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-06.png",
     "xws": "amsu06"
   },
   {
     "name": "am-su-07",
-    "points": 462,
+    "points": 460,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-07.png",
     "xws": "amsu07"
   },
   {
     "name": "am-su-08",
-    "points": 463,
+    "points": 461,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-08.png",
     "xws": "amsu08"
   },
   {
     "name": "am-su-09",
-    "points": 464,
+    "points": 462,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-09.png",
     "xws": "amsu09"
   },
   {
     "name": "am-su-10",
-    "points": 465,
+    "points": 463,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-10.png",
     "xws": "amsu10"
   },
   {
     "name": "am-su-11",
-    "points": 466,
+    "points": 464,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-11.png",
     "xws": "amsu11"
   },
   {
     "name": "am-su-12",
-    "points": 467,
+    "points": 465,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-12.png",
     "xws": "amsu12"
   },
   {
     "name": "am-su-13",
-    "points": 468,
+    "points": 466,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-13.png",
     "xws": "amsu13"
   },
   {
     "name": "am-su-14",
-    "points": 469,
+    "points": 467,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-14.png",
     "xws": "amsu14"
   },
   {
     "name": "am-su-15",
-    "points": 470,
+    "points": 468,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-15.png",
     "xws": "amsu15"
   },
   {
     "name": "am-su-16",
-    "points": 471,
+    "points": 469,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-16.png",
     "xws": "amsu16"
   },
   {
     "name": "am-su-17",
-    "points": 472,
+    "points": 470,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-17.png",
     "xws": "amsu17"
   },
   {
     "name": "am-su-18",
-    "points": 473,
+    "points": 471,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-18.png",
     "xws": "amsu18"
   },
   {
     "name": "am-su-19",
-    "points": 474,
+    "points": 472,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-19.png",
     "xws": "amsu19"
   },
   {
     "name": "am-su-20",
-    "points": 475,
+    "points": 473,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-20.png",
     "xws": "amsu20"
   },
   {
     "name": "am-su-21",
-    "points": 476,
+    "points": 474,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-21.png",
     "xws": "amsu21"
   },
   {
     "name": "am-su-22",
-    "points": 477,
+    "points": 475,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-22.png",
     "xws": "amsu22"
   },
   {
     "name": "am-su-back",
-    "points": 478,
+    "points": 476,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SU/am-su-back.png",
     "xws": "amsuback"
   },
   {
     "name": "am-sw-01",
-    "points": 479,
+    "points": 477,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-01.png",
     "xws": "amsw01"
   },
   {
     "name": "am-sw-02",
-    "points": 480,
+    "points": 478,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-02.png",
     "xws": "amsw02"
   },
   {
     "name": "am-sw-03",
-    "points": 481,
+    "points": 479,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-03.png",
     "xws": "amsw03"
   },
   {
     "name": "am-sw-04",
-    "points": 482,
+    "points": 480,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-04.png",
     "xws": "amsw04"
   },
   {
     "name": "am-sw-05",
-    "points": 483,
+    "points": 481,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-05.png",
     "xws": "amsw05"
   },
   {
     "name": "am-sw-06",
-    "points": 484,
+    "points": 482,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-06.png",
     "xws": "amsw06"
   },
   {
     "name": "am-sw-07",
-    "points": 485,
+    "points": 483,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-07.png",
     "xws": "amsw07"
   },
   {
     "name": "am-sw-08",
-    "points": 486,
+    "points": 484,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-08.png",
     "xws": "amsw08"
   },
   {
     "name": "am-sw-09",
-    "points": 487,
+    "points": 485,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-09.png",
     "xws": "amsw09"
   },
   {
     "name": "am-sw-10",
-    "points": 488,
+    "points": 486,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-10.png",
     "xws": "amsw10"
   },
   {
     "name": "am-sw-11",
-    "points": 489,
+    "points": 487,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-11.png",
     "xws": "amsw11"
   },
   {
     "name": "am-sw-12",
-    "points": 490,
+    "points": 488,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-12.png",
     "xws": "amsw12"
   },
   {
     "name": "am-sw-13",
-    "points": 491,
+    "points": 489,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-13.png",
     "xws": "amsw13"
   },
   {
     "name": "am-sw-14",
-    "points": 492,
+    "points": 490,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-14.png",
     "xws": "amsw14"
   },
   {
     "name": "am-sw-15",
-    "points": 493,
+    "points": 491,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-15.png",
     "xws": "amsw15"
   },
   {
     "name": "am-sw-16",
-    "points": 494,
+    "points": 492,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-16.png",
     "xws": "amsw16"
   },
   {
     "name": "am-sw-17",
-    "points": 495,
+    "points": 493,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-17.png",
     "xws": "amsw17"
   },
   {
     "name": "am-sw-18",
-    "points": 496,
+    "points": 494,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-18.png",
     "xws": "amsw18"
   },
   {
     "name": "am-sw-back",
-    "points": 497,
+    "points": 495,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/SW/am-sw-back.png",
     "xws": "amswback"
   },
   {
     "name": "am-ti-01",
-    "points": 498,
+    "points": 496,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/TI/am-ti-01.png",
     "xws": "amti01"
   },
   {
     "name": "am-ti-02",
-    "points": 499,
+    "points": 497,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/TI/am-ti-02.png",
     "xws": "amti02"
   },
   {
     "name": "am-ti-03",
-    "points": 500,
+    "points": 498,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/TI/am-ti-03.png",
     "xws": "amti03"
   },
   {
     "name": "am-ti-04",
-    "points": 501,
+    "points": 499,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/TI/am-ti-04.png",
     "xws": "amti04"
   },
   {
     "name": "am-ti-05",
-    "points": 502,
+    "points": 500,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/TI/am-ti-05.png",
     "xws": "amti05"
   },
   {
     "name": "am-ti-06",
-    "points": 503,
+    "points": 501,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/TI/am-ti-06.png",
     "xws": "amti06"
   },
   {
     "name": "am-ti-07",
-    "points": 504,
+    "points": 502,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/TI/am-ti-07.png",
     "xws": "amti07"
   },
   {
     "name": "am-ti-08",
-    "points": 505,
+    "points": 503,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/TI/am-ti-08.png",
     "xws": "amti08"
   },
   {
     "name": "am-ti-09",
-    "points": 506,
+    "points": 504,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/TI/am-ti-09.png",
     "xws": "amti09"
   },
   {
     "name": "am-ti-10",
-    "points": 507,
+    "points": 505,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/TI/am-ti-10.png",
     "xws": "amti10"
   },
   {
     "name": "am-ti-11",
-    "points": 508,
+    "points": 506,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/TI/am-ti-11.png",
     "xws": "amti11"
   },
   {
     "name": "am-ti-12",
-    "points": 509,
+    "points": 507,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/TI/am-ti-12.png",
     "xws": "amti12"
   },
   {
     "name": "am-ti-13",
-    "points": 510,
+    "points": 508,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/TI/am-ti-13.png",
     "xws": "amti13"
   },
   {
     "name": "am-ti-14",
-    "points": 511,
+    "points": 509,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/TI/am-ti-14.png",
     "xws": "amti14"
   },
   {
     "name": "am-ti-15",
-    "points": 512,
+    "points": 510,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/TI/am-ti-15.png",
     "xws": "amti15"
   },
   {
     "name": "am-ti-16",
-    "points": 513,
+    "points": 511,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/TI/am-ti-16.png",
     "xws": "amti16"
   },
   {
     "name": "am-ti-back",
-    "points": 514,
+    "points": 512,
     "expansion": "Gloomhaven",
     "image": "attack-modifiers/TI/am-ti-back.png",
     "xws": "amtiback"
