@@ -476,14 +476,14 @@
     "xws": "chieftain"
   },
   {
-    "name": "fire-knight",
+    "name": "fire knight",
     "points": 68,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-fire-knight.png",
     "xws": "fireknight"
   },
   {
-    "name": "fire-knight",
+    "name": "fire knight",
     "points": 69,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-fire-knight-back.png",
@@ -546,14 +546,14 @@
     "xws": "mirefoot"
   },
   {
-    "name": "spirit-caller",
+    "name": "spirit caller",
     "points": 78,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-spirit-caller.png",
     "xws": "spiritcaller"
   },
   {
-    "name": "spirit-caller",
+    "name": "spirit caller",
     "points": 79,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-spirit-caller-back.png",
