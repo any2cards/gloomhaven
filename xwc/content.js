@@ -15,7 +15,6 @@ const files = [
   'player-aid-cards.js',
   'random-dungeons.js',
   'random-scenarios.js',
-  'summons.js',
   'world-map.js',
 ]
 
