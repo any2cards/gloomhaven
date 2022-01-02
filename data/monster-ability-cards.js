@@ -1,2165 +1,2606 @@
 [
   {
-    "name": "ma-aa-1",
+    "name": "gh-ma-aa-back",
     "points": 0,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/ancient-artillery/ma-aa-1.png",
-    "xws": "maaa1"
+    "image": "monster-ability-cards/gloomhaven/ancient-artillery/gh-ma-aa-back.png",
+    "xws": "ghmaaaback"
   },
   {
-    "name": "ma-aa-2",
+    "name": "gh-ma-aa-1",
     "points": 1,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/ancient-artillery/ma-aa-2.png",
-    "xws": "maaa2"
+    "image": "monster-ability-cards/gloomhaven/ancient-artillery/gh-ma-aa-1.png",
+    "xws": "ghmaaa1"
   },
   {
-    "name": "ma-aa-3",
+    "name": "gh-ma-aa-2",
     "points": 2,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/ancient-artillery/ma-aa-3.png",
-    "xws": "maaa3"
+    "image": "monster-ability-cards/gloomhaven/ancient-artillery/gh-ma-aa-2.png",
+    "xws": "ghmaaa2"
   },
   {
-    "name": "ma-aa-4",
+    "name": "gh-ma-aa-3",
     "points": 3,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/ancient-artillery/ma-aa-4.png",
-    "xws": "maaa4"
+    "image": "monster-ability-cards/gloomhaven/ancient-artillery/gh-ma-aa-3.png",
+    "xws": "ghmaaa3"
   },
   {
-    "name": "ma-aa-5",
+    "name": "gh-ma-aa-4",
     "points": 4,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/ancient-artillery/ma-aa-5.png",
-    "xws": "maaa5"
+    "image": "monster-ability-cards/gloomhaven/ancient-artillery/gh-ma-aa-4.png",
+    "xws": "ghmaaa4"
   },
   {
-    "name": "ma-aa-6",
+    "name": "gh-ma-aa-5",
     "points": 5,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/ancient-artillery/ma-aa-6.png",
-    "xws": "maaa6"
+    "image": "monster-ability-cards/gloomhaven/ancient-artillery/gh-ma-aa-5.png",
+    "xws": "ghmaaa5"
   },
   {
-    "name": "ma-aa-7",
+    "name": "gh-ma-aa-6",
     "points": 6,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/ancient-artillery/ma-aa-7.png",
-    "xws": "maaa7"
+    "image": "monster-ability-cards/gloomhaven/ancient-artillery/gh-ma-aa-6.png",
+    "xws": "ghmaaa6"
   },
   {
-    "name": "ma-aa-8",
+    "name": "gh-ma-aa-7",
     "points": 7,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/ancient-artillery/ma-aa-8.png",
-    "xws": "maaa8"
+    "image": "monster-ability-cards/gloomhaven/ancient-artillery/gh-ma-aa-7.png",
+    "xws": "ghmaaa7"
   },
   {
-    "name": "ma-aa-back",
+    "name": "gh-ma-aa-8",
     "points": 8,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/ancient-artillery/ma-aa-back.png",
-    "xws": "maaaback"
+    "image": "monster-ability-cards/gloomhaven/ancient-artillery/gh-ma-aa-8.png",
+    "xws": "ghmaaa8"
   },
   {
-    "name": "ma-ar-1",
+    "name": "gh-ma-ar-back",
     "points": 9,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/archer/ma-ar-1.png",
-    "xws": "maar1"
+    "image": "monster-ability-cards/gloomhaven/archer/gh-ma-ar-back.png",
+    "xws": "ghmaarback"
   },
   {
-    "name": "ma-ar-2",
+    "name": "gh-ma-ar-1",
     "points": 10,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/archer/ma-ar-2.png",
-    "xws": "maar2"
+    "image": "monster-ability-cards/gloomhaven/archer/gh-ma-ar-1.png",
+    "xws": "ghmaar1"
   },
   {
-    "name": "ma-ar-3",
+    "name": "gh-ma-ar-2",
     "points": 11,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/archer/ma-ar-3.png",
-    "xws": "maar3"
+    "image": "monster-ability-cards/gloomhaven/archer/gh-ma-ar-2.png",
+    "xws": "ghmaar2"
   },
   {
-    "name": "ma-ar-4",
+    "name": "gh-ma-ar-3",
     "points": 12,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/archer/ma-ar-4.png",
-    "xws": "maar4"
+    "image": "monster-ability-cards/gloomhaven/archer/gh-ma-ar-3.png",
+    "xws": "ghmaar3"
   },
   {
-    "name": "ma-ar-5",
+    "name": "gh-ma-ar-4",
     "points": 13,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/archer/ma-ar-5.png",
-    "xws": "maar5"
+    "image": "monster-ability-cards/gloomhaven/archer/gh-ma-ar-4.png",
+    "xws": "ghmaar4"
   },
   {
-    "name": "ma-ar-6",
+    "name": "gh-ma-ar-5",
     "points": 14,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/archer/ma-ar-6.png",
-    "xws": "maar6"
+    "image": "monster-ability-cards/gloomhaven/archer/gh-ma-ar-5.png",
+    "xws": "ghmaar5"
   },
   {
-    "name": "ma-ar-7",
+    "name": "gh-ma-ar-6",
     "points": 15,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/archer/ma-ar-7.png",
-    "xws": "maar7"
+    "image": "monster-ability-cards/gloomhaven/archer/gh-ma-ar-6.png",
+    "xws": "ghmaar6"
   },
   {
-    "name": "ma-ar-8",
+    "name": "gh-ma-ar-7",
     "points": 16,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/archer/ma-ar-8.png",
-    "xws": "maar8"
+    "image": "monster-ability-cards/gloomhaven/archer/gh-ma-ar-7.png",
+    "xws": "ghmaar7"
   },
   {
-    "name": "ma-ar-back",
+    "name": "gh-ma-ar-8",
     "points": 17,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/archer/ma-ar-back.png",
-    "xws": "maarback"
+    "image": "monster-ability-cards/gloomhaven/archer/gh-ma-ar-8.png",
+    "xws": "ghmaar8"
   },
   {
-    "name": "ma-bo-1",
+    "name": "gh-ma-bo-back",
     "points": 18,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/boss/ma-bo-1.png",
-    "xws": "mabo1"
+    "image": "monster-ability-cards/gloomhaven/boss/gh-ma-bo-back.png",
+    "xws": "ghmaboback"
   },
   {
-    "name": "ma-bo-2",
+    "name": "gh-ma-bo-1",
     "points": 19,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/boss/ma-bo-2.png",
-    "xws": "mabo2"
+    "image": "monster-ability-cards/gloomhaven/boss/gh-ma-bo-1.png",
+    "xws": "ghmabo1"
   },
   {
-    "name": "ma-bo-3",
+    "name": "gh-ma-bo-2",
     "points": 20,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/boss/ma-bo-3.png",
-    "xws": "mabo3"
+    "image": "monster-ability-cards/gloomhaven/boss/gh-ma-bo-2.png",
+    "xws": "ghmabo2"
   },
   {
-    "name": "ma-bo-4",
+    "name": "gh-ma-bo-3",
     "points": 21,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/boss/ma-bo-4.png",
-    "xws": "mabo4"
+    "image": "monster-ability-cards/gloomhaven/boss/gh-ma-bo-3.png",
+    "xws": "ghmabo3"
   },
   {
-    "name": "ma-bo-5",
+    "name": "gh-ma-bo-4",
     "points": 22,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/boss/ma-bo-5.png",
-    "xws": "mabo5"
+    "image": "monster-ability-cards/gloomhaven/boss/gh-ma-bo-4.png",
+    "xws": "ghmabo4"
   },
   {
-    "name": "ma-bo-6",
+    "name": "gh-ma-bo-5",
     "points": 23,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/boss/ma-bo-6.png",
-    "xws": "mabo6"
+    "image": "monster-ability-cards/gloomhaven/boss/gh-ma-bo-5.png",
+    "xws": "ghmabo5"
   },
   {
-    "name": "ma-bo-7",
+    "name": "gh-ma-bo-6",
     "points": 24,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/boss/ma-bo-7.png",
-    "xws": "mabo7"
+    "image": "monster-ability-cards/gloomhaven/boss/gh-ma-bo-6.png",
+    "xws": "ghmabo6"
   },
   {
-    "name": "ma-bo-8",
+    "name": "gh-ma-bo-7",
     "points": 25,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/boss/ma-bo-8.png",
-    "xws": "mabo8"
+    "image": "monster-ability-cards/gloomhaven/boss/gh-ma-bo-7.png",
+    "xws": "ghmabo7"
   },
   {
-    "name": "ma-bo-back",
+    "name": "gh-ma-bo-8",
     "points": 26,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/boss/ma-bo-back.png",
-    "xws": "maboback"
+    "image": "monster-ability-cards/gloomhaven/boss/gh-ma-bo-8.png",
+    "xws": "ghmabo8"
   },
   {
-    "name": "ma-cb-1",
+    "name": "gh-ma-cb-back",
     "points": 27,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/cave-bear/ma-cb-1.png",
-    "xws": "macb1"
+    "image": "monster-ability-cards/gloomhaven/cave-bear/gh-ma-cb-back.png",
+    "xws": "ghmacbback"
   },
   {
-    "name": "ma-cb-2",
+    "name": "gh-ma-cb-1",
     "points": 28,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/cave-bear/ma-cb-2.png",
-    "xws": "macb2"
+    "image": "monster-ability-cards/gloomhaven/cave-bear/gh-ma-cb-1.png",
+    "xws": "ghmacb1"
   },
   {
-    "name": "ma-cb-3",
+    "name": "gh-ma-cb-2",
     "points": 29,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/cave-bear/ma-cb-3.png",
-    "xws": "macb3"
+    "image": "monster-ability-cards/gloomhaven/cave-bear/gh-ma-cb-2.png",
+    "xws": "ghmacb2"
   },
   {
-    "name": "ma-cb-4",
+    "name": "gh-ma-cb-3",
     "points": 30,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/cave-bear/ma-cb-4.png",
-    "xws": "macb4"
+    "image": "monster-ability-cards/gloomhaven/cave-bear/gh-ma-cb-3.png",
+    "xws": "ghmacb3"
   },
   {
-    "name": "ma-cb-5",
+    "name": "gh-ma-cb-4",
     "points": 31,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/cave-bear/ma-cb-5.png",
-    "xws": "macb5"
+    "image": "monster-ability-cards/gloomhaven/cave-bear/gh-ma-cb-4.png",
+    "xws": "ghmacb4"
   },
   {
-    "name": "ma-cb-6",
+    "name": "gh-ma-cb-5",
     "points": 32,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/cave-bear/ma-cb-6.png",
-    "xws": "macb6"
+    "image": "monster-ability-cards/gloomhaven/cave-bear/gh-ma-cb-5.png",
+    "xws": "ghmacb5"
   },
   {
-    "name": "ma-cb-7",
+    "name": "gh-ma-cb-6",
     "points": 33,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/cave-bear/ma-cb-7.png",
-    "xws": "macb7"
+    "image": "monster-ability-cards/gloomhaven/cave-bear/gh-ma-cb-6.png",
+    "xws": "ghmacb6"
   },
   {
-    "name": "ma-cb-8",
+    "name": "gh-ma-cb-7",
     "points": 34,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/cave-bear/ma-cb-8.png",
-    "xws": "macb8"
+    "image": "monster-ability-cards/gloomhaven/cave-bear/gh-ma-cb-7.png",
+    "xws": "ghmacb7"
   },
   {
-    "name": "ma-cb-back",
+    "name": "gh-ma-cb-8",
     "points": 35,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/cave-bear/ma-cb-back.png",
-    "xws": "macbback"
+    "image": "monster-ability-cards/gloomhaven/cave-bear/gh-ma-cb-8.png",
+    "xws": "ghmacb8"
   },
   {
-    "name": "ma-cu-1",
+    "name": "gh-ma-cu-back",
     "points": 36,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/cultist/ma-cu-1.png",
-    "xws": "macu1"
+    "image": "monster-ability-cards/gloomhaven/cultist/gh-ma-cu-back.png",
+    "xws": "ghmacuback"
   },
   {
-    "name": "ma-cu-2",
+    "name": "gh-ma-cu-1",
     "points": 37,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/cultist/ma-cu-2.png",
-    "xws": "macu2"
+    "image": "monster-ability-cards/gloomhaven/cultist/gh-ma-cu-1.png",
+    "xws": "ghmacu1"
   },
   {
-    "name": "ma-cu-3",
+    "name": "gh-ma-cu-2",
     "points": 38,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/cultist/ma-cu-3.png",
-    "xws": "macu3"
+    "image": "monster-ability-cards/gloomhaven/cultist/gh-ma-cu-2.png",
+    "xws": "ghmacu2"
   },
   {
-    "name": "ma-cu-4",
+    "name": "gh-ma-cu-3",
     "points": 39,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/cultist/ma-cu-4.png",
-    "xws": "macu4"
+    "image": "monster-ability-cards/gloomhaven/cultist/gh-ma-cu-3.png",
+    "xws": "ghmacu3"
   },
   {
-    "name": "ma-cu-5",
+    "name": "gh-ma-cu-4",
     "points": 40,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/cultist/ma-cu-5.png",
-    "xws": "macu5"
+    "image": "monster-ability-cards/gloomhaven/cultist/gh-ma-cu-4.png",
+    "xws": "ghmacu4"
   },
   {
-    "name": "ma-cu-6",
+    "name": "gh-ma-cu-5",
     "points": 41,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/cultist/ma-cu-6.png",
-    "xws": "macu6"
+    "image": "monster-ability-cards/gloomhaven/cultist/gh-ma-cu-5.png",
+    "xws": "ghmacu5"
   },
   {
-    "name": "ma-cu-7",
+    "name": "gh-ma-cu-6",
     "points": 42,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/cultist/ma-cu-7.png",
-    "xws": "macu7"
+    "image": "monster-ability-cards/gloomhaven/cultist/gh-ma-cu-6.png",
+    "xws": "ghmacu6"
   },
   {
-    "name": "ma-cu-8",
+    "name": "gh-ma-cu-7",
     "points": 43,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/cultist/ma-cu-8.png",
-    "xws": "macu8"
+    "image": "monster-ability-cards/gloomhaven/cultist/gh-ma-cu-7.png",
+    "xws": "ghmacu7"
   },
   {
-    "name": "ma-cu-back",
+    "name": "gh-ma-cu-8",
     "points": 44,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/cultist/ma-cu-back.png",
-    "xws": "macuback"
+    "image": "monster-ability-cards/gloomhaven/cultist/gh-ma-cu-8.png",
+    "xws": "ghmacu8"
   },
   {
-    "name": "ma-dt-1",
+    "name": "gh-ma-dt-back",
     "points": 45,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/deep-terror/ma-dt-1.png",
-    "xws": "madt1"
+    "image": "monster-ability-cards/gloomhaven/deep-terror/gh-ma-dt-back.png",
+    "xws": "ghmadtback"
   },
   {
-    "name": "ma-dt-2",
+    "name": "gh-ma-dt-1",
     "points": 46,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/deep-terror/ma-dt-2.png",
-    "xws": "madt2"
+    "image": "monster-ability-cards/gloomhaven/deep-terror/gh-ma-dt-1.png",
+    "xws": "ghmadt1"
   },
   {
-    "name": "ma-dt-3",
+    "name": "gh-ma-dt-2",
     "points": 47,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/deep-terror/ma-dt-3.png",
-    "xws": "madt3"
+    "image": "monster-ability-cards/gloomhaven/deep-terror/gh-ma-dt-2.png",
+    "xws": "ghmadt2"
   },
   {
-    "name": "ma-dt-4",
+    "name": "gh-ma-dt-3",
     "points": 48,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/deep-terror/ma-dt-4.png",
-    "xws": "madt4"
+    "image": "monster-ability-cards/gloomhaven/deep-terror/gh-ma-dt-3.png",
+    "xws": "ghmadt3"
   },
   {
-    "name": "ma-dt-5",
+    "name": "gh-ma-dt-4",
     "points": 49,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/deep-terror/ma-dt-5.png",
-    "xws": "madt5"
+    "image": "monster-ability-cards/gloomhaven/deep-terror/gh-ma-dt-4.png",
+    "xws": "ghmadt4"
   },
   {
-    "name": "ma-dt-6",
+    "name": "gh-ma-dt-5",
     "points": 50,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/deep-terror/ma-dt-6.png",
-    "xws": "madt6"
+    "image": "monster-ability-cards/gloomhaven/deep-terror/gh-ma-dt-5.png",
+    "xws": "ghmadt5"
   },
   {
-    "name": "ma-dt-7",
+    "name": "gh-ma-dt-6",
     "points": 51,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/deep-terror/ma-dt-7.png",
-    "xws": "madt7"
+    "image": "monster-ability-cards/gloomhaven/deep-terror/gh-ma-dt-6.png",
+    "xws": "ghmadt6"
   },
   {
-    "name": "ma-dt-8",
+    "name": "gh-ma-dt-7",
     "points": 52,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/deep-terror/ma-dt-8.png",
-    "xws": "madt8"
+    "image": "monster-ability-cards/gloomhaven/deep-terror/gh-ma-dt-7.png",
+    "xws": "ghmadt7"
   },
   {
-    "name": "ma-dt-back",
+    "name": "gh-ma-dt-8",
     "points": 53,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/deep-terror/ma-dt-back.png",
-    "xws": "madtback"
+    "image": "monster-ability-cards/gloomhaven/deep-terror/gh-ma-dt-8.png",
+    "xws": "ghmadt8"
   },
   {
-    "name": "ma-ed-1",
+    "name": "gh-ma-ed-back",
     "points": 54,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/earth-demon/ma-ed-1.png",
-    "xws": "maed1"
+    "image": "monster-ability-cards/gloomhaven/earth-demon/gh-ma-ed-back.png",
+    "xws": "ghmaedback"
   },
   {
-    "name": "ma-ed-2",
+    "name": "gh-ma-ed-1",
     "points": 55,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/earth-demon/ma-ed-2.png",
-    "xws": "maed2"
+    "image": "monster-ability-cards/gloomhaven/earth-demon/gh-ma-ed-1.png",
+    "xws": "ghmaed1"
   },
   {
-    "name": "ma-ed-3",
+    "name": "gh-ma-ed-2",
     "points": 56,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/earth-demon/ma-ed-3.png",
-    "xws": "maed3"
+    "image": "monster-ability-cards/gloomhaven/earth-demon/gh-ma-ed-2.png",
+    "xws": "ghmaed2"
   },
   {
-    "name": "ma-ed-4",
+    "name": "gh-ma-ed-3",
     "points": 57,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/earth-demon/ma-ed-4.png",
-    "xws": "maed4"
+    "image": "monster-ability-cards/gloomhaven/earth-demon/gh-ma-ed-3.png",
+    "xws": "ghmaed3"
   },
   {
-    "name": "ma-ed-5",
+    "name": "gh-ma-ed-4",
     "points": 58,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/earth-demon/ma-ed-5.png",
-    "xws": "maed5"
+    "image": "monster-ability-cards/gloomhaven/earth-demon/gh-ma-ed-4.png",
+    "xws": "ghmaed4"
   },
   {
-    "name": "ma-ed-6",
+    "name": "gh-ma-ed-5",
     "points": 59,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/earth-demon/ma-ed-6.png",
-    "xws": "maed6"
+    "image": "monster-ability-cards/gloomhaven/earth-demon/gh-ma-ed-5.png",
+    "xws": "ghmaed5"
   },
   {
-    "name": "ma-ed-7",
+    "name": "gh-ma-ed-6",
     "points": 60,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/earth-demon/ma-ed-7.png",
-    "xws": "maed7"
+    "image": "monster-ability-cards/gloomhaven/earth-demon/gh-ma-ed-6.png",
+    "xws": "ghmaed6"
   },
   {
-    "name": "ma-ed-8",
+    "name": "gh-ma-ed-7",
     "points": 61,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/earth-demon/ma-ed-8.png",
-    "xws": "maed8"
+    "image": "monster-ability-cards/gloomhaven/earth-demon/gh-ma-ed-7.png",
+    "xws": "ghmaed7"
   },
   {
-    "name": "ma-ed-back",
+    "name": "gh-ma-ed-8",
     "points": 62,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/earth-demon/ma-ed-back.png",
-    "xws": "maedback"
+    "image": "monster-ability-cards/gloomhaven/earth-demon/gh-ma-ed-8.png",
+    "xws": "ghmaed8"
   },
   {
-    "name": "ma-fld-1",
+    "name": "gh-ma-fld-back",
     "points": 63,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/flame-demon/ma-fld-1.png",
-    "xws": "mafld1"
+    "image": "monster-ability-cards/gloomhaven/flame-demon/gh-ma-fld-back.png",
+    "xws": "ghmafldback"
   },
   {
-    "name": "ma-fld-2",
+    "name": "gh-ma-fld-1",
     "points": 64,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/flame-demon/ma-fld-2.png",
-    "xws": "mafld2"
+    "image": "monster-ability-cards/gloomhaven/flame-demon/gh-ma-fld-1.png",
+    "xws": "ghmafld1"
   },
   {
-    "name": "ma-fld-3",
+    "name": "gh-ma-fld-2",
     "points": 65,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/flame-demon/ma-fld-3.png",
-    "xws": "mafld3"
+    "image": "monster-ability-cards/gloomhaven/flame-demon/gh-ma-fld-2.png",
+    "xws": "ghmafld2"
   },
   {
-    "name": "ma-fld-4",
+    "name": "gh-ma-fld-3",
     "points": 66,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/flame-demon/ma-fld-4.png",
-    "xws": "mafld4"
+    "image": "monster-ability-cards/gloomhaven/flame-demon/gh-ma-fld-3.png",
+    "xws": "ghmafld3"
   },
   {
-    "name": "ma-fld-5",
+    "name": "gh-ma-fld-4",
     "points": 67,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/flame-demon/ma-fld-5.png",
-    "xws": "mafld5"
+    "image": "monster-ability-cards/gloomhaven/flame-demon/gh-ma-fld-4.png",
+    "xws": "ghmafld4"
   },
   {
-    "name": "ma-fld-6",
+    "name": "gh-ma-fld-5",
     "points": 68,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/flame-demon/ma-fld-6.png",
-    "xws": "mafld6"
+    "image": "monster-ability-cards/gloomhaven/flame-demon/gh-ma-fld-5.png",
+    "xws": "ghmafld5"
   },
   {
-    "name": "ma-fld-7",
+    "name": "gh-ma-fld-6",
     "points": 69,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/flame-demon/ma-fld-7.png",
-    "xws": "mafld7"
+    "image": "monster-ability-cards/gloomhaven/flame-demon/gh-ma-fld-6.png",
+    "xws": "ghmafld6"
   },
   {
-    "name": "ma-fld-8",
+    "name": "gh-ma-fld-7",
     "points": 70,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/flame-demon/ma-fld-8.png",
-    "xws": "mafld8"
+    "image": "monster-ability-cards/gloomhaven/flame-demon/gh-ma-fld-7.png",
+    "xws": "ghmafld7"
   },
   {
-    "name": "ma-fld-back",
+    "name": "gh-ma-fld-8",
     "points": 71,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/flame-demon/ma-fld-back.png",
-    "xws": "mafldback"
+    "image": "monster-ability-cards/gloomhaven/flame-demon/gh-ma-fld-8.png",
+    "xws": "ghmafld8"
   },
   {
-    "name": "ma-frd-1",
+    "name": "gh-ma-frd-back",
     "points": 72,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/frost-demon/ma-frd-1.png",
-    "xws": "mafrd1"
+    "image": "monster-ability-cards/gloomhaven/frost-demon/gh-ma-frd-back.png",
+    "xws": "ghmafrdback"
   },
   {
-    "name": "ma-frd-2",
+    "name": "gh-ma-frd-1",
     "points": 73,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/frost-demon/ma-frd-2.png",
-    "xws": "mafrd2"
+    "image": "monster-ability-cards/gloomhaven/frost-demon/gh-ma-frd-1.png",
+    "xws": "ghmafrd1"
   },
   {
-    "name": "ma-frd-3",
+    "name": "gh-ma-frd-2",
     "points": 74,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/frost-demon/ma-frd-3.png",
-    "xws": "mafrd3"
+    "image": "monster-ability-cards/gloomhaven/frost-demon/gh-ma-frd-2.png",
+    "xws": "ghmafrd2"
   },
   {
-    "name": "ma-frd-4",
+    "name": "gh-ma-frd-3",
     "points": 75,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/frost-demon/ma-frd-4.png",
-    "xws": "mafrd4"
+    "image": "monster-ability-cards/gloomhaven/frost-demon/gh-ma-frd-3.png",
+    "xws": "ghmafrd3"
   },
   {
-    "name": "ma-frd-5",
+    "name": "gh-ma-frd-4",
     "points": 76,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/frost-demon/ma-frd-5.png",
-    "xws": "mafrd5"
+    "image": "monster-ability-cards/gloomhaven/frost-demon/gh-ma-frd-4.png",
+    "xws": "ghmafrd4"
   },
   {
-    "name": "ma-frd-6",
+    "name": "gh-ma-frd-5",
     "points": 77,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/frost-demon/ma-frd-6.png",
-    "xws": "mafrd6"
+    "image": "monster-ability-cards/gloomhaven/frost-demon/gh-ma-frd-5.png",
+    "xws": "ghmafrd5"
   },
   {
-    "name": "ma-frd-7",
+    "name": "gh-ma-frd-6",
     "points": 78,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/frost-demon/ma-frd-7.png",
-    "xws": "mafrd7"
+    "image": "monster-ability-cards/gloomhaven/frost-demon/gh-ma-frd-6.png",
+    "xws": "ghmafrd6"
   },
   {
-    "name": "ma-frd-8",
+    "name": "gh-ma-frd-7",
     "points": 79,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/frost-demon/ma-frd-8.png",
-    "xws": "mafrd8"
+    "image": "monster-ability-cards/gloomhaven/frost-demon/gh-ma-frd-7.png",
+    "xws": "ghmafrd7"
   },
   {
-    "name": "ma-frd-back",
+    "name": "gh-ma-frd-8",
     "points": 80,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/frost-demon/ma-frd-back.png",
-    "xws": "mafrdback"
+    "image": "monster-ability-cards/gloomhaven/frost-demon/gh-ma-frd-8.png",
+    "xws": "ghmafrd8"
   },
   {
-    "name": "ma-gv-1",
+    "name": "gh-ma-gv-back",
     "points": 81,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/giant-viper/ma-gv-1.png",
-    "xws": "magv1"
+    "image": "monster-ability-cards/gloomhaven/giant-viper/gh-ma-gv-back.png",
+    "xws": "ghmagvback"
   },
   {
-    "name": "ma-gv-2",
+    "name": "gh-ma-gv-1",
     "points": 82,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/giant-viper/ma-gv-2.png",
-    "xws": "magv2"
+    "image": "monster-ability-cards/gloomhaven/giant-viper/gh-ma-gv-1.png",
+    "xws": "ghmagv1"
   },
   {
-    "name": "ma-gv-3",
+    "name": "gh-ma-gv-2",
     "points": 83,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/giant-viper/ma-gv-3.png",
-    "xws": "magv3"
+    "image": "monster-ability-cards/gloomhaven/giant-viper/gh-ma-gv-2.png",
+    "xws": "ghmagv2"
   },
   {
-    "name": "ma-gv-4",
+    "name": "gh-ma-gv-3",
     "points": 84,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/giant-viper/ma-gv-4.png",
-    "xws": "magv4"
+    "image": "monster-ability-cards/gloomhaven/giant-viper/gh-ma-gv-3.png",
+    "xws": "ghmagv3"
   },
   {
-    "name": "ma-gv-5",
+    "name": "gh-ma-gv-4",
     "points": 85,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/giant-viper/ma-gv-5.png",
-    "xws": "magv5"
+    "image": "monster-ability-cards/gloomhaven/giant-viper/gh-ma-gv-4.png",
+    "xws": "ghmagv4"
   },
   {
-    "name": "ma-gv-6",
+    "name": "gh-ma-gv-5",
     "points": 86,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/giant-viper/ma-gv-6.png",
-    "xws": "magv6"
+    "image": "monster-ability-cards/gloomhaven/giant-viper/gh-ma-gv-5.png",
+    "xws": "ghmagv5"
   },
   {
-    "name": "ma-gv-7",
+    "name": "gh-ma-gv-6",
     "points": 87,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/giant-viper/ma-gv-7.png",
-    "xws": "magv7"
+    "image": "monster-ability-cards/gloomhaven/giant-viper/gh-ma-gv-6.png",
+    "xws": "ghmagv6"
   },
   {
-    "name": "ma-gv-8",
+    "name": "gh-ma-gv-7",
     "points": 88,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/giant-viper/ma-gv-8.png",
-    "xws": "magv8"
+    "image": "monster-ability-cards/gloomhaven/giant-viper/gh-ma-gv-7.png",
+    "xws": "ghmagv7"
   },
   {
-    "name": "ma-gv-back",
+    "name": "gh-ma-gv-8",
     "points": 89,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/giant-viper/ma-gv-back.png",
-    "xws": "magvback"
+    "image": "monster-ability-cards/gloomhaven/giant-viper/gh-ma-gv-8.png",
+    "xws": "ghmagv8"
   },
   {
-    "name": "ma-gu-1",
+    "name": "gh-ma-gu-back",
     "points": 90,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/guard/ma-gu-1.png",
-    "xws": "magu1"
+    "image": "monster-ability-cards/gloomhaven/guard/gh-ma-gu-back.png",
+    "xws": "ghmaguback"
   },
   {
-    "name": "ma-gu-2",
+    "name": "gh-ma-gu-1",
     "points": 91,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/guard/ma-gu-2.png",
-    "xws": "magu2"
+    "image": "monster-ability-cards/gloomhaven/guard/gh-ma-gu-1.png",
+    "xws": "ghmagu1"
   },
   {
-    "name": "ma-gu-3",
+    "name": "gh-ma-gu-2",
     "points": 92,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/guard/ma-gu-3.png",
-    "xws": "magu3"
+    "image": "monster-ability-cards/gloomhaven/guard/gh-ma-gu-2.png",
+    "xws": "ghmagu2"
   },
   {
-    "name": "ma-gu-4",
+    "name": "gh-ma-gu-3",
     "points": 93,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/guard/ma-gu-4.png",
-    "xws": "magu4"
+    "image": "monster-ability-cards/gloomhaven/guard/gh-ma-gu-3.png",
+    "xws": "ghmagu3"
   },
   {
-    "name": "ma-gu-5",
+    "name": "gh-ma-gu-4",
     "points": 94,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/guard/ma-gu-5.png",
-    "xws": "magu5"
+    "image": "monster-ability-cards/gloomhaven/guard/gh-ma-gu-4.png",
+    "xws": "ghmagu4"
   },
   {
-    "name": "ma-gu-6",
+    "name": "gh-ma-gu-5",
     "points": 95,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/guard/ma-gu-6.png",
-    "xws": "magu6"
+    "image": "monster-ability-cards/gloomhaven/guard/gh-ma-gu-5.png",
+    "xws": "ghmagu5"
   },
   {
-    "name": "ma-gu-7",
+    "name": "gh-ma-gu-6",
     "points": 96,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/guard/ma-gu-7.png",
-    "xws": "magu7"
+    "image": "monster-ability-cards/gloomhaven/guard/gh-ma-gu-6.png",
+    "xws": "ghmagu6"
   },
   {
-    "name": "ma-gu-8",
+    "name": "gh-ma-gu-7",
     "points": 97,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/guard/ma-gu-8.png",
-    "xws": "magu8"
+    "image": "monster-ability-cards/gloomhaven/guard/gh-ma-gu-7.png",
+    "xws": "ghmagu7"
   },
   {
-    "name": "ma-gu-back",
+    "name": "gh-ma-gu-8",
     "points": 98,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/guard/ma-gu-back.png",
-    "xws": "maguback"
+    "image": "monster-ability-cards/gloomhaven/guard/gh-ma-gu-8.png",
+    "xws": "ghmagu8"
   },
   {
-    "name": "ma-hi-1",
+    "name": "gh-ma-hi-back",
     "points": 99,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/harrower-infester/ma-hi-1.png",
-    "xws": "mahi1"
+    "image": "monster-ability-cards/gloomhaven/harrower-infester/gh-ma-hi-back.png",
+    "xws": "ghmahiback"
   },
   {
-    "name": "ma-hi-2",
+    "name": "gh-ma-hi-1",
     "points": 100,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/harrower-infester/ma-hi-2.png",
-    "xws": "mahi2"
+    "image": "monster-ability-cards/gloomhaven/harrower-infester/gh-ma-hi-1.png",
+    "xws": "ghmahi1"
   },
   {
-    "name": "ma-hi-3",
+    "name": "gh-ma-hi-2",
     "points": 101,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/harrower-infester/ma-hi-3.png",
-    "xws": "mahi3"
+    "image": "monster-ability-cards/gloomhaven/harrower-infester/gh-ma-hi-2.png",
+    "xws": "ghmahi2"
   },
   {
-    "name": "ma-hi-4",
+    "name": "gh-ma-hi-3",
     "points": 102,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/harrower-infester/ma-hi-4.png",
-    "xws": "mahi4"
+    "image": "monster-ability-cards/gloomhaven/harrower-infester/gh-ma-hi-3.png",
+    "xws": "ghmahi3"
   },
   {
-    "name": "ma-hi-5",
+    "name": "gh-ma-hi-4",
     "points": 103,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/harrower-infester/ma-hi-5.png",
-    "xws": "mahi5"
+    "image": "monster-ability-cards/gloomhaven/harrower-infester/gh-ma-hi-4.png",
+    "xws": "ghmahi4"
   },
   {
-    "name": "ma-hi-6",
+    "name": "gh-ma-hi-5",
     "points": 104,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/harrower-infester/ma-hi-6.png",
-    "xws": "mahi6"
+    "image": "monster-ability-cards/gloomhaven/harrower-infester/gh-ma-hi-5.png",
+    "xws": "ghmahi5"
   },
   {
-    "name": "ma-hi-7",
+    "name": "gh-ma-hi-6",
     "points": 105,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/harrower-infester/ma-hi-7.png",
-    "xws": "mahi7"
+    "image": "monster-ability-cards/gloomhaven/harrower-infester/gh-ma-hi-6.png",
+    "xws": "ghmahi6"
   },
   {
-    "name": "ma-hi-8",
+    "name": "gh-ma-hi-7",
     "points": 106,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/harrower-infester/ma-hi-8.png",
-    "xws": "mahi8"
+    "image": "monster-ability-cards/gloomhaven/harrower-infester/gh-ma-hi-7.png",
+    "xws": "ghmahi7"
   },
   {
-    "name": "ma-hi-back",
+    "name": "gh-ma-hi-8",
     "points": 107,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/harrower-infester/ma-hi-back.png",
-    "xws": "mahiback"
+    "image": "monster-ability-cards/gloomhaven/harrower-infester/gh-ma-hi-8.png",
+    "xws": "ghmahi8"
   },
   {
-    "name": "ma-ho-1",
+    "name": "gh-ma-ho-back",
     "points": 108,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/hound/ma-ho-1.png",
-    "xws": "maho1"
+    "image": "monster-ability-cards/gloomhaven/hound/gh-ma-ho-back.png",
+    "xws": "ghmahoback"
   },
   {
-    "name": "ma-ho-2",
+    "name": "gh-ma-ho-1",
     "points": 109,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/hound/ma-ho-2.png",
-    "xws": "maho2"
+    "image": "monster-ability-cards/gloomhaven/hound/gh-ma-ho-1.png",
+    "xws": "ghmaho1"
   },
   {
-    "name": "ma-ho-3",
+    "name": "gh-ma-ho-2",
     "points": 110,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/hound/ma-ho-3.png",
-    "xws": "maho3"
+    "image": "monster-ability-cards/gloomhaven/hound/gh-ma-ho-2.png",
+    "xws": "ghmaho2"
   },
   {
-    "name": "ma-ho-4",
+    "name": "gh-ma-ho-3",
     "points": 111,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/hound/ma-ho-4.png",
-    "xws": "maho4"
+    "image": "monster-ability-cards/gloomhaven/hound/gh-ma-ho-3.png",
+    "xws": "ghmaho3"
   },
   {
-    "name": "ma-ho-5",
+    "name": "gh-ma-ho-4",
     "points": 112,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/hound/ma-ho-5.png",
-    "xws": "maho5"
+    "image": "monster-ability-cards/gloomhaven/hound/gh-ma-ho-4.png",
+    "xws": "ghmaho4"
   },
   {
-    "name": "ma-ho-6",
+    "name": "gh-ma-ho-5",
     "points": 113,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/hound/ma-ho-6.png",
-    "xws": "maho6"
+    "image": "monster-ability-cards/gloomhaven/hound/gh-ma-ho-5.png",
+    "xws": "ghmaho5"
   },
   {
-    "name": "ma-ho-7",
+    "name": "gh-ma-ho-6",
     "points": 114,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/hound/ma-ho-7.png",
-    "xws": "maho7"
+    "image": "monster-ability-cards/gloomhaven/hound/gh-ma-ho-6.png",
+    "xws": "ghmaho6"
   },
   {
-    "name": "ma-ho-8",
+    "name": "gh-ma-ho-7",
     "points": 115,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/hound/ma-ho-8.png",
-    "xws": "maho8"
+    "image": "monster-ability-cards/gloomhaven/hound/gh-ma-ho-7.png",
+    "xws": "ghmaho7"
   },
   {
-    "name": "ma-ho-back",
+    "name": "gh-ma-ho-8",
     "points": 116,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/hound/ma-ho-back.png",
-    "xws": "mahoback"
+    "image": "monster-ability-cards/gloomhaven/hound/gh-ma-ho-8.png",
+    "xws": "ghmaho8"
   },
   {
-    "name": "ma-im-1",
+    "name": "gh-ma-im-back",
     "points": 117,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/imp/ma-im-1.png",
-    "xws": "maim1"
+    "image": "monster-ability-cards/gloomhaven/imp/gh-ma-im-back.png",
+    "xws": "ghmaimback"
   },
   {
-    "name": "ma-im-2",
+    "name": "gh-ma-im-1",
     "points": 118,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/imp/ma-im-2.png",
-    "xws": "maim2"
+    "image": "monster-ability-cards/gloomhaven/imp/gh-ma-im-1.png",
+    "xws": "ghmaim1"
   },
   {
-    "name": "ma-im-3",
+    "name": "gh-ma-im-2",
     "points": 119,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/imp/ma-im-3.png",
-    "xws": "maim3"
+    "image": "monster-ability-cards/gloomhaven/imp/gh-ma-im-2.png",
+    "xws": "ghmaim2"
   },
   {
-    "name": "ma-im-4",
+    "name": "gh-ma-im-3",
     "points": 120,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/imp/ma-im-4.png",
-    "xws": "maim4"
+    "image": "monster-ability-cards/gloomhaven/imp/gh-ma-im-3.png",
+    "xws": "ghmaim3"
   },
   {
-    "name": "ma-im-5",
+    "name": "gh-ma-im-4",
     "points": 121,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/imp/ma-im-5.png",
-    "xws": "maim5"
+    "image": "monster-ability-cards/gloomhaven/imp/gh-ma-im-4.png",
+    "xws": "ghmaim4"
   },
   {
-    "name": "ma-im-6",
+    "name": "gh-ma-im-5",
     "points": 122,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/imp/ma-im-6.png",
-    "xws": "maim6"
+    "image": "monster-ability-cards/gloomhaven/imp/gh-ma-im-5.png",
+    "xws": "ghmaim5"
   },
   {
-    "name": "ma-im-7",
+    "name": "gh-ma-im-6",
     "points": 123,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/imp/ma-im-7.png",
-    "xws": "maim7"
+    "image": "monster-ability-cards/gloomhaven/imp/gh-ma-im-6.png",
+    "xws": "ghmaim6"
   },
   {
-    "name": "ma-im-8",
+    "name": "gh-ma-im-7",
     "points": 124,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/imp/ma-im-8.png",
-    "xws": "maim8"
+    "image": "monster-ability-cards/gloomhaven/imp/gh-ma-im-7.png",
+    "xws": "ghmaim7"
   },
   {
-    "name": "ma-im-back",
+    "name": "gh-ma-im-8",
     "points": 125,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/imp/ma-im-back.png",
-    "xws": "maimback"
+    "image": "monster-ability-cards/gloomhaven/imp/gh-ma-im-8.png",
+    "xws": "ghmaim8"
   },
   {
-    "name": "ma-lb-1",
+    "name": "gh-ma-lb-back",
     "points": 126,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-bones/ma-lb-1.png",
-    "xws": "malb1"
+    "image": "monster-ability-cards/gloomhaven/living-bones/gh-ma-lb-back.png",
+    "xws": "ghmalbback"
   },
   {
-    "name": "ma-lb-2",
+    "name": "gh-ma-lb-1",
     "points": 127,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-bones/ma-lb-2.png",
-    "xws": "malb2"
+    "image": "monster-ability-cards/gloomhaven/living-bones/gh-ma-lb-1.png",
+    "xws": "ghmalb1"
   },
   {
-    "name": "ma-lb-3",
+    "name": "gh-ma-lb-2",
     "points": 128,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-bones/ma-lb-3.png",
-    "xws": "malb3"
+    "image": "monster-ability-cards/gloomhaven/living-bones/gh-ma-lb-2.png",
+    "xws": "ghmalb2"
   },
   {
-    "name": "ma-lb-4",
+    "name": "gh-ma-lb-3",
     "points": 129,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-bones/ma-lb-4.png",
-    "xws": "malb4"
+    "image": "monster-ability-cards/gloomhaven/living-bones/gh-ma-lb-3.png",
+    "xws": "ghmalb3"
   },
   {
-    "name": "ma-lb-5",
+    "name": "gh-ma-lb-4",
     "points": 130,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-bones/ma-lb-5.png",
-    "xws": "malb5"
+    "image": "monster-ability-cards/gloomhaven/living-bones/gh-ma-lb-4.png",
+    "xws": "ghmalb4"
   },
   {
-    "name": "ma-lb-6",
+    "name": "gh-ma-lb-5",
     "points": 131,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-bones/ma-lb-6.png",
-    "xws": "malb6"
+    "image": "monster-ability-cards/gloomhaven/living-bones/gh-ma-lb-5.png",
+    "xws": "ghmalb5"
   },
   {
-    "name": "ma-lb-7",
+    "name": "gh-ma-lb-6",
     "points": 132,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-bones/ma-lb-7.png",
-    "xws": "malb7"
+    "image": "monster-ability-cards/gloomhaven/living-bones/gh-ma-lb-6.png",
+    "xws": "ghmalb6"
   },
   {
-    "name": "ma-lb-8",
+    "name": "gh-ma-lb-7",
     "points": 133,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-bones/ma-lb-8.png",
-    "xws": "malb8"
+    "image": "monster-ability-cards/gloomhaven/living-bones/gh-ma-lb-7.png",
+    "xws": "ghmalb7"
   },
   {
-    "name": "ma-lb-back",
+    "name": "gh-ma-lb-8",
     "points": 134,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-bones/ma-lb-back.png",
-    "xws": "malbback"
+    "image": "monster-ability-cards/gloomhaven/living-bones/gh-ma-lb-8.png",
+    "xws": "ghmalb8"
   },
   {
-    "name": "ma-lc-1",
+    "name": "gh-ma-lc-back",
     "points": 135,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-corpse/ma-lc-1.png",
-    "xws": "malc1"
+    "image": "monster-ability-cards/gloomhaven/living-corpse/gh-ma-lc-back.png",
+    "xws": "ghmalcback"
   },
   {
-    "name": "ma-lc-2",
+    "name": "gh-ma-lc-1",
     "points": 136,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-corpse/ma-lc-2.png",
-    "xws": "malc2"
+    "image": "monster-ability-cards/gloomhaven/living-corpse/gh-ma-lc-1.png",
+    "xws": "ghmalc1"
   },
   {
-    "name": "ma-lc-3",
+    "name": "gh-ma-lc-2",
     "points": 137,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-corpse/ma-lc-3.png",
-    "xws": "malc3"
+    "image": "monster-ability-cards/gloomhaven/living-corpse/gh-ma-lc-2.png",
+    "xws": "ghmalc2"
   },
   {
-    "name": "ma-lc-4",
+    "name": "gh-ma-lc-3",
     "points": 138,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-corpse/ma-lc-4.png",
-    "xws": "malc4"
+    "image": "monster-ability-cards/gloomhaven/living-corpse/gh-ma-lc-3.png",
+    "xws": "ghmalc3"
   },
   {
-    "name": "ma-lc-5",
+    "name": "gh-ma-lc-4",
     "points": 139,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-corpse/ma-lc-5.png",
-    "xws": "malc5"
+    "image": "monster-ability-cards/gloomhaven/living-corpse/gh-ma-lc-4.png",
+    "xws": "ghmalc4"
   },
   {
-    "name": "ma-lc-6",
+    "name": "gh-ma-lc-5",
     "points": 140,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-corpse/ma-lc-6.png",
-    "xws": "malc6"
+    "image": "monster-ability-cards/gloomhaven/living-corpse/gh-ma-lc-5.png",
+    "xws": "ghmalc5"
   },
   {
-    "name": "ma-lc-7",
+    "name": "gh-ma-lc-6",
     "points": 141,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-corpse/ma-lc-7.png",
-    "xws": "malc7"
+    "image": "monster-ability-cards/gloomhaven/living-corpse/gh-ma-lc-6.png",
+    "xws": "ghmalc6"
   },
   {
-    "name": "ma-lc-8",
+    "name": "gh-ma-lc-7",
     "points": 142,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-corpse/ma-lc-8.png",
-    "xws": "malc8"
+    "image": "monster-ability-cards/gloomhaven/living-corpse/gh-ma-lc-7.png",
+    "xws": "ghmalc7"
   },
   {
-    "name": "ma-lc-back",
+    "name": "gh-ma-lc-8",
     "points": 143,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-corpse/ma-lc-back.png",
-    "xws": "malcback"
+    "image": "monster-ability-cards/gloomhaven/living-corpse/gh-ma-lc-8.png",
+    "xws": "ghmalc8"
   },
   {
-    "name": "ma-ls-1",
+    "name": "gh-ma-ls-back",
     "points": 144,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-spirit/ma-ls-1.png",
-    "xws": "mals1"
+    "image": "monster-ability-cards/gloomhaven/living-spirit/gh-ma-ls-back.png",
+    "xws": "ghmalsback"
   },
   {
-    "name": "ma-ls-2",
+    "name": "gh-ma-ls-1",
     "points": 145,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-spirit/ma-ls-2.png",
-    "xws": "mals2"
+    "image": "monster-ability-cards/gloomhaven/living-spirit/gh-ma-ls-1.png",
+    "xws": "ghmals1"
   },
   {
-    "name": "ma-ls-3",
+    "name": "gh-ma-ls-2",
     "points": 146,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-spirit/ma-ls-3.png",
-    "xws": "mals3"
+    "image": "monster-ability-cards/gloomhaven/living-spirit/gh-ma-ls-2.png",
+    "xws": "ghmals2"
   },
   {
-    "name": "ma-ls-4",
+    "name": "gh-ma-ls-3",
     "points": 147,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-spirit/ma-ls-4.png",
-    "xws": "mals4"
+    "image": "monster-ability-cards/gloomhaven/living-spirit/gh-ma-ls-3.png",
+    "xws": "ghmals3"
   },
   {
-    "name": "ma-ls-5",
+    "name": "gh-ma-ls-4",
     "points": 148,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-spirit/ma-ls-5.png",
-    "xws": "mals5"
+    "image": "monster-ability-cards/gloomhaven/living-spirit/gh-ma-ls-4.png",
+    "xws": "ghmals4"
   },
   {
-    "name": "ma-ls-6",
+    "name": "gh-ma-ls-5",
     "points": 149,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-spirit/ma-ls-6.png",
-    "xws": "mals6"
+    "image": "monster-ability-cards/gloomhaven/living-spirit/gh-ma-ls-5.png",
+    "xws": "ghmals5"
   },
   {
-    "name": "ma-ls-7",
+    "name": "gh-ma-ls-6",
     "points": 150,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-spirit/ma-ls-7.png",
-    "xws": "mals7"
+    "image": "monster-ability-cards/gloomhaven/living-spirit/gh-ma-ls-6.png",
+    "xws": "ghmals6"
   },
   {
-    "name": "ma-ls-8",
+    "name": "gh-ma-ls-7",
     "points": 151,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-spirit/ma-ls-8.png",
-    "xws": "mals8"
+    "image": "monster-ability-cards/gloomhaven/living-spirit/gh-ma-ls-7.png",
+    "xws": "ghmals7"
   },
   {
-    "name": "ma-ls-back",
+    "name": "gh-ma-ls-8",
     "points": 152,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/living-spirit/ma-ls-back.png",
-    "xws": "malsback"
+    "image": "monster-ability-cards/gloomhaven/living-spirit/gh-ma-ls-8.png",
+    "xws": "ghmals8"
   },
   {
-    "name": "ma-lu-1",
+    "name": "gh-ma-lu-back",
     "points": 153,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/lurker/ma-lu-1.png",
-    "xws": "malu1"
+    "image": "monster-ability-cards/gloomhaven/lurker/gh-ma-lu-back.png",
+    "xws": "ghmaluback"
   },
   {
-    "name": "ma-lu-2",
+    "name": "gh-ma-lu-1",
     "points": 154,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/lurker/ma-lu-2.png",
-    "xws": "malu2"
+    "image": "monster-ability-cards/gloomhaven/lurker/gh-ma-lu-1.png",
+    "xws": "ghmalu1"
   },
   {
-    "name": "ma-lu-3",
+    "name": "gh-ma-lu-2",
     "points": 155,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/lurker/ma-lu-3.png",
-    "xws": "malu3"
+    "image": "monster-ability-cards/gloomhaven/lurker/gh-ma-lu-2.png",
+    "xws": "ghmalu2"
   },
   {
-    "name": "ma-lu-4",
+    "name": "gh-ma-lu-3",
     "points": 156,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/lurker/ma-lu-4.png",
-    "xws": "malu4"
+    "image": "monster-ability-cards/gloomhaven/lurker/gh-ma-lu-3.png",
+    "xws": "ghmalu3"
   },
   {
-    "name": "ma-lu-5",
+    "name": "gh-ma-lu-4",
     "points": 157,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/lurker/ma-lu-5.png",
-    "xws": "malu5"
+    "image": "monster-ability-cards/gloomhaven/lurker/gh-ma-lu-4.png",
+    "xws": "ghmalu4"
   },
   {
-    "name": "ma-lu-6",
+    "name": "gh-ma-lu-5",
     "points": 158,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/lurker/ma-lu-6.png",
-    "xws": "malu6"
+    "image": "monster-ability-cards/gloomhaven/lurker/gh-ma-lu-5.png",
+    "xws": "ghmalu5"
   },
   {
-    "name": "ma-lu-7",
+    "name": "gh-ma-lu-6",
     "points": 159,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/lurker/ma-lu-7.png",
-    "xws": "malu7"
+    "image": "monster-ability-cards/gloomhaven/lurker/gh-ma-lu-6.png",
+    "xws": "ghmalu6"
   },
   {
-    "name": "ma-lu-8",
+    "name": "gh-ma-lu-7",
     "points": 160,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/lurker/ma-lu-8.png",
-    "xws": "malu8"
+    "image": "monster-ability-cards/gloomhaven/lurker/gh-ma-lu-7.png",
+    "xws": "ghmalu7"
   },
   {
-    "name": "ma-lu-back",
+    "name": "gh-ma-lu-8",
     "points": 161,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/lurker/ma-lu-back.png",
-    "xws": "maluback"
+    "image": "monster-ability-cards/gloomhaven/lurker/gh-ma-lu-8.png",
+    "xws": "ghmalu8"
   },
   {
-    "name": "ma-nd-1",
+    "name": "gh-ma-nd-back",
     "points": 162,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/night-demon/ma-nd-1.png",
-    "xws": "mand1"
+    "image": "monster-ability-cards/gloomhaven/night-demon/gh-ma-nd-back.png",
+    "xws": "ghmandback"
   },
   {
-    "name": "ma-nd-2",
+    "name": "gh-ma-nd-1",
     "points": 163,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/night-demon/ma-nd-2.png",
-    "xws": "mand2"
+    "image": "monster-ability-cards/gloomhaven/night-demon/gh-ma-nd-1.png",
+    "xws": "ghmand1"
   },
   {
-    "name": "ma-nd-3",
+    "name": "gh-ma-nd-2",
     "points": 164,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/night-demon/ma-nd-3.png",
-    "xws": "mand3"
+    "image": "monster-ability-cards/gloomhaven/night-demon/gh-ma-nd-2.png",
+    "xws": "ghmand2"
   },
   {
-    "name": "ma-nd-4",
+    "name": "gh-ma-nd-3",
     "points": 165,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/night-demon/ma-nd-4.png",
-    "xws": "mand4"
+    "image": "monster-ability-cards/gloomhaven/night-demon/gh-ma-nd-3.png",
+    "xws": "ghmand3"
   },
   {
-    "name": "ma-nd-5",
+    "name": "gh-ma-nd-4",
     "points": 166,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/night-demon/ma-nd-5.png",
-    "xws": "mand5"
+    "image": "monster-ability-cards/gloomhaven/night-demon/gh-ma-nd-4.png",
+    "xws": "ghmand4"
   },
   {
-    "name": "ma-nd-6",
+    "name": "gh-ma-nd-5",
     "points": 167,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/night-demon/ma-nd-6.png",
-    "xws": "mand6"
+    "image": "monster-ability-cards/gloomhaven/night-demon/gh-ma-nd-5.png",
+    "xws": "ghmand5"
   },
   {
-    "name": "ma-nd-7",
+    "name": "gh-ma-nd-6",
     "points": 168,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/night-demon/ma-nd-7.png",
-    "xws": "mand7"
+    "image": "monster-ability-cards/gloomhaven/night-demon/gh-ma-nd-6.png",
+    "xws": "ghmand6"
   },
   {
-    "name": "ma-nd-8",
+    "name": "gh-ma-nd-7",
     "points": 169,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/night-demon/ma-nd-8.png",
-    "xws": "mand8"
+    "image": "monster-ability-cards/gloomhaven/night-demon/gh-ma-nd-7.png",
+    "xws": "ghmand7"
   },
   {
-    "name": "ma-nd-back",
+    "name": "gh-ma-nd-8",
     "points": 170,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/night-demon/ma-nd-back.png",
-    "xws": "mandback"
+    "image": "monster-ability-cards/gloomhaven/night-demon/gh-ma-nd-8.png",
+    "xws": "ghmand8"
   },
   {
-    "name": "ma-oo-1",
+    "name": "gh-ma-oo-back",
     "points": 171,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/ooze/ma-oo-1.png",
-    "xws": "maoo1"
+    "image": "monster-ability-cards/gloomhaven/ooze/gh-ma-oo-back.png",
+    "xws": "ghmaooback"
   },
   {
-    "name": "ma-oo-2",
+    "name": "gh-ma-oo-1",
     "points": 172,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/ooze/ma-oo-2.png",
-    "xws": "maoo2"
+    "image": "monster-ability-cards/gloomhaven/ooze/gh-ma-oo-1.png",
+    "xws": "ghmaoo1"
   },
   {
-    "name": "ma-oo-3",
+    "name": "gh-ma-oo-2",
     "points": 173,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/ooze/ma-oo-3.png",
-    "xws": "maoo3"
+    "image": "monster-ability-cards/gloomhaven/ooze/gh-ma-oo-2.png",
+    "xws": "ghmaoo2"
   },
   {
-    "name": "ma-oo-4",
+    "name": "gh-ma-oo-3",
     "points": 174,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/ooze/ma-oo-4.png",
-    "xws": "maoo4"
+    "image": "monster-ability-cards/gloomhaven/ooze/gh-ma-oo-3.png",
+    "xws": "ghmaoo3"
   },
   {
-    "name": "ma-oo-5",
+    "name": "gh-ma-oo-4",
     "points": 175,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/ooze/ma-oo-5.png",
-    "xws": "maoo5"
+    "image": "monster-ability-cards/gloomhaven/ooze/gh-ma-oo-4.png",
+    "xws": "ghmaoo4"
   },
   {
-    "name": "ma-oo-6",
+    "name": "gh-ma-oo-5",
     "points": 176,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/ooze/ma-oo-6.png",
-    "xws": "maoo6"
+    "image": "monster-ability-cards/gloomhaven/ooze/gh-ma-oo-5.png",
+    "xws": "ghmaoo5"
   },
   {
-    "name": "ma-oo-7",
+    "name": "gh-ma-oo-6",
     "points": 177,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/ooze/ma-oo-7.png",
-    "xws": "maoo7"
+    "image": "monster-ability-cards/gloomhaven/ooze/gh-ma-oo-6.png",
+    "xws": "ghmaoo6"
   },
   {
-    "name": "ma-oo-8",
+    "name": "gh-ma-oo-7",
     "points": 178,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/ooze/ma-oo-8.png",
-    "xws": "maoo8"
+    "image": "monster-ability-cards/gloomhaven/ooze/gh-ma-oo-7.png",
+    "xws": "ghmaoo7"
   },
   {
-    "name": "ma-oo-back",
+    "name": "gh-ma-oo-8",
     "points": 179,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/ooze/ma-oo-back.png",
-    "xws": "maooback"
+    "image": "monster-ability-cards/gloomhaven/ooze/gh-ma-oo-8.png",
+    "xws": "ghmaoo8"
   },
   {
-    "name": "ma-rd-1",
+    "name": "gh-ma-rd-back",
     "points": 180,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/rending-drake/ma-rd-1.png",
-    "xws": "mard1"
+    "image": "monster-ability-cards/gloomhaven/rending-drake/gh-ma-rd-back.png",
+    "xws": "ghmardback"
   },
   {
-    "name": "ma-rd-2",
+    "name": "gh-ma-rd-1",
     "points": 181,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/rending-drake/ma-rd-2.png",
-    "xws": "mard2"
+    "image": "monster-ability-cards/gloomhaven/rending-drake/gh-ma-rd-1.png",
+    "xws": "ghmard1"
   },
   {
-    "name": "ma-rd-3",
+    "name": "gh-ma-rd-2",
     "points": 182,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/rending-drake/ma-rd-3.png",
-    "xws": "mard3"
+    "image": "monster-ability-cards/gloomhaven/rending-drake/gh-ma-rd-2.png",
+    "xws": "ghmard2"
   },
   {
-    "name": "ma-rd-4",
+    "name": "gh-ma-rd-3",
     "points": 183,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/rending-drake/ma-rd-4.png",
-    "xws": "mard4"
+    "image": "monster-ability-cards/gloomhaven/rending-drake/gh-ma-rd-3.png",
+    "xws": "ghmard3"
   },
   {
-    "name": "ma-rd-5",
+    "name": "gh-ma-rd-4",
     "points": 184,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/rending-drake/ma-rd-5.png",
-    "xws": "mard5"
+    "image": "monster-ability-cards/gloomhaven/rending-drake/gh-ma-rd-4.png",
+    "xws": "ghmard4"
   },
   {
-    "name": "ma-rd-6",
+    "name": "gh-ma-rd-5",
     "points": 185,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/rending-drake/ma-rd-6.png",
-    "xws": "mard6"
+    "image": "monster-ability-cards/gloomhaven/rending-drake/gh-ma-rd-5.png",
+    "xws": "ghmard5"
   },
   {
-    "name": "ma-rd-7",
+    "name": "gh-ma-rd-6",
     "points": 186,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/rending-drake/ma-rd-7.png",
-    "xws": "mard7"
+    "image": "monster-ability-cards/gloomhaven/rending-drake/gh-ma-rd-6.png",
+    "xws": "ghmard6"
   },
   {
-    "name": "ma-rd-8",
+    "name": "gh-ma-rd-7",
     "points": 187,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/rending-drake/ma-rd-8.png",
-    "xws": "mard8"
+    "image": "monster-ability-cards/gloomhaven/rending-drake/gh-ma-rd-7.png",
+    "xws": "ghmard7"
   },
   {
-    "name": "ma-rd-back",
+    "name": "gh-ma-rd-8",
     "points": 188,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/rending-drake/ma-rd-back.png",
-    "xws": "mardback"
+    "image": "monster-ability-cards/gloomhaven/rending-drake/gh-ma-rd-8.png",
+    "xws": "ghmard8"
   },
   {
-    "name": "ma-si-1",
+    "name": "gh-ma-si-back",
     "points": 189,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/savvas-icestorm/ma-si-1.png",
-    "xws": "masi1"
+    "image": "monster-ability-cards/gloomhaven/savvas-icestorm/gh-ma-si-back.png",
+    "xws": "ghmasiback"
   },
   {
-    "name": "ma-si-2",
+    "name": "gh-ma-si-1",
     "points": 190,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/savvas-icestorm/ma-si-2.png",
-    "xws": "masi2"
+    "image": "monster-ability-cards/gloomhaven/savvas-icestorm/gh-ma-si-1.png",
+    "xws": "ghmasi1"
   },
   {
-    "name": "ma-si-3",
+    "name": "gh-ma-si-2",
     "points": 191,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/savvas-icestorm/ma-si-3.png",
-    "xws": "masi3"
+    "image": "monster-ability-cards/gloomhaven/savvas-icestorm/gh-ma-si-2.png",
+    "xws": "ghmasi2"
   },
   {
-    "name": "ma-si-4",
+    "name": "gh-ma-si-3",
     "points": 192,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/savvas-icestorm/ma-si-4.png",
-    "xws": "masi4"
+    "image": "monster-ability-cards/gloomhaven/savvas-icestorm/gh-ma-si-3.png",
+    "xws": "ghmasi3"
   },
   {
-    "name": "ma-si-5",
+    "name": "gh-ma-si-4",
     "points": 193,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/savvas-icestorm/ma-si-5.png",
-    "xws": "masi5"
+    "image": "monster-ability-cards/gloomhaven/savvas-icestorm/gh-ma-si-4.png",
+    "xws": "ghmasi4"
   },
   {
-    "name": "ma-si-6",
+    "name": "gh-ma-si-5",
     "points": 194,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/savvas-icestorm/ma-si-6.png",
-    "xws": "masi6"
+    "image": "monster-ability-cards/gloomhaven/savvas-icestorm/gh-ma-si-5.png",
+    "xws": "ghmasi5"
   },
   {
-    "name": "ma-si-7",
+    "name": "gh-ma-si-6",
     "points": 195,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/savvas-icestorm/ma-si-7.png",
-    "xws": "masi7"
+    "image": "monster-ability-cards/gloomhaven/savvas-icestorm/gh-ma-si-6.png",
+    "xws": "ghmasi6"
   },
   {
-    "name": "ma-si-8",
+    "name": "gh-ma-si-7",
     "points": 196,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/savvas-icestorm/ma-si-8.png",
-    "xws": "masi8"
+    "image": "monster-ability-cards/gloomhaven/savvas-icestorm/gh-ma-si-7.png",
+    "xws": "ghmasi7"
   },
   {
-    "name": "ma-si-back",
+    "name": "gh-ma-si-8",
     "points": 197,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/savvas-icestorm/ma-si-back.png",
-    "xws": "masiback"
+    "image": "monster-ability-cards/gloomhaven/savvas-icestorm/gh-ma-si-8.png",
+    "xws": "ghmasi8"
   },
   {
-    "name": "ma-sl-1",
+    "name": "gh-ma-sl-back",
     "points": 198,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/savvas-lavaflow/ma-sl-1.png",
-    "xws": "masl1"
+    "image": "monster-ability-cards/gloomhaven/savvas-lavaflow/gh-ma-sl-back.png",
+    "xws": "ghmaslback"
   },
   {
-    "name": "ma-sl-2",
+    "name": "gh-ma-sl-1",
     "points": 199,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/savvas-lavaflow/ma-sl-2.png",
-    "xws": "masl2"
+    "image": "monster-ability-cards/gloomhaven/savvas-lavaflow/gh-ma-sl-1.png",
+    "xws": "ghmasl1"
   },
   {
-    "name": "ma-sl-3",
+    "name": "gh-ma-sl-2",
     "points": 200,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/savvas-lavaflow/ma-sl-3.png",
-    "xws": "masl3"
+    "image": "monster-ability-cards/gloomhaven/savvas-lavaflow/gh-ma-sl-2.png",
+    "xws": "ghmasl2"
   },
   {
-    "name": "ma-sl-4",
+    "name": "gh-ma-sl-3",
     "points": 201,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/savvas-lavaflow/ma-sl-4.png",
-    "xws": "masl4"
+    "image": "monster-ability-cards/gloomhaven/savvas-lavaflow/gh-ma-sl-3.png",
+    "xws": "ghmasl3"
   },
   {
-    "name": "ma-sl-5",
+    "name": "gh-ma-sl-4",
     "points": 202,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/savvas-lavaflow/ma-sl-5.png",
-    "xws": "masl5"
+    "image": "monster-ability-cards/gloomhaven/savvas-lavaflow/gh-ma-sl-4.png",
+    "xws": "ghmasl4"
   },
   {
-    "name": "ma-sl-6",
+    "name": "gh-ma-sl-5",
     "points": 203,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/savvas-lavaflow/ma-sl-6.png",
-    "xws": "masl6"
+    "image": "monster-ability-cards/gloomhaven/savvas-lavaflow/gh-ma-sl-5.png",
+    "xws": "ghmasl5"
   },
   {
-    "name": "ma-sl-7",
+    "name": "gh-ma-sl-6",
     "points": 204,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/savvas-lavaflow/ma-sl-7.png",
-    "xws": "masl7"
+    "image": "monster-ability-cards/gloomhaven/savvas-lavaflow/gh-ma-sl-6.png",
+    "xws": "ghmasl6"
   },
   {
-    "name": "ma-sl-8",
+    "name": "gh-ma-sl-7",
     "points": 205,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/savvas-lavaflow/ma-sl-8.png",
-    "xws": "masl8"
+    "image": "monster-ability-cards/gloomhaven/savvas-lavaflow/gh-ma-sl-7.png",
+    "xws": "ghmasl7"
   },
   {
-    "name": "ma-sl-back",
+    "name": "gh-ma-sl-8",
     "points": 206,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/savvas-lavaflow/ma-sl-back.png",
-    "xws": "maslback"
+    "image": "monster-ability-cards/gloomhaven/savvas-lavaflow/gh-ma-sl-8.png",
+    "xws": "ghmasl8"
   },
   {
-    "name": "ma-sc-1",
+    "name": "gh-ma-sc-back",
     "points": 207,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/scout/ma-sc-1.png",
-    "xws": "masc1"
+    "image": "monster-ability-cards/gloomhaven/scout/gh-ma-sc-back.png",
+    "xws": "ghmascback"
   },
   {
-    "name": "ma-sc-2",
+    "name": "gh-ma-sc-1",
     "points": 208,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/scout/ma-sc-2.png",
-    "xws": "masc2"
+    "image": "monster-ability-cards/gloomhaven/scout/gh-ma-sc-1.png",
+    "xws": "ghmasc1"
   },
   {
-    "name": "ma-sc-3",
+    "name": "gh-ma-sc-2",
     "points": 209,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/scout/ma-sc-3.png",
-    "xws": "masc3"
+    "image": "monster-ability-cards/gloomhaven/scout/gh-ma-sc-2.png",
+    "xws": "ghmasc2"
   },
   {
-    "name": "ma-sc-4",
+    "name": "gh-ma-sc-3",
     "points": 210,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/scout/ma-sc-4.png",
-    "xws": "masc4"
+    "image": "monster-ability-cards/gloomhaven/scout/gh-ma-sc-3.png",
+    "xws": "ghmasc3"
   },
   {
-    "name": "ma-sc-5",
+    "name": "gh-ma-sc-4",
     "points": 211,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/scout/ma-sc-5.png",
-    "xws": "masc5"
+    "image": "monster-ability-cards/gloomhaven/scout/gh-ma-sc-4.png",
+    "xws": "ghmasc4"
   },
   {
-    "name": "ma-sc-6",
+    "name": "gh-ma-sc-5",
     "points": 212,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/scout/ma-sc-6.png",
-    "xws": "masc6"
+    "image": "monster-ability-cards/gloomhaven/scout/gh-ma-sc-5.png",
+    "xws": "ghmasc5"
   },
   {
-    "name": "ma-sc-7",
+    "name": "gh-ma-sc-6",
     "points": 213,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/scout/ma-sc-7.png",
-    "xws": "masc7"
+    "image": "monster-ability-cards/gloomhaven/scout/gh-ma-sc-6.png",
+    "xws": "ghmasc6"
   },
   {
-    "name": "ma-sc-8",
+    "name": "gh-ma-sc-7",
     "points": 214,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/scout/ma-sc-8.png",
-    "xws": "masc8"
+    "image": "monster-ability-cards/gloomhaven/scout/gh-ma-sc-7.png",
+    "xws": "ghmasc7"
   },
   {
-    "name": "ma-sc-back",
+    "name": "gh-ma-sc-8",
     "points": 215,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/scout/ma-sc-back.png",
-    "xws": "mascback"
+    "image": "monster-ability-cards/gloomhaven/scout/gh-ma-sc-8.png",
+    "xws": "ghmasc8"
   },
   {
-    "name": "ma-sh-1",
+    "name": "gh-ma-sh-back",
     "points": 216,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/shaman/ma-sh-1.png",
-    "xws": "mash1"
+    "image": "monster-ability-cards/gloomhaven/shaman/gh-ma-sh-back.png",
+    "xws": "ghmashback"
   },
   {
-    "name": "ma-sh-2",
+    "name": "gh-ma-sh-1",
     "points": 217,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/shaman/ma-sh-2.png",
-    "xws": "mash2"
+    "image": "monster-ability-cards/gloomhaven/shaman/gh-ma-sh-1.png",
+    "xws": "ghmash1"
   },
   {
-    "name": "ma-sh-3",
+    "name": "gh-ma-sh-2",
     "points": 218,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/shaman/ma-sh-3.png",
-    "xws": "mash3"
+    "image": "monster-ability-cards/gloomhaven/shaman/gh-ma-sh-2.png",
+    "xws": "ghmash2"
   },
   {
-    "name": "ma-sh-4",
+    "name": "gh-ma-sh-3",
     "points": 219,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/shaman/ma-sh-4.png",
-    "xws": "mash4"
+    "image": "monster-ability-cards/gloomhaven/shaman/gh-ma-sh-3.png",
+    "xws": "ghmash3"
   },
   {
-    "name": "ma-sh-5",
+    "name": "gh-ma-sh-4",
     "points": 220,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/shaman/ma-sh-5.png",
-    "xws": "mash5"
+    "image": "monster-ability-cards/gloomhaven/shaman/gh-ma-sh-4.png",
+    "xws": "ghmash4"
   },
   {
-    "name": "ma-sh-6",
+    "name": "gh-ma-sh-5",
     "points": 221,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/shaman/ma-sh-6.png",
-    "xws": "mash6"
+    "image": "monster-ability-cards/gloomhaven/shaman/gh-ma-sh-5.png",
+    "xws": "ghmash5"
   },
   {
-    "name": "ma-sh-7",
+    "name": "gh-ma-sh-6",
     "points": 222,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/shaman/ma-sh-7.png",
-    "xws": "mash7"
+    "image": "monster-ability-cards/gloomhaven/shaman/gh-ma-sh-6.png",
+    "xws": "ghmash6"
   },
   {
-    "name": "ma-sh-8",
+    "name": "gh-ma-sh-7",
     "points": 223,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/shaman/ma-sh-8.png",
-    "xws": "mash8"
+    "image": "monster-ability-cards/gloomhaven/shaman/gh-ma-sh-7.png",
+    "xws": "ghmash7"
   },
   {
-    "name": "ma-sh-back",
+    "name": "gh-ma-sh-8",
     "points": 224,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/shaman/ma-sh-back.png",
-    "xws": "mashback"
+    "image": "monster-ability-cards/gloomhaven/shaman/gh-ma-sh-8.png",
+    "xws": "ghmash8"
   },
   {
-    "name": "ma-spd-1",
+    "name": "gh-ma-spd-back",
     "points": 225,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/spitting-drake/ma-spd-1.png",
-    "xws": "maspd1"
+    "image": "monster-ability-cards/gloomhaven/spitting-drake/gh-ma-spd-back.png",
+    "xws": "ghmaspdback"
   },
   {
-    "name": "ma-spd-2",
+    "name": "gh-ma-spd-1",
     "points": 226,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/spitting-drake/ma-spd-2.png",
-    "xws": "maspd2"
+    "image": "monster-ability-cards/gloomhaven/spitting-drake/gh-ma-spd-1.png",
+    "xws": "ghmaspd1"
   },
   {
-    "name": "ma-spd-3",
+    "name": "gh-ma-spd-2",
     "points": 227,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/spitting-drake/ma-spd-3.png",
-    "xws": "maspd3"
+    "image": "monster-ability-cards/gloomhaven/spitting-drake/gh-ma-spd-2.png",
+    "xws": "ghmaspd2"
   },
   {
-    "name": "ma-spd-4",
+    "name": "gh-ma-spd-3",
     "points": 228,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/spitting-drake/ma-spd-4.png",
-    "xws": "maspd4"
+    "image": "monster-ability-cards/gloomhaven/spitting-drake/gh-ma-spd-3.png",
+    "xws": "ghmaspd3"
   },
   {
-    "name": "ma-spd-5",
+    "name": "gh-ma-spd-4",
     "points": 229,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/spitting-drake/ma-spd-5.png",
-    "xws": "maspd5"
+    "image": "monster-ability-cards/gloomhaven/spitting-drake/gh-ma-spd-4.png",
+    "xws": "ghmaspd4"
   },
   {
-    "name": "ma-spd-6",
+    "name": "gh-ma-spd-5",
     "points": 230,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/spitting-drake/ma-spd-6.png",
-    "xws": "maspd6"
+    "image": "monster-ability-cards/gloomhaven/spitting-drake/gh-ma-spd-5.png",
+    "xws": "ghmaspd5"
   },
   {
-    "name": "ma-spd-7",
+    "name": "gh-ma-spd-6",
     "points": 231,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/spitting-drake/ma-spd-7.png",
-    "xws": "maspd7"
+    "image": "monster-ability-cards/gloomhaven/spitting-drake/gh-ma-spd-6.png",
+    "xws": "ghmaspd6"
   },
   {
-    "name": "ma-spd-8",
+    "name": "gh-ma-spd-7",
     "points": 232,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/spitting-drake/ma-spd-8.png",
-    "xws": "maspd8"
+    "image": "monster-ability-cards/gloomhaven/spitting-drake/gh-ma-spd-7.png",
+    "xws": "ghmaspd7"
   },
   {
-    "name": "ma-spd-back",
+    "name": "gh-ma-spd-8",
     "points": 233,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/spitting-drake/ma-spd-back.png",
-    "xws": "maspdback"
+    "image": "monster-ability-cards/gloomhaven/spitting-drake/gh-ma-spd-8.png",
+    "xws": "ghmaspd8"
   },
   {
-    "name": "ma-sg-1",
+    "name": "gh-ma-sg-back",
     "points": 234,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/stone-golem/ma-sg-1.png",
-    "xws": "masg1"
+    "image": "monster-ability-cards/gloomhaven/stone-golem/gh-ma-sg-back.png",
+    "xws": "ghmasgback"
   },
   {
-    "name": "ma-sg-2",
+    "name": "gh-ma-sg-1",
     "points": 235,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/stone-golem/ma-sg-2.png",
-    "xws": "masg2"
+    "image": "monster-ability-cards/gloomhaven/stone-golem/gh-ma-sg-1.png",
+    "xws": "ghmasg1"
   },
   {
-    "name": "ma-sg-3",
+    "name": "gh-ma-sg-2",
     "points": 236,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/stone-golem/ma-sg-3.png",
-    "xws": "masg3"
+    "image": "monster-ability-cards/gloomhaven/stone-golem/gh-ma-sg-2.png",
+    "xws": "ghmasg2"
   },
   {
-    "name": "ma-sg-4",
+    "name": "gh-ma-sg-3",
     "points": 237,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/stone-golem/ma-sg-4.png",
-    "xws": "masg4"
+    "image": "monster-ability-cards/gloomhaven/stone-golem/gh-ma-sg-3.png",
+    "xws": "ghmasg3"
   },
   {
-    "name": "ma-sg-5",
+    "name": "gh-ma-sg-4",
     "points": 238,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/stone-golem/ma-sg-5.png",
-    "xws": "masg5"
+    "image": "monster-ability-cards/gloomhaven/stone-golem/gh-ma-sg-4.png",
+    "xws": "ghmasg4"
   },
   {
-    "name": "ma-sg-6",
+    "name": "gh-ma-sg-5",
     "points": 239,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/stone-golem/ma-sg-6.png",
-    "xws": "masg6"
+    "image": "monster-ability-cards/gloomhaven/stone-golem/gh-ma-sg-5.png",
+    "xws": "ghmasg5"
   },
   {
-    "name": "ma-sg-7",
+    "name": "gh-ma-sg-6",
     "points": 240,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/stone-golem/ma-sg-7.png",
-    "xws": "masg7"
+    "image": "monster-ability-cards/gloomhaven/stone-golem/gh-ma-sg-6.png",
+    "xws": "ghmasg6"
   },
   {
-    "name": "ma-sg-8",
+    "name": "gh-ma-sg-7",
     "points": 241,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/stone-golem/ma-sg-8.png",
-    "xws": "masg8"
+    "image": "monster-ability-cards/gloomhaven/stone-golem/gh-ma-sg-7.png",
+    "xws": "ghmasg7"
   },
   {
-    "name": "ma-sg-back",
+    "name": "gh-ma-sg-8",
     "points": 242,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/stone-golem/ma-sg-back.png",
-    "xws": "masgback"
+    "image": "monster-ability-cards/gloomhaven/stone-golem/gh-ma-sg-8.png",
+    "xws": "ghmasg8"
   },
   {
-    "name": "ma-sud-1",
+    "name": "gh-ma-sud-back",
     "points": 243,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/sun-demon/ma-sud-1.png",
-    "xws": "masud1"
+    "image": "monster-ability-cards/gloomhaven/sun-demon/gh-ma-sud-back.png",
+    "xws": "ghmasudback"
   },
   {
-    "name": "ma-sud-2",
+    "name": "gh-ma-sud-1",
     "points": 244,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/sun-demon/ma-sud-2.png",
-    "xws": "masud2"
+    "image": "monster-ability-cards/gloomhaven/sun-demon/gh-ma-sud-1.png",
+    "xws": "ghmasud1"
   },
   {
-    "name": "ma-sud-3",
+    "name": "gh-ma-sud-2",
     "points": 245,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/sun-demon/ma-sud-3.png",
-    "xws": "masud3"
+    "image": "monster-ability-cards/gloomhaven/sun-demon/gh-ma-sud-2.png",
+    "xws": "ghmasud2"
   },
   {
-    "name": "ma-sud-4",
+    "name": "gh-ma-sud-3",
     "points": 246,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/sun-demon/ma-sud-4.png",
-    "xws": "masud4"
+    "image": "monster-ability-cards/gloomhaven/sun-demon/gh-ma-sud-3.png",
+    "xws": "ghmasud3"
   },
   {
-    "name": "ma-sud-5",
+    "name": "gh-ma-sud-4",
     "points": 247,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/sun-demon/ma-sud-5.png",
-    "xws": "masud5"
+    "image": "monster-ability-cards/gloomhaven/sun-demon/gh-ma-sud-4.png",
+    "xws": "ghmasud4"
   },
   {
-    "name": "ma-sud-6",
+    "name": "gh-ma-sud-5",
     "points": 248,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/sun-demon/ma-sud-6.png",
-    "xws": "masud6"
+    "image": "monster-ability-cards/gloomhaven/sun-demon/gh-ma-sud-5.png",
+    "xws": "ghmasud5"
   },
   {
-    "name": "ma-sud-7",
+    "name": "gh-ma-sud-6",
     "points": 249,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/sun-demon/ma-sud-7.png",
-    "xws": "masud7"
+    "image": "monster-ability-cards/gloomhaven/sun-demon/gh-ma-sud-6.png",
+    "xws": "ghmasud6"
   },
   {
-    "name": "ma-sud-8",
+    "name": "gh-ma-sud-7",
     "points": 250,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/sun-demon/ma-sud-8.png",
-    "xws": "masud8"
+    "image": "monster-ability-cards/gloomhaven/sun-demon/gh-ma-sud-7.png",
+    "xws": "ghmasud7"
   },
   {
-    "name": "ma-sud-back",
+    "name": "gh-ma-sud-8",
     "points": 251,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/sun-demon/ma-sud-back.png",
-    "xws": "masudback"
+    "image": "monster-ability-cards/gloomhaven/sun-demon/gh-ma-sud-8.png",
+    "xws": "ghmasud8"
   },
   {
-    "name": "ma-wd-1",
+    "name": "gh-ma-wd-back",
     "points": 252,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/wind-demon/ma-wd-1.png",
-    "xws": "mawd1"
+    "image": "monster-ability-cards/gloomhaven/wind-demon/gh-ma-wd-back.png",
+    "xws": "ghmawdback"
   },
   {
-    "name": "ma-wd-2",
+    "name": "gh-ma-wd-1",
     "points": 253,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/wind-demon/ma-wd-2.png",
-    "xws": "mawd2"
+    "image": "monster-ability-cards/gloomhaven/wind-demon/gh-ma-wd-1.png",
+    "xws": "ghmawd1"
   },
   {
-    "name": "ma-wd-3",
+    "name": "gh-ma-wd-2",
     "points": 254,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/wind-demon/ma-wd-3.png",
-    "xws": "mawd3"
+    "image": "monster-ability-cards/gloomhaven/wind-demon/gh-ma-wd-2.png",
+    "xws": "ghmawd2"
   },
   {
-    "name": "ma-wd-4",
+    "name": "gh-ma-wd-3",
     "points": 255,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/wind-demon/ma-wd-4.png",
-    "xws": "mawd4"
+    "image": "monster-ability-cards/gloomhaven/wind-demon/gh-ma-wd-3.png",
+    "xws": "ghmawd3"
   },
   {
-    "name": "ma-wd-5",
+    "name": "gh-ma-wd-4",
     "points": 256,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/wind-demon/ma-wd-5.png",
-    "xws": "mawd5"
+    "image": "monster-ability-cards/gloomhaven/wind-demon/gh-ma-wd-4.png",
+    "xws": "ghmawd4"
   },
   {
-    "name": "ma-wd-6",
+    "name": "gh-ma-wd-5",
     "points": 257,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/wind-demon/ma-wd-6.png",
-    "xws": "mawd6"
+    "image": "monster-ability-cards/gloomhaven/wind-demon/gh-ma-wd-5.png",
+    "xws": "ghmawd5"
   },
   {
-    "name": "ma-wd-7",
+    "name": "gh-ma-wd-6",
     "points": 258,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/wind-demon/ma-wd-7.png",
-    "xws": "mawd7"
+    "image": "monster-ability-cards/gloomhaven/wind-demon/gh-ma-wd-6.png",
+    "xws": "ghmawd6"
   },
   {
-    "name": "ma-wd-8",
+    "name": "gh-ma-wd-7",
     "points": 259,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/wind-demon/ma-wd-8.png",
-    "xws": "mawd8"
+    "image": "monster-ability-cards/gloomhaven/wind-demon/gh-ma-wd-7.png",
+    "xws": "ghmawd7"
   },
   {
-    "name": "ma-wd-back",
+    "name": "gh-ma-wd-8",
     "points": 260,
     "expansion": "Gloomhaven",
-    "image": "monster-ability-cards/wind-demon/ma-wd-back.png",
-    "xws": "mawdback"
+    "image": "monster-ability-cards/gloomhaven/wind-demon/gh-ma-wd-8.png",
+    "xws": "ghmawd8"
   },
   {
-    "name": "ma-ab-1",
+    "name": "fc-ma-ab-back",
     "points": 261,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/ashblade/ma-ab-1.png",
-    "xws": "maab1"
+    "image": "monster-ability-cards/forgotten-circles/ashblade/fc-ma-ab-back.png",
+    "xws": "fcmaabback"
   },
   {
-    "name": "ma-ab-2",
+    "name": "fc-ma-ab-1",
     "points": 262,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/ashblade/ma-ab-2.png",
-    "xws": "maab2"
+    "image": "monster-ability-cards/forgotten-circles/ashblade/fc-ma-ab-1.png",
+    "xws": "fcmaab1"
   },
   {
-    "name": "ma-ab-3",
+    "name": "fc-ma-ab-2",
     "points": 263,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/ashblade/ma-ab-3.png",
-    "xws": "maab3"
+    "image": "monster-ability-cards/forgotten-circles/ashblade/fc-ma-ab-2.png",
+    "xws": "fcmaab2"
   },
   {
-    "name": "ma-ab-4",
+    "name": "fc-ma-ab-3",
     "points": 264,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/ashblade/ma-ab-4.png",
-    "xws": "maab4"
+    "image": "monster-ability-cards/forgotten-circles/ashblade/fc-ma-ab-3.png",
+    "xws": "fcmaab3"
   },
   {
-    "name": "ma-ab-5",
+    "name": "fc-ma-ab-4",
     "points": 265,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/ashblade/ma-ab-5.png",
-    "xws": "maab5"
+    "image": "monster-ability-cards/forgotten-circles/ashblade/fc-ma-ab-4.png",
+    "xws": "fcmaab4"
   },
   {
-    "name": "ma-ab-6",
+    "name": "fc-ma-ab-5",
     "points": 266,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/ashblade/ma-ab-6.png",
-    "xws": "maab6"
+    "image": "monster-ability-cards/forgotten-circles/ashblade/fc-ma-ab-5.png",
+    "xws": "fcmaab5"
   },
   {
-    "name": "ma-ab-7",
+    "name": "fc-ma-ab-6",
     "points": 267,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/ashblade/ma-ab-7.png",
-    "xws": "maab7"
+    "image": "monster-ability-cards/forgotten-circles/ashblade/fc-ma-ab-6.png",
+    "xws": "fcmaab6"
   },
   {
-    "name": "ma-ab-8",
+    "name": "fc-ma-ab-7",
     "points": 268,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/ashblade/ma-ab-8.png",
-    "xws": "maab8"
+    "image": "monster-ability-cards/forgotten-circles/ashblade/fc-ma-ab-7.png",
+    "xws": "fcmaab7"
   },
   {
-    "name": "ma-ab-back",
+    "name": "fc-ma-ab-8",
     "points": 269,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/ashblade/ma-ab-back.png",
-    "xws": "maabback"
+    "image": "monster-ability-cards/forgotten-circles/ashblade/fc-ma-ab-8.png",
+    "xws": "fcmaab8"
   },
   {
-    "name": "ma-sv-1",
+    "name": "fc-ma-sv-back",
     "points": 270,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/savage/ma-sv-1.png",
-    "xws": "masv1"
+    "image": "monster-ability-cards/forgotten-circles/savage/fc-ma-sv-back.png",
+    "xws": "fcmasvback"
   },
   {
-    "name": "ma-sv-2",
+    "name": "fc-ma-sv-1",
     "points": 271,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/savage/ma-sv-2.png",
-    "xws": "masv2"
+    "image": "monster-ability-cards/forgotten-circles/savage/fc-ma-sv-1.png",
+    "xws": "fcmasv1"
   },
   {
-    "name": "ma-sv-3",
+    "name": "fc-ma-sv-2",
     "points": 272,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/savage/ma-sv-3.png",
-    "xws": "masv3"
+    "image": "monster-ability-cards/forgotten-circles/savage/fc-ma-sv-2.png",
+    "xws": "fcmasv2"
   },
   {
-    "name": "ma-sv-4",
+    "name": "fc-ma-sv-3",
     "points": 273,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/savage/ma-sv-4.png",
-    "xws": "masv4"
+    "image": "monster-ability-cards/forgotten-circles/savage/fc-ma-sv-3.png",
+    "xws": "fcmasv3"
   },
   {
-    "name": "ma-sv-5",
+    "name": "fc-ma-sv-4",
     "points": 274,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/savage/ma-sv-5.png",
-    "xws": "masv5"
+    "image": "monster-ability-cards/forgotten-circles/savage/fc-ma-sv-4.png",
+    "xws": "fcmasv4"
   },
   {
-    "name": "ma-sv-6",
+    "name": "fc-ma-sv-5",
     "points": 275,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/savage/ma-sv-6.png",
-    "xws": "masv6"
+    "image": "monster-ability-cards/forgotten-circles/savage/fc-ma-sv-5.png",
+    "xws": "fcmasv5"
   },
   {
-    "name": "ma-sv-7",
+    "name": "fc-ma-sv-6",
     "points": 276,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/savage/ma-sv-7.png",
-    "xws": "masv7"
+    "image": "monster-ability-cards/forgotten-circles/savage/fc-ma-sv-6.png",
+    "xws": "fcmasv6"
   },
   {
-    "name": "ma-sv-8",
+    "name": "fc-ma-sv-7",
     "points": 277,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/savage/ma-sv-8.png",
-    "xws": "masv8"
+    "image": "monster-ability-cards/forgotten-circles/savage/fc-ma-sv-7.png",
+    "xws": "fcmasv7"
   },
   {
-    "name": "ma-sv-back",
+    "name": "fc-ma-sv-8",
     "points": 278,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/savage/ma-sv-back.png",
-    "xws": "masvback"
+    "image": "monster-ability-cards/forgotten-circles/savage/fc-ma-sv-8.png",
+    "xws": "fcmasv8"
   },
   {
-    "name": "ma-tr-1",
+    "name": "fc-ma-tr-back",
     "points": 279,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/tracker/ma-tr-1.png",
-    "xws": "matr1"
+    "image": "monster-ability-cards/forgotten-circles/tracker/fc-ma-tr-back.png",
+    "xws": "fcmatrback"
   },
   {
-    "name": "ma-tr-2",
+    "name": "fc-ma-tr-1",
     "points": 280,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/tracker/ma-tr-2.png",
-    "xws": "matr2"
+    "image": "monster-ability-cards/forgotten-circles/tracker/fc-ma-tr-1.png",
+    "xws": "fcmatr1"
   },
   {
-    "name": "ma-tr-3",
+    "name": "fc-ma-tr-2",
     "points": 281,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/tracker/ma-tr-3.png",
-    "xws": "matr3"
+    "image": "monster-ability-cards/forgotten-circles/tracker/fc-ma-tr-2.png",
+    "xws": "fcmatr2"
   },
   {
-    "name": "ma-tr-4",
+    "name": "fc-ma-tr-3",
     "points": 282,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/tracker/ma-tr-4.png",
-    "xws": "matr4"
+    "image": "monster-ability-cards/forgotten-circles/tracker/fc-ma-tr-3.png",
+    "xws": "fcmatr3"
   },
   {
-    "name": "ma-tr-5",
+    "name": "fc-ma-tr-4",
     "points": 283,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/tracker/ma-tr-5.png",
-    "xws": "matr5"
+    "image": "monster-ability-cards/forgotten-circles/tracker/fc-ma-tr-4.png",
+    "xws": "fcmatr4"
   },
   {
-    "name": "ma-tr-6",
+    "name": "fc-ma-tr-5",
     "points": 284,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/tracker/ma-tr-6.png",
-    "xws": "matr6"
+    "image": "monster-ability-cards/forgotten-circles/tracker/fc-ma-tr-5.png",
+    "xws": "fcmatr5"
   },
   {
-    "name": "ma-tr-7",
+    "name": "fc-ma-tr-6",
     "points": 285,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/tracker/ma-tr-7.png",
-    "xws": "matr7"
+    "image": "monster-ability-cards/forgotten-circles/tracker/fc-ma-tr-6.png",
+    "xws": "fcmatr6"
   },
   {
-    "name": "ma-tr-8",
+    "name": "fc-ma-tr-7",
     "points": 286,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/tracker/ma-tr-8.png",
-    "xws": "matr8"
+    "image": "monster-ability-cards/forgotten-circles/tracker/fc-ma-tr-7.png",
+    "xws": "fcmatr7"
   },
   {
-    "name": "ma-tr-back",
+    "name": "fc-ma-tr-8",
     "points": 287,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/tracker/ma-tr-back.png",
-    "xws": "matrback"
+    "image": "monster-ability-cards/forgotten-circles/tracker/fc-ma-tr-8.png",
+    "xws": "fcmatr8"
+  },
+  {
+    "name": "mc-back",
+    "points": 288,
+    "expansion": "Forgotten Circles",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-mc-back.png",
+    "xws": "mcback"
   },
   {
     "name": "blistering heat",
-    "points": 288,
+    "points": 289,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/blistering-heat.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-blistering-heat.png",
     "xws": "blisteringheat"
   },
   {
     "name": "corrupting presence",
-    "points": 289,
+    "points": 290,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/corrupting-presence.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-corrupting-presence.png",
     "xws": "corruptingpresence"
   },
   {
     "name": "endless legions",
-    "points": 290,
+    "points": 291,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/endless-legions.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-endless-legions.png",
     "xws": "endlesslegions"
   },
   {
     "name": "flame lance",
-    "points": 291,
+    "points": 292,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/flame-lance.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-flame-lance.png",
     "xws": "flamelance"
   },
   {
     "name": "harsh entrapment",
-    "points": 292,
+    "points": 293,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/harsh-entrapment.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-harsh-entrapment.png",
     "xws": "harshentrapment"
   },
   {
     "name": "heed my call",
-    "points": 293,
+    "points": 294,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/heed-my-call.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-heed-my-call.png",
     "xws": "heedmycall"
   },
   {
     "name": "legendary - domination",
-    "points": 294,
+    "points": 295,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/legendary-domination.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-legendary-domination.png",
     "xws": "legendarydomination"
   },
   {
     "name": "legendary - gloom",
-    "points": 295,
+    "points": 296,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/legendary-gloom.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-legendary-gloom.png",
     "xws": "legendarygloom"
   },
   {
     "name": "legendary - shadows",
-    "points": 296,
+    "points": 297,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/legendary-shadows.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-legendary-shadows.png",
     "xws": "legendaryshadows"
   },
   {
     "name": "legendary - void",
-    "points": 297,
+    "points": 298,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/legendary-void.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-legendary-void.png",
     "xws": "legendaryvoid"
   },
   {
     "name": "lure them in",
-    "points": 298,
+    "points": 299,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/lure-them-in.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-lure-them-in.png",
     "xws": "lurethemin"
   },
   {
     "name": "marked for death",
-    "points": 299,
-    "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/marked-for-death.png",
-    "xws": "markedfordeath"
-  },
-  {
-    "name": "mc-back",
     "points": 300,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/mc-back.png",
-    "xws": "mcback"
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-marked-for-death.png",
+    "xws": "markedfordeath"
   },
   {
     "name": "nightmare spheres",
     "points": 301,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/nightmare-spheres.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-nightmare-spheres.png",
     "xws": "nightmarespheres"
   },
   {
     "name": "plague their dreams",
     "points": 302,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/plague-their-dreams.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-plague-their-dreams.png",
     "xws": "plaguetheirdreams"
   },
   {
     "name": "pulse of malice",
     "points": 303,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/pulse-of-malice.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-pulse-of-malice.png",
     "xws": "pulseofmalice"
   },
   {
     "name": "searing vapors",
     "points": 304,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/searing-vapors.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-searing-vapors.png",
     "xws": "searingvapors"
   },
   {
     "name": "toxic blast",
     "points": 305,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/toxic-blast.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-toxic-blast.png",
     "xws": "toxicblast"
   },
   {
     "name": "unfathomable fortitude",
     "points": 306,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/unfathomable-fortitude.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-unfathomable-fortitude.png",
     "xws": "unfathomablefortitude"
   },
   {
     "name": "what's yours is mine",
     "points": 307,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/whats-yours-is-mine.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-whats-yours-is-mine.png",
     "xws": "whatsyoursismine"
   },
   {
     "name": "you dare to defy me",
     "points": 308,
     "expansion": "Forgotten Circles",
-    "image": "monster-ability-cards/manifestation-of-corruption/you-dare-to-defy-me.png",
+    "image": "monster-ability-cards/forgotten-circles/manifestation-of-corruption/fc-you-dare-to-defy-me.png",
     "xws": "youdaretodefyme"
+  },
+  {
+    "name": "cs-ma-blood-ooze-back",
+    "points": 309,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/blood-ooze/cs-ma-blood-ooze-back.png",
+    "xws": "csmabloodoozeback"
+  },
+  {
+    "name": "cs-ma-blood-ooze-1",
+    "points": 310,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/blood-ooze/cs-ma-blood-ooze-1.png",
+    "xws": "csmabloodooze1"
+  },
+  {
+    "name": "cs-ma-blood-ooze-2",
+    "points": 311,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/blood-ooze/cs-ma-blood-ooze-2.png",
+    "xws": "csmabloodooze2"
+  },
+  {
+    "name": "cs-ma-blood-ooze-3",
+    "points": 312,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/blood-ooze/cs-ma-blood-ooze-3.png",
+    "xws": "csmabloodooze3"
+  },
+  {
+    "name": "cs-ma-blood-ooze-4",
+    "points": 313,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/blood-ooze/cs-ma-blood-ooze-4.png",
+    "xws": "csmabloodooze4"
+  },
+  {
+    "name": "cs-ma-blood-ooze-5",
+    "points": 314,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/blood-ooze/cs-ma-blood-ooze-5.png",
+    "xws": "csmabloodooze5"
+  },
+  {
+    "name": "cs-ma-blood-ooze-6",
+    "points": 315,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/blood-ooze/cs-ma-blood-ooze-6.png",
+    "xws": "csmabloodooze6"
+  },
+  {
+    "name": "cs-ma-blood-ooze-7",
+    "points": 316,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/blood-ooze/cs-ma-blood-ooze-7.png",
+    "xws": "csmabloodooze7"
+  },
+  {
+    "name": "cs-ma-blood-ooze-8",
+    "points": 317,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/blood-ooze/cs-ma-blood-ooze-8.png",
+    "xws": "csmabloodooze8"
+  },
+  {
+    "name": "cs-ma-flaming-drake-back",
+    "points": 318,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/flaming-drake/cs-ma-flaming-drake-back.png",
+    "xws": "csmaflamingdrakeback"
+  },
+  {
+    "name": "cs-ma-flaming-drake-1",
+    "points": 319,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/flaming-drake/cs-ma-flaming-drake-1.png",
+    "xws": "csmaflamingdrake1"
+  },
+  {
+    "name": "cs-ma-flaming-drake-2",
+    "points": 320,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/flaming-drake/cs-ma-flaming-drake-2.png",
+    "xws": "csmaflamingdrake2"
+  },
+  {
+    "name": "cs-ma-flaming-drake-3",
+    "points": 321,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/flaming-drake/cs-ma-flaming-drake-3.png",
+    "xws": "csmaflamingdrake3"
+  },
+  {
+    "name": "cs-ma-flaming-drake-4",
+    "points": 322,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/flaming-drake/cs-ma-flaming-drake-4.png",
+    "xws": "csmaflamingdrake4"
+  },
+  {
+    "name": "cs-ma-flaming-drake-5",
+    "points": 323,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/flaming-drake/cs-ma-flaming-drake-5.png",
+    "xws": "csmaflamingdrake5"
+  },
+  {
+    "name": "cs-ma-flaming-drake-6",
+    "points": 324,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/flaming-drake/cs-ma-flaming-drake-6.png",
+    "xws": "csmaflamingdrake6"
+  },
+  {
+    "name": "cs-ma-flaming-drake-7",
+    "points": 325,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/flaming-drake/cs-ma-flaming-drake-7.png",
+    "xws": "csmaflamingdrake7"
+  },
+  {
+    "name": "cs-ma-flaming-drake-8",
+    "points": 326,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/flaming-drake/cs-ma-flaming-drake-8.png",
+    "xws": "csmaflamingdrake8"
+  },
+  {
+    "name": "cs-ma-frozen-cadaver-back",
+    "points": 327,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-frozen-cadaver-back.png",
+    "xws": "csmafrozencadaverback"
+  },
+  {
+    "name": "cs-ma-frozen-cadaver-1",
+    "points": 328,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-frozen-cadaver-1.png",
+    "xws": "csmafrozencadaver1"
+  },
+  {
+    "name": "cs-ma-frozen-cadaver-2",
+    "points": 329,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-frozen-cadaver-2.png",
+    "xws": "csmafrozencadaver2"
+  },
+  {
+    "name": "cs-ma-frozen-cadaver-3",
+    "points": 330,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-frozen-cadaver-3.png",
+    "xws": "csmafrozencadaver3"
+  },
+  {
+    "name": "cs-ma-frozen-cadaver-4",
+    "points": 331,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-frozen-cadaver-4.png",
+    "xws": "csmafrozencadaver4"
+  },
+  {
+    "name": "cs-ma-frozen-cadaver-5",
+    "points": 332,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-frozen-cadaver-5.png",
+    "xws": "csmafrozencadaver5"
+  },
+  {
+    "name": "cs-ma-frozen-cadaver-6",
+    "points": 333,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-frozen-cadaver-6.png",
+    "xws": "csmafrozencadaver6"
+  },
+  {
+    "name": "cs-ma-frozen-cadaver-7",
+    "points": 334,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-frozen-cadaver-7.png",
+    "xws": "csmafrozencadaver7"
+  },
+  {
+    "name": "cs-ma-frozen-cadaver-8",
+    "points": 335,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/frozen-cadaver/cs-ma-frozen-cadaver-8.png",
+    "xws": "csmafrozencadaver8"
+  },
+  {
+    "name": "cs-ma-hail-demon-back",
+    "points": 336,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/hail-demon/cs-ma-hail-demon-back.png",
+    "xws": "csmahaildemonback"
+  },
+  {
+    "name": "cs-ma-hail-demon-1",
+    "points": 337,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/hail-demon/cs-ma-hail-demon-1.png",
+    "xws": "csmahaildemon1"
+  },
+  {
+    "name": "cs-ma-hail-demon-2",
+    "points": 338,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/hail-demon/cs-ma-hail-demon-2.png",
+    "xws": "csmahaildemon2"
+  },
+  {
+    "name": "cs-ma-hail-demon-3",
+    "points": 339,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/hail-demon/cs-ma-hail-demon-3.png",
+    "xws": "csmahaildemon3"
+  },
+  {
+    "name": "cs-ma-hail-demon-4",
+    "points": 340,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/hail-demon/cs-ma-hail-demon-4.png",
+    "xws": "csmahaildemon4"
+  },
+  {
+    "name": "cs-ma-hail-demon-5",
+    "points": 341,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/hail-demon/cs-ma-hail-demon-5.png",
+    "xws": "csmahaildemon5"
+  },
+  {
+    "name": "cs-ma-hail-demon-6",
+    "points": 342,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/hail-demon/cs-ma-hail-demon-6.png",
+    "xws": "csmahaildemon6"
+  },
+  {
+    "name": "cs-ma-hail-demon-7",
+    "points": 343,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/hail-demon/cs-ma-hail-demon-7.png",
+    "xws": "csmahaildemon7"
+  },
+  {
+    "name": "cs-ma-hail-demon-8",
+    "points": 344,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/hail-demon/cs-ma-hail-demon-8.png",
+    "xws": "csmahaildemon8"
+  },
+  {
+    "name": "cs-ma-harrower-icecrawlers-back",
+    "points": 345,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/harrower-icecrawlers/cs-ma-harrower-icecrawlers-back.png",
+    "xws": "csmaharrowericecrawlersback"
+  },
+  {
+    "name": "cs-ma-harrower-icecrawlers-1",
+    "points": 346,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/harrower-icecrawlers/cs-ma-harrower-icecrawlers-1.png",
+    "xws": "csmaharrowericecrawlers1"
+  },
+  {
+    "name": "cs-ma-harrower-icecrawlers-2",
+    "points": 347,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/harrower-icecrawlers/cs-ma-harrower-icecrawlers-2.png",
+    "xws": "csmaharrowericecrawlers2"
+  },
+  {
+    "name": "cs-ma-harrower-icecrawlers-3",
+    "points": 348,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/harrower-icecrawlers/cs-ma-harrower-icecrawlers-3.png",
+    "xws": "csmaharrowericecrawlers3"
+  },
+  {
+    "name": "cs-ma-harrower-icecrawlers-4",
+    "points": 349,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/harrower-icecrawlers/cs-ma-harrower-icecrawlers-4.png",
+    "xws": "csmaharrowericecrawlers4"
+  },
+  {
+    "name": "cs-ma-harrower-icecrawlers-5",
+    "points": 350,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/harrower-icecrawlers/cs-ma-harrower-icecrawlers-5.png",
+    "xws": "csmaharrowericecrawlers5"
+  },
+  {
+    "name": "cs-ma-harrower-icecrawlers-6",
+    "points": 351,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/harrower-icecrawlers/cs-ma-harrower-icecrawlers-6.png",
+    "xws": "csmaharrowericecrawlers6"
+  },
+  {
+    "name": "cs-ma-harrower-icecrawlers-7",
+    "points": 352,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/harrower-icecrawlers/cs-ma-harrower-icecrawlers-7.png",
+    "xws": "csmaharrowericecrawlers7"
+  },
+  {
+    "name": "cs-ma-harrower-icecrawlers-8",
+    "points": 353,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/harrower-icecrawlers/cs-ma-harrower-icecrawlers-8.png",
+    "xws": "csmaharrowericecrawlers8"
+  },
+  {
+    "name": "cs-ma-toxic-imp-back",
+    "points": 354,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/toxic-imp/cs-ma-toxic-imp-back.png",
+    "xws": "csmatoxicimpback"
+  },
+  {
+    "name": "cs-ma-toxic-imp-1",
+    "points": 355,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/toxic-imp/cs-ma-toxic-imp-1.png",
+    "xws": "csmatoxicimp1"
+  },
+  {
+    "name": "cs-ma-toxic-imp-2",
+    "points": 356,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/toxic-imp/cs-ma-toxic-imp-2.png",
+    "xws": "csmatoxicimp2"
+  },
+  {
+    "name": "cs-ma-toxic-imp-3",
+    "points": 357,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/toxic-imp/cs-ma-toxic-imp-3.png",
+    "xws": "csmatoxicimp3"
+  },
+  {
+    "name": "cs-ma-toxic-imp-4",
+    "points": 358,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/toxic-imp/cs-ma-toxic-imp-4.png",
+    "xws": "csmatoxicimp4"
+  },
+  {
+    "name": "cs-ma-toxic-imp-5",
+    "points": 359,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/toxic-imp/cs-ma-toxic-imp-5.png",
+    "xws": "csmatoxicimp5"
+  },
+  {
+    "name": "cs-ma-toxic-imp-6",
+    "points": 360,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/toxic-imp/cs-ma-toxic-imp-6.png",
+    "xws": "csmatoxicimp6"
+  },
+  {
+    "name": "cs-ma-toxic-imp-7",
+    "points": 361,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/toxic-imp/cs-ma-toxic-imp-7.png",
+    "xws": "csmatoxicimp7"
+  },
+  {
+    "name": "cs-ma-toxic-imp-8",
+    "points": 362,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/toxic-imp/cs-ma-toxic-imp-8.png",
+    "xws": "csmatoxicimp8"
+  },
+  {
+    "name": "cs-ma-water-spirit-back",
+    "points": 363,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-back.png",
+    "xws": "csmawaterspiritback"
+  },
+  {
+    "name": "cs-ma-water-spirit-1",
+    "points": 364,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-1.png",
+    "xws": "csmawaterspirit1"
+  },
+  {
+    "name": "cs-ma-water-spirit-2",
+    "points": 365,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-2.png",
+    "xws": "csmawaterspirit2"
+  },
+  {
+    "name": "cs-ma-water-spirit-3",
+    "points": 366,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-3.png",
+    "xws": "csmawaterspirit3"
+  },
+  {
+    "name": "cs-ma-water-spirit-4",
+    "points": 367,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-4.png",
+    "xws": "csmawaterspirit4"
+  },
+  {
+    "name": "cs-ma-water-spirit-5",
+    "points": 368,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-5.png",
+    "xws": "csmawaterspirit5"
+  },
+  {
+    "name": "cs-ma-water-spirit-6",
+    "points": 369,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-6.png",
+    "xws": "csmawaterspirit6"
+  },
+  {
+    "name": "cs-ma-water-spirit-7",
+    "points": 370,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-7.png",
+    "xws": "csmawaterspirit7"
+  },
+  {
+    "name": "cs-ma-water-spirit-8",
+    "points": 371,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-8.png",
+    "xws": "csmawaterspirit8"
   }
 ]
