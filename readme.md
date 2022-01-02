@@ -18,12 +18,12 @@ This repository contains data and images for the following components:
 - items
 - monster-ability-cards
 - monster-stat-cards
-- overlay-tokens
 - personal-goals
 - player-aid-cards
 - random-dungeons
 - random-scenarios
 - summons
+- tokens
 - world-map
 
 There are four top-level directories; `data` , `images` , `pbf` ,and `xwc`.

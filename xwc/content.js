@@ -19,7 +19,7 @@ const files = [
   'world-map.js',
 ]
 
-//  'overlay-tokens.js',
+//  'tokens.js',
 
 
 const repoBaseUrl = 'https://raw.githubusercontent.com/any2cards/gloomhaven/master';
