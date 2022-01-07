@@ -3591,1471 +3591,2759 @@
     "xws": "fcamdr15"
   },
   {
-    "name": "cs-am-bk-back",
+    "name": "cs-am-m-back",
     "points": 513,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-back.png",
+    "xws": "csammback"
+  },
+  {
+    "name": "cs-am-m-01",
+    "points": 514,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-01.png",
+    "xws": "csamm01"
+  },
+  {
+    "name": "cs-am-m-02",
+    "points": 515,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-02.png",
+    "xws": "csamm02"
+  },
+  {
+    "name": "cs-am-m-03",
+    "points": 516,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-03.png",
+    "xws": "csamm03"
+  },
+  {
+    "name": "cs-am-m-04",
+    "points": 517,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-04.png",
+    "xws": "csamm04"
+  },
+  {
+    "name": "cs-am-m-05",
+    "points": 518,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-05.png",
+    "xws": "csamm05"
+  },
+  {
+    "name": "cs-am-m-06",
+    "points": 519,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-06.png",
+    "xws": "csamm06"
+  },
+  {
+    "name": "cs-am-m-07",
+    "points": 520,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-07.png",
+    "xws": "csamm07"
+  },
+  {
+    "name": "cs-am-m-08",
+    "points": 521,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-08.png",
+    "xws": "csamm08"
+  },
+  {
+    "name": "cs-am-m-09",
+    "points": 522,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-09.png",
+    "xws": "csamm09"
+  },
+  {
+    "name": "cs-am-m-10",
+    "points": 523,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-10.png",
+    "xws": "csamm10"
+  },
+  {
+    "name": "cs-am-m-11",
+    "points": 524,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-11.png",
+    "xws": "csamm11"
+  },
+  {
+    "name": "cs-am-m-12",
+    "points": 525,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-12.png",
+    "xws": "csamm12"
+  },
+  {
+    "name": "cs-am-m-13",
+    "points": 526,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-13.png",
+    "xws": "csamm13"
+  },
+  {
+    "name": "cs-am-m-14",
+    "points": 527,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-14.png",
+    "xws": "csamm14"
+  },
+  {
+    "name": "cs-am-m-15",
+    "points": 528,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-15.png",
+    "xws": "csamm15"
+  },
+  {
+    "name": "cs-am-m-16",
+    "points": 529,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-16.png",
+    "xws": "csamm16"
+  },
+  {
+    "name": "cs-am-m-17",
+    "points": 530,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-17.png",
+    "xws": "csamm17"
+  },
+  {
+    "name": "cs-am-m-18",
+    "points": 531,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-18.png",
+    "xws": "csamm18"
+  },
+  {
+    "name": "cs-am-m-19",
+    "points": 532,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-19.png",
+    "xws": "csamm19"
+  },
+  {
+    "name": "cs-am-m-20",
+    "points": 533,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster/cs-am-m-20.png",
+    "xws": "csamm20"
+  },
+  {
+    "name": "cs-am-mm-back",
+    "points": 534,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-back.png",
+    "xws": "csammmback"
+  },
+  {
+    "name": "cs-am-mm-01",
+    "points": 535,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-01.png",
+    "xws": "csammm01"
+  },
+  {
+    "name": "cs-am-mm-02",
+    "points": 536,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-02.png",
+    "xws": "csammm02"
+  },
+  {
+    "name": "cs-am-mm-03",
+    "points": 537,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-03.png",
+    "xws": "csammm03"
+  },
+  {
+    "name": "cs-am-mm-04",
+    "points": 538,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-04.png",
+    "xws": "csammm04"
+  },
+  {
+    "name": "cs-am-mm-05",
+    "points": 539,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-05.png",
+    "xws": "csammm05"
+  },
+  {
+    "name": "cs-am-mm-06",
+    "points": 540,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-06.png",
+    "xws": "csammm06"
+  },
+  {
+    "name": "cs-am-mm-07",
+    "points": 541,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-07.png",
+    "xws": "csammm07"
+  },
+  {
+    "name": "cs-am-mm-08",
+    "points": 542,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-08.png",
+    "xws": "csammm08"
+  },
+  {
+    "name": "cs-am-mm-09",
+    "points": 543,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-09.png",
+    "xws": "csammm09"
+  },
+  {
+    "name": "cs-am-mm-10",
+    "points": 544,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/monster-mod/cs-am-mm-10.png",
+    "xws": "csammm10"
+  },
+  {
+    "name": "cs-am-p1-back",
+    "points": 545,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-back.png",
+    "xws": "csamp1back"
+  },
+  {
+    "name": "cs-am-p1-01",
+    "points": 546,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-01.png",
+    "xws": "csamp101"
+  },
+  {
+    "name": "cs-am-p1-02",
+    "points": 547,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-02.png",
+    "xws": "csamp102"
+  },
+  {
+    "name": "cs-am-p1-03",
+    "points": 548,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-03.png",
+    "xws": "csamp103"
+  },
+  {
+    "name": "cs-am-p1-04",
+    "points": 549,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-04.png",
+    "xws": "csamp104"
+  },
+  {
+    "name": "cs-am-p1-05",
+    "points": 550,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-05.png",
+    "xws": "csamp105"
+  },
+  {
+    "name": "cs-am-p1-06",
+    "points": 551,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-06.png",
+    "xws": "csamp106"
+  },
+  {
+    "name": "cs-am-p1-07",
+    "points": 552,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-07.png",
+    "xws": "csamp107"
+  },
+  {
+    "name": "cs-am-p1-08",
+    "points": 553,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-08.png",
+    "xws": "csamp108"
+  },
+  {
+    "name": "cs-am-p1-09",
+    "points": 554,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-09.png",
+    "xws": "csamp109"
+  },
+  {
+    "name": "cs-am-p1-10",
+    "points": 555,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-10.png",
+    "xws": "csamp110"
+  },
+  {
+    "name": "cs-am-p1-11",
+    "points": 556,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-11.png",
+    "xws": "csamp111"
+  },
+  {
+    "name": "cs-am-p1-12",
+    "points": 557,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-12.png",
+    "xws": "csamp112"
+  },
+  {
+    "name": "cs-am-p1-13",
+    "points": 558,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-13.png",
+    "xws": "csamp113"
+  },
+  {
+    "name": "cs-am-p1-14",
+    "points": 559,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-14.png",
+    "xws": "csamp114"
+  },
+  {
+    "name": "cs-am-p1-15",
+    "points": 560,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-15.png",
+    "xws": "csamp115"
+  },
+  {
+    "name": "cs-am-p1-16",
+    "points": 561,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-16.png",
+    "xws": "csamp116"
+  },
+  {
+    "name": "cs-am-p1-17",
+    "points": 562,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-17.png",
+    "xws": "csamp117"
+  },
+  {
+    "name": "cs-am-p1-18",
+    "points": 563,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-18.png",
+    "xws": "csamp118"
+  },
+  {
+    "name": "cs-am-p1-19",
+    "points": 564,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-19.png",
+    "xws": "csamp119"
+  },
+  {
+    "name": "cs-am-p1-20",
+    "points": 565,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p1-20.png",
+    "xws": "csamp120"
+  },
+  {
+    "name": "cs-am-p2-back",
+    "points": 566,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-back.png",
+    "xws": "csamp2back"
+  },
+  {
+    "name": "cs-am-p2-01",
+    "points": 567,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-01.png",
+    "xws": "csamp201"
+  },
+  {
+    "name": "cs-am-p2-02",
+    "points": 568,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-02.png",
+    "xws": "csamp202"
+  },
+  {
+    "name": "cs-am-p2-03",
+    "points": 569,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-03.png",
+    "xws": "csamp203"
+  },
+  {
+    "name": "cs-am-p2-04",
+    "points": 570,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-04.png",
+    "xws": "csamp204"
+  },
+  {
+    "name": "cs-am-p2-05",
+    "points": 571,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-05.png",
+    "xws": "csamp205"
+  },
+  {
+    "name": "cs-am-p2-06",
+    "points": 572,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-06.png",
+    "xws": "csamp206"
+  },
+  {
+    "name": "cs-am-p2-07",
+    "points": 573,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-07.png",
+    "xws": "csamp207"
+  },
+  {
+    "name": "cs-am-p2-08",
+    "points": 574,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-08.png",
+    "xws": "csamp208"
+  },
+  {
+    "name": "cs-am-p2-09",
+    "points": 575,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-09.png",
+    "xws": "csamp209"
+  },
+  {
+    "name": "cs-am-p2-10",
+    "points": 576,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-10.png",
+    "xws": "csamp210"
+  },
+  {
+    "name": "cs-am-p2-11",
+    "points": 577,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-11.png",
+    "xws": "csamp211"
+  },
+  {
+    "name": "cs-am-p2-12",
+    "points": 578,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-12.png",
+    "xws": "csamp212"
+  },
+  {
+    "name": "cs-am-p2-13",
+    "points": 579,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-13.png",
+    "xws": "csamp213"
+  },
+  {
+    "name": "cs-am-p2-14",
+    "points": 580,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-14.png",
+    "xws": "csamp214"
+  },
+  {
+    "name": "cs-am-p2-15",
+    "points": 581,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-15.png",
+    "xws": "csamp215"
+  },
+  {
+    "name": "cs-am-p2-16",
+    "points": 582,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-16.png",
+    "xws": "csamp216"
+  },
+  {
+    "name": "cs-am-p2-17",
+    "points": 583,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-17.png",
+    "xws": "csamp217"
+  },
+  {
+    "name": "cs-am-p2-18",
+    "points": 584,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-18.png",
+    "xws": "csamp218"
+  },
+  {
+    "name": "cs-am-p2-19",
+    "points": 585,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-19.png",
+    "xws": "csamp219"
+  },
+  {
+    "name": "cs-am-p2-20",
+    "points": 586,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p2-20.png",
+    "xws": "csamp220"
+  },
+  {
+    "name": "cs-am-p3-back",
+    "points": 587,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-back.png",
+    "xws": "csamp3back"
+  },
+  {
+    "name": "cs-am-p3-01",
+    "points": 588,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-01.png",
+    "xws": "csamp301"
+  },
+  {
+    "name": "cs-am-p3-02",
+    "points": 589,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-02.png",
+    "xws": "csamp302"
+  },
+  {
+    "name": "cs-am-p3-03",
+    "points": 590,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-03.png",
+    "xws": "csamp303"
+  },
+  {
+    "name": "cs-am-p3-04",
+    "points": 591,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-04.png",
+    "xws": "csamp304"
+  },
+  {
+    "name": "cs-am-p3-05",
+    "points": 592,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-05.png",
+    "xws": "csamp305"
+  },
+  {
+    "name": "cs-am-p3-06",
+    "points": 593,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-06.png",
+    "xws": "csamp306"
+  },
+  {
+    "name": "cs-am-p3-07",
+    "points": 594,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-07.png",
+    "xws": "csamp307"
+  },
+  {
+    "name": "cs-am-p3-08",
+    "points": 595,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-08.png",
+    "xws": "csamp308"
+  },
+  {
+    "name": "cs-am-p3-09",
+    "points": 596,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-09.png",
+    "xws": "csamp309"
+  },
+  {
+    "name": "cs-am-p3-10",
+    "points": 597,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-10.png",
+    "xws": "csamp310"
+  },
+  {
+    "name": "cs-am-p3-11",
+    "points": 598,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-11.png",
+    "xws": "csamp311"
+  },
+  {
+    "name": "cs-am-p3-12",
+    "points": 599,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-12.png",
+    "xws": "csamp312"
+  },
+  {
+    "name": "cs-am-p3-13",
+    "points": 600,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-13.png",
+    "xws": "csamp313"
+  },
+  {
+    "name": "cs-am-p3-14",
+    "points": 601,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-14.png",
+    "xws": "csamp314"
+  },
+  {
+    "name": "cs-am-p3-15",
+    "points": 602,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-15.png",
+    "xws": "csamp315"
+  },
+  {
+    "name": "cs-am-p3-16",
+    "points": 603,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-16.png",
+    "xws": "csamp316"
+  },
+  {
+    "name": "cs-am-p3-17",
+    "points": 604,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-17.png",
+    "xws": "csamp317"
+  },
+  {
+    "name": "cs-am-p3-18",
+    "points": 605,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-18.png",
+    "xws": "csamp318"
+  },
+  {
+    "name": "cs-am-p3-19",
+    "points": 606,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-19.png",
+    "xws": "csamp319"
+  },
+  {
+    "name": "cs-am-p3-20",
+    "points": 607,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p3-20.png",
+    "xws": "csamp320"
+  },
+  {
+    "name": "cs-am-p4-back",
+    "points": 608,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-back.png",
+    "xws": "csamp4back"
+  },
+  {
+    "name": "cs-am-p4-01",
+    "points": 609,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-01.png",
+    "xws": "csamp401"
+  },
+  {
+    "name": "cs-am-p4-02",
+    "points": 610,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-02.png",
+    "xws": "csamp402"
+  },
+  {
+    "name": "cs-am-p4-03",
+    "points": 611,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-03.png",
+    "xws": "csamp403"
+  },
+  {
+    "name": "cs-am-p4-04",
+    "points": 612,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-04.png",
+    "xws": "csamp404"
+  },
+  {
+    "name": "cs-am-p4-05",
+    "points": 613,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-05.png",
+    "xws": "csamp405"
+  },
+  {
+    "name": "cs-am-p4-06",
+    "points": 614,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-06.png",
+    "xws": "csamp406"
+  },
+  {
+    "name": "cs-am-p4-07",
+    "points": 615,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-07.png",
+    "xws": "csamp407"
+  },
+  {
+    "name": "cs-am-p4-08",
+    "points": 616,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-08.png",
+    "xws": "csamp408"
+  },
+  {
+    "name": "cs-am-p4-09",
+    "points": 617,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-09.png",
+    "xws": "csamp409"
+  },
+  {
+    "name": "cs-am-p4-10",
+    "points": 618,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-10.png",
+    "xws": "csamp410"
+  },
+  {
+    "name": "cs-am-p4-11",
+    "points": 619,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-11.png",
+    "xws": "csamp411"
+  },
+  {
+    "name": "cs-am-p4-12",
+    "points": 620,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-12.png",
+    "xws": "csamp412"
+  },
+  {
+    "name": "cs-am-p4-13",
+    "points": 621,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-13.png",
+    "xws": "csamp413"
+  },
+  {
+    "name": "cs-am-p4-14",
+    "points": 622,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-14.png",
+    "xws": "csamp414"
+  },
+  {
+    "name": "cs-am-p4-15",
+    "points": 623,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-15.png",
+    "xws": "csamp415"
+  },
+  {
+    "name": "cs-am-p4-16",
+    "points": 624,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-16.png",
+    "xws": "csamp416"
+  },
+  {
+    "name": "cs-am-p4-17",
+    "points": 625,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-17.png",
+    "xws": "csamp417"
+  },
+  {
+    "name": "cs-am-p4-18",
+    "points": 626,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-18.png",
+    "xws": "csamp418"
+  },
+  {
+    "name": "cs-am-p4-19",
+    "points": 627,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-19.png",
+    "xws": "csamp419"
+  },
+  {
+    "name": "cs-am-p4-20",
+    "points": 628,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player/cs-am-p4-20.png",
+    "xws": "csamp420"
+  },
+  {
+    "name": "cs-am-pm-back",
+    "points": 629,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-back.png",
+    "xws": "csampmback"
+  },
+  {
+    "name": "cs-am-pm-01",
+    "points": 630,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-01.png",
+    "xws": "csampm01"
+  },
+  {
+    "name": "cs-am-pm-02",
+    "points": 631,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-02.png",
+    "xws": "csampm02"
+  },
+  {
+    "name": "cs-am-pm-03",
+    "points": 632,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-03.png",
+    "xws": "csampm03"
+  },
+  {
+    "name": "cs-am-pm-04",
+    "points": 633,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-04.png",
+    "xws": "csampm04"
+  },
+  {
+    "name": "cs-am-pm-05",
+    "points": 634,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-05.png",
+    "xws": "csampm05"
+  },
+  {
+    "name": "cs-am-pm-06",
+    "points": 635,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-06.png",
+    "xws": "csampm06"
+  },
+  {
+    "name": "cs-am-pm-07",
+    "points": 636,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-07.png",
+    "xws": "csampm07"
+  },
+  {
+    "name": "cs-am-pm-08",
+    "points": 637,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-08.png",
+    "xws": "csampm08"
+  },
+  {
+    "name": "cs-am-pm-09",
+    "points": 638,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-09.png",
+    "xws": "csampm09"
+  },
+  {
+    "name": "cs-am-pm-10",
+    "points": 639,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-10.png",
+    "xws": "csampm10"
+  },
+  {
+    "name": "cs-am-pm-11",
+    "points": 640,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-11.png",
+    "xws": "csampm11"
+  },
+  {
+    "name": "cs-am-pm-12",
+    "points": 641,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-12.png",
+    "xws": "csampm12"
+  },
+  {
+    "name": "cs-am-pm-13",
+    "points": 642,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-13.png",
+    "xws": "csampm13"
+  },
+  {
+    "name": "cs-am-pm-14",
+    "points": 643,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-14.png",
+    "xws": "csampm14"
+  },
+  {
+    "name": "cs-am-pm-15",
+    "points": 644,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-15.png",
+    "xws": "csampm15"
+  },
+  {
+    "name": "cs-am-pm-16",
+    "points": 645,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-16.png",
+    "xws": "csampm16"
+  },
+  {
+    "name": "cs-am-pm-17",
+    "points": 646,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-17.png",
+    "xws": "csampm17"
+  },
+  {
+    "name": "cs-am-pm-18",
+    "points": 647,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-18.png",
+    "xws": "csampm18"
+  },
+  {
+    "name": "cs-am-pm-19",
+    "points": 648,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-19.png",
+    "xws": "csampm19"
+  },
+  {
+    "name": "cs-am-pm-20",
+    "points": 649,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-20.png",
+    "xws": "csampm20"
+  },
+  {
+    "name": "cs-am-pm-21",
+    "points": 650,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-21.png",
+    "xws": "csampm21"
+  },
+  {
+    "name": "cs-am-pm-22",
+    "points": 651,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-22.png",
+    "xws": "csampm22"
+  },
+  {
+    "name": "cs-am-pm-23",
+    "points": 652,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-23.png",
+    "xws": "csampm23"
+  },
+  {
+    "name": "cs-am-pm-24",
+    "points": 653,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-24.png",
+    "xws": "csampm24"
+  },
+  {
+    "name": "cs-am-pm-25",
+    "points": 654,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-25.png",
+    "xws": "csampm25"
+  },
+  {
+    "name": "cs-am-pm-26",
+    "points": 655,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-26.png",
+    "xws": "csampm26"
+  },
+  {
+    "name": "cs-am-pm-27",
+    "points": 656,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-27.png",
+    "xws": "csampm27"
+  },
+  {
+    "name": "cs-am-pm-28",
+    "points": 657,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-28.png",
+    "xws": "csampm28"
+  },
+  {
+    "name": "cs-am-pm-29",
+    "points": 658,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-29.png",
+    "xws": "csampm29"
+  },
+  {
+    "name": "cs-am-pm-30",
+    "points": 659,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-30.png",
+    "xws": "csampm30"
+  },
+  {
+    "name": "cs-am-pm-31",
+    "points": 660,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-31.png",
+    "xws": "csampm31"
+  },
+  {
+    "name": "cs-am-pm-32",
+    "points": 661,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-32.png",
+    "xws": "csampm32"
+  },
+  {
+    "name": "cs-am-pm-33",
+    "points": 662,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-33.png",
+    "xws": "csampm33"
+  },
+  {
+    "name": "cs-am-pm-34",
+    "points": 663,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-34.png",
+    "xws": "csampm34"
+  },
+  {
+    "name": "cs-am-pm-35",
+    "points": 664,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/base/player-mod/cs-am-pm-35.png",
+    "xws": "csampm35"
+  },
+  {
+    "name": "cs-am-bk-back",
+    "points": 665,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-back.png",
     "xws": "csambkback"
   },
   {
     "name": "cs-am-bk-01",
-    "points": 514,
+    "points": 666,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-01.png",
     "xws": "csambk01"
   },
   {
     "name": "cs-am-bk-02",
-    "points": 515,
+    "points": 667,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-02.png",
     "xws": "csambk02"
   },
   {
     "name": "cs-am-bk-03",
-    "points": 516,
+    "points": 668,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-03.png",
     "xws": "csambk03"
   },
   {
     "name": "cs-am-bk-04",
-    "points": 517,
+    "points": 669,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-04.png",
     "xws": "csambk04"
   },
   {
     "name": "cs-am-bk-05",
-    "points": 518,
+    "points": 670,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-05.png",
     "xws": "csambk05"
   },
   {
     "name": "cs-am-bk-06",
-    "points": 519,
+    "points": 671,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-06.png",
     "xws": "csambk06"
   },
   {
     "name": "cs-am-bk-07",
-    "points": 520,
+    "points": 672,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-07.png",
     "xws": "csambk07"
   },
   {
     "name": "cs-am-bk-08",
-    "points": 521,
+    "points": 673,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-08.png",
     "xws": "csambk08"
   },
   {
     "name": "cs-am-bk-09",
-    "points": 522,
+    "points": 674,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-09.png",
     "xws": "csambk09"
   },
   {
     "name": "cs-am-bk-10",
-    "points": 523,
+    "points": 675,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-10.png",
     "xws": "csambk10"
   },
   {
     "name": "cs-am-bk-11",
-    "points": 524,
+    "points": 676,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-11.png",
     "xws": "csambk11"
   },
   {
     "name": "cs-am-bk-12",
-    "points": 525,
+    "points": 677,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-12.png",
     "xws": "csambk12"
   },
   {
     "name": "cs-am-bk-13",
-    "points": 526,
+    "points": 678,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-13.png",
     "xws": "csambk13"
   },
   {
     "name": "cs-am-bk-14",
-    "points": 527,
+    "points": 679,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-14.png",
     "xws": "csambk14"
   },
   {
     "name": "cs-am-bk-15",
-    "points": 528,
+    "points": 680,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-15.png",
     "xws": "csambk15"
   },
   {
     "name": "cs-am-bk-16",
-    "points": 529,
+    "points": 681,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-16.png",
     "xws": "csambk16"
   },
   {
     "name": "cs-am-bk-17",
-    "points": 530,
+    "points": 682,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-17.png",
     "xws": "csambk17"
   },
   {
     "name": "cs-am-bk-18",
-    "points": 531,
+    "points": 683,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BK/cs-am-bk-18.png",
     "xws": "csambk18"
   },
   {
     "name": "cs-am-bm-back",
-    "points": 532,
+    "points": 684,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BM/cs-am-bm-back.png",
     "xws": "csambmback"
   },
   {
     "name": "cs-am-bm-01",
-    "points": 533,
+    "points": 685,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BM/cs-am-bm-01.png",
     "xws": "csambm01"
   },
   {
     "name": "cs-am-bm-02",
-    "points": 534,
+    "points": 686,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BM/cs-am-bm-02.png",
     "xws": "csambm02"
   },
   {
     "name": "cs-am-bm-03",
-    "points": 535,
+    "points": 687,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BM/cs-am-bm-03.png",
     "xws": "csambm03"
   },
   {
     "name": "cs-am-bm-04",
-    "points": 536,
+    "points": 688,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BM/cs-am-bm-04.png",
     "xws": "csambm04"
   },
   {
     "name": "cs-am-bm-05",
-    "points": 537,
+    "points": 689,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BM/cs-am-bm-05.png",
     "xws": "csambm05"
   },
   {
     "name": "cs-am-bm-06",
-    "points": 538,
+    "points": 690,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BM/cs-am-bm-06.png",
     "xws": "csambm06"
   },
   {
     "name": "cs-am-bm-07",
-    "points": 539,
+    "points": 691,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BM/cs-am-bm-07.png",
     "xws": "csambm07"
   },
   {
     "name": "cs-am-bm-08",
-    "points": 540,
+    "points": 692,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BM/cs-am-bm-08.png",
     "xws": "csambm08"
   },
   {
     "name": "cs-am-bm-09",
-    "points": 541,
+    "points": 693,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BM/cs-am-bm-09.png",
     "xws": "csambm09"
   },
   {
     "name": "cs-am-bm-10",
-    "points": 542,
+    "points": 694,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BM/cs-am-bm-10.png",
     "xws": "csambm10"
   },
   {
     "name": "cs-am-bm-11",
-    "points": 543,
+    "points": 695,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BM/cs-am-bm-11.png",
     "xws": "csambm11"
   },
   {
     "name": "cs-am-bm-12",
-    "points": 544,
+    "points": 696,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BM/cs-am-bm-12.png",
     "xws": "csambm12"
   },
   {
     "name": "cs-am-bm-13",
-    "points": 545,
+    "points": 697,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BM/cs-am-bm-13.png",
     "xws": "csambm13"
   },
   {
     "name": "cs-am-bm-14",
-    "points": 546,
+    "points": 698,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BM/cs-am-bm-14.png",
     "xws": "csambm14"
   },
   {
     "name": "cs-am-bm-15",
-    "points": 547,
+    "points": 699,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BM/cs-am-bm-15.png",
     "xws": "csambm15"
   },
   {
     "name": "cs-am-bm-16",
-    "points": 548,
+    "points": 700,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BM/cs-am-bm-16.png",
     "xws": "csambm16"
   },
   {
     "name": "cs-am-bm-17",
-    "points": 549,
+    "points": 701,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/BM/cs-am-bm-17.png",
     "xws": "csambm17"
   },
   {
     "name": "cs-am-cg-back",
-    "points": 550,
+    "points": 702,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-back.png",
     "xws": "csamcgback"
   },
   {
     "name": "cs-am-cg-01",
-    "points": 551,
+    "points": 703,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-01.png",
     "xws": "csamcg01"
   },
   {
     "name": "cs-am-cg-02",
-    "points": 552,
+    "points": 704,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-02.png",
     "xws": "csamcg02"
   },
   {
     "name": "cs-am-cg-03",
-    "points": 553,
+    "points": 705,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-03.png",
     "xws": "csamcg03"
   },
   {
     "name": "cs-am-cg-04",
-    "points": 554,
+    "points": 706,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-04.png",
     "xws": "csamcg04"
   },
   {
     "name": "cs-am-cg-05",
-    "points": 555,
+    "points": 707,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-05.png",
     "xws": "csamcg05"
   },
   {
     "name": "cs-am-cg-06",
-    "points": 556,
+    "points": 708,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-06.png",
     "xws": "csamcg06"
   },
   {
     "name": "cs-am-cg-07",
-    "points": 557,
+    "points": 709,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-07.png",
     "xws": "csamcg07"
   },
   {
     "name": "cs-am-cg-08",
-    "points": 558,
+    "points": 710,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-08.png",
     "xws": "csamcg08"
   },
   {
     "name": "cs-am-cg-09",
-    "points": 559,
+    "points": 711,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-09.png",
     "xws": "csamcg09"
   },
   {
     "name": "cs-am-cg-10",
-    "points": 560,
+    "points": 712,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-10.png",
     "xws": "csamcg10"
   },
   {
     "name": "cs-am-cg-11",
-    "points": 561,
+    "points": 713,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-11.png",
     "xws": "csamcg11"
   },
   {
     "name": "cs-am-cg-12",
-    "points": 562,
+    "points": 714,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-12.png",
     "xws": "csamcg12"
   },
   {
     "name": "cs-am-cg-13",
-    "points": 563,
+    "points": 715,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-13.png",
     "xws": "csamcg13"
   },
   {
     "name": "cs-am-cg-14",
-    "points": 564,
+    "points": 716,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-14.png",
     "xws": "csamcg14"
   },
   {
     "name": "cs-am-cg-15",
-    "points": 565,
+    "points": 717,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-15.png",
     "xws": "csamcg15"
   },
   {
     "name": "cs-am-cg-16",
-    "points": 566,
+    "points": 718,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-16.png",
     "xws": "csamcg16"
   },
   {
     "name": "cs-am-cg-17",
-    "points": 567,
+    "points": 719,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-17.png",
     "xws": "csamcg17"
   },
   {
     "name": "cs-am-cg-18",
-    "points": 568,
+    "points": 720,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CG/cs-am-cg-18.png",
     "xws": "csamcg18"
   },
   {
     "name": "cs-am-ct-back",
-    "points": 569,
+    "points": 721,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-back.png",
     "xws": "csamctback"
   },
   {
     "name": "cs-am-ct-01",
-    "points": 570,
+    "points": 722,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-01.png",
     "xws": "csamct01"
   },
   {
     "name": "cs-am-ct-02",
-    "points": 571,
+    "points": 723,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-02.png",
     "xws": "csamct02"
   },
   {
     "name": "cs-am-ct-03",
-    "points": 572,
+    "points": 724,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-03.png",
     "xws": "csamct03"
   },
   {
     "name": "cs-am-ct-04",
-    "points": 573,
+    "points": 725,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-04.png",
     "xws": "csamct04"
   },
   {
     "name": "cs-am-ct-05",
-    "points": 574,
+    "points": 726,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-05.png",
     "xws": "csamct05"
   },
   {
     "name": "cs-am-ct-06",
-    "points": 575,
+    "points": 727,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-06.png",
     "xws": "csamct06"
   },
   {
     "name": "cs-am-ct-07",
-    "points": 576,
+    "points": 728,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-07.png",
     "xws": "csamct07"
   },
   {
     "name": "cs-am-ct-08",
-    "points": 577,
+    "points": 729,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-08.png",
     "xws": "csamct08"
   },
   {
     "name": "cs-am-ct-09",
-    "points": 578,
+    "points": 730,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-09.png",
     "xws": "csamct09"
   },
   {
     "name": "cs-am-ct-10",
-    "points": 579,
+    "points": 731,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-10.png",
     "xws": "csamct10"
   },
   {
     "name": "cs-am-ct-11",
-    "points": 580,
+    "points": 732,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-11.png",
     "xws": "csamct11"
   },
   {
     "name": "cs-am-ct-12",
-    "points": 581,
+    "points": 733,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-12.png",
     "xws": "csamct12"
   },
   {
     "name": "cs-am-ct-13",
-    "points": 582,
+    "points": 734,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-13.png",
     "xws": "csamct13"
   },
   {
     "name": "cs-am-ct-14",
-    "points": 583,
+    "points": 735,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-14.png",
     "xws": "csamct14"
   },
   {
     "name": "cs-am-ct-15",
-    "points": 584,
+    "points": 736,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-15.png",
     "xws": "csamct15"
   },
   {
     "name": "cs-am-ct-16",
-    "points": 585,
+    "points": 737,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-16.png",
     "xws": "csamct16"
   },
   {
     "name": "cs-am-ct-17",
-    "points": 586,
+    "points": 738,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-17.png",
     "xws": "csamct17"
   },
   {
-    "name": "cs-am-ct-18",
-    "points": 587,
-    "expansion": "Crimson Scales",
-    "image": "attack-modifiers/crimson-scales/CT/cs-am-ct-18.png",
-    "xws": "csamct18"
-  },
-  {
     "name": "cs-am-fk-back",
-    "points": 588,
+    "points": 739,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-back.png",
     "xws": "csamfkback"
   },
   {
     "name": "cs-am-fk-01",
-    "points": 589,
+    "points": 740,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-01.png",
     "xws": "csamfk01"
   },
   {
     "name": "cs-am-fk-02",
-    "points": 590,
+    "points": 741,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-02.png",
     "xws": "csamfk02"
   },
   {
     "name": "cs-am-fk-03",
-    "points": 591,
+    "points": 742,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-03.png",
     "xws": "csamfk03"
   },
   {
     "name": "cs-am-fk-04",
-    "points": 592,
+    "points": 743,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-04.png",
     "xws": "csamfk04"
   },
   {
     "name": "cs-am-fk-05",
-    "points": 593,
+    "points": 744,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-05.png",
     "xws": "csamfk05"
   },
   {
     "name": "cs-am-fk-06",
-    "points": 594,
+    "points": 745,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-06.png",
     "xws": "csamfk06"
   },
   {
     "name": "cs-am-fk-07",
-    "points": 595,
+    "points": 746,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-07.png",
     "xws": "csamfk07"
   },
   {
     "name": "cs-am-fk-08",
-    "points": 596,
+    "points": 747,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-08.png",
     "xws": "csamfk08"
   },
   {
     "name": "cs-am-fk-09",
-    "points": 597,
+    "points": 748,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-09.png",
     "xws": "csamfk09"
   },
   {
     "name": "cs-am-fk-10",
-    "points": 598,
+    "points": 749,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-10.png",
     "xws": "csamfk10"
   },
   {
     "name": "cs-am-fk-11",
-    "points": 599,
+    "points": 750,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-11.png",
     "xws": "csamfk11"
   },
   {
     "name": "cs-am-fk-12",
-    "points": 600,
+    "points": 751,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-12.png",
     "xws": "csamfk12"
   },
   {
     "name": "cs-am-fk-13",
-    "points": 601,
+    "points": 752,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-13.png",
     "xws": "csamfk13"
   },
   {
     "name": "cs-am-fk-14",
-    "points": 602,
+    "points": 753,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-14.png",
     "xws": "csamfk14"
   },
   {
     "name": "cs-am-fk-15",
-    "points": 603,
+    "points": 754,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-15.png",
     "xws": "csamfk15"
   },
   {
     "name": "cs-am-fk-16",
-    "points": 604,
+    "points": 755,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-16.png",
     "xws": "csamfk16"
   },
   {
     "name": "cs-am-fk-17",
-    "points": 605,
+    "points": 756,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-17.png",
     "xws": "csamfk17"
   },
   {
     "name": "cs-am-fk-18",
-    "points": 606,
+    "points": 757,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-18.png",
     "xws": "csamfireknight18"
   },
   {
     "name": "cs-am-fk-19",
-    "points": 607,
+    "points": 758,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/FK/cs-am-fk-19.png",
     "xws": "csamfireknight19"
   },
   {
     "name": "cs-am-ho-back",
-    "points": 608,
+    "points": 759,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-back.png",
     "xws": "csamhoback"
   },
   {
     "name": "cs-am-ho-01",
-    "points": 609,
+    "points": 760,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-01.png",
     "xws": "csamho01"
   },
   {
     "name": "cs-am-ho-02",
-    "points": 610,
+    "points": 761,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-02.png",
     "xws": "csamho02"
   },
   {
     "name": "cs-am-ho-03",
-    "points": 611,
+    "points": 762,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-03.png",
     "xws": "csamho03"
   },
   {
     "name": "cs-am-ho-04",
-    "points": 612,
+    "points": 763,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-04.png",
     "xws": "csamho04"
   },
   {
     "name": "cs-am-ho-05",
-    "points": 613,
+    "points": 764,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-05.png",
     "xws": "csamho05"
   },
   {
     "name": "cs-am-ho-06",
-    "points": 614,
+    "points": 765,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-06.png",
     "xws": "csamho06"
   },
   {
     "name": "cs-am-ho-07",
-    "points": 615,
+    "points": 766,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-07.png",
     "xws": "csamho07"
   },
   {
     "name": "cs-am-ho-08",
-    "points": 616,
+    "points": 767,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-08.png",
     "xws": "csamho08"
   },
   {
     "name": "cs-am-ho-09",
-    "points": 617,
+    "points": 768,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-09.png",
     "xws": "csamho09"
   },
   {
     "name": "cs-am-ho-10",
-    "points": 618,
+    "points": 769,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-10.png",
     "xws": "csamho10"
   },
   {
     "name": "cs-am-ho-11",
-    "points": 619,
+    "points": 770,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-11.png",
     "xws": "csamho11"
   },
   {
     "name": "cs-am-ho-12",
-    "points": 620,
+    "points": 771,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-12.png",
     "xws": "csamho12"
   },
   {
     "name": "cs-am-ho-13",
-    "points": 621,
+    "points": 772,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-13.png",
     "xws": "csamho13"
   },
   {
     "name": "cs-am-ho-14",
-    "points": 622,
+    "points": 773,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-14.png",
     "xws": "csamho14"
   },
   {
     "name": "cs-am-ho-15",
-    "points": 623,
+    "points": 774,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-15.png",
     "xws": "csamho15"
   },
   {
     "name": "cs-am-ho-16",
-    "points": 624,
+    "points": 775,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-16.png",
     "xws": "csamho16"
   },
   {
     "name": "cs-am-ho-17",
-    "points": 625,
+    "points": 776,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-17.png",
     "xws": "csamho17"
   },
   {
     "name": "cs-am-ho-18",
-    "points": 626,
+    "points": 777,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-18.png",
     "xws": "csamho18"
   },
   {
     "name": "cs-am-ho-19",
-    "points": 627,
+    "points": 778,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-19.png",
     "xws": "csamho19"
   },
   {
     "name": "cs-am-ho-20",
-    "points": 628,
+    "points": 779,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-20.png",
     "xws": "csamho20"
   },
   {
     "name": "cs-am-ho-21",
-    "points": 629,
+    "points": 780,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-21.png",
     "xws": "csamho21"
   },
   {
     "name": "cs-am-ho-22",
-    "points": 630,
+    "points": 781,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-22.png",
     "xws": "csamho22"
   },
   {
     "name": "cs-am-ho-23",
-    "points": 631,
+    "points": 782,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HO/cs-am-ho-23.png",
     "xws": "csamho23"
   },
   {
     "name": "cs-am-hp-back",
-    "points": 632,
+    "points": 783,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HP/cs-am-hp-back.png",
     "xws": "csamhpback"
   },
   {
     "name": "cs-am-hp-01",
-    "points": 633,
+    "points": 784,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HP/cs-am-hp-01.png",
     "xws": "csamhp01"
   },
   {
     "name": "cs-am-hp-02",
-    "points": 634,
+    "points": 785,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HP/cs-am-hp-02.png",
     "xws": "csamhp02"
   },
   {
     "name": "cs-am-hp-03",
-    "points": 635,
+    "points": 786,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HP/cs-am-hp-03.png",
     "xws": "csamhp03"
   },
   {
     "name": "cs-am-hp-04",
-    "points": 636,
+    "points": 787,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HP/cs-am-hp-04.png",
     "xws": "csamhp04"
   },
   {
     "name": "cs-am-hp-05",
-    "points": 637,
+    "points": 788,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HP/cs-am-hp-05.png",
     "xws": "csamhp05"
   },
   {
     "name": "cs-am-hp-06",
-    "points": 638,
+    "points": 789,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HP/cs-am-hp-06.png",
     "xws": "csamhp06"
   },
   {
     "name": "cs-am-hp-07",
-    "points": 639,
+    "points": 790,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HP/cs-am-hp-07.png",
     "xws": "csamhp07"
   },
   {
     "name": "cs-am-hp-08",
-    "points": 640,
+    "points": 791,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HP/cs-am-hp-08.png",
     "xws": "csamhp08"
   },
   {
     "name": "cs-am-hp-09",
-    "points": 641,
+    "points": 792,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HP/cs-am-hp-09.png",
     "xws": "csamhp09"
   },
   {
     "name": "cs-am-hp-10",
-    "points": 642,
+    "points": 793,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HP/cs-am-hp-10.png",
     "xws": "csamhp10"
   },
   {
     "name": "cs-am-hp-11",
-    "points": 643,
+    "points": 794,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HP/cs-am-hp-11.png",
     "xws": "csamhp11"
   },
   {
     "name": "cs-am-hp-12",
-    "points": 644,
+    "points": 795,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HP/cs-am-hp-12.png",
     "xws": "csamhp12"
   },
   {
     "name": "cs-am-hp-13",
-    "points": 645,
+    "points": 796,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HP/cs-am-hp-13.png",
     "xws": "csamhp13"
   },
   {
     "name": "cs-am-hp-14",
-    "points": 646,
+    "points": 797,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HP/cs-am-hp-14.png",
     "xws": "csamhp14"
   },
   {
     "name": "cs-am-hp-15",
-    "points": 647,
+    "points": 798,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/HP/cs-am-hp-15.png",
     "xws": "csamhp15"
   },
   {
     "name": "cs-am-lu-back",
-    "points": 648,
+    "points": 799,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/LU/cs-am-lu-back.png",
     "xws": "csamluback"
   },
   {
     "name": "cs-am-lu-01",
-    "points": 649,
+    "points": 800,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/LU/cs-am-lu-01.png",
     "xws": "csamlu01"
   },
   {
     "name": "cs-am-lu-02",
-    "points": 650,
+    "points": 801,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/LU/cs-am-lu-02.png",
     "xws": "csamlu02"
   },
   {
     "name": "cs-am-lu-03",
-    "points": 651,
+    "points": 802,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/LU/cs-am-lu-03.png",
     "xws": "csamlu03"
   },
   {
     "name": "cs-am-lu-04",
-    "points": 652,
+    "points": 803,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/LU/cs-am-lu-04.png",
     "xws": "csamlu04"
   },
   {
     "name": "cs-am-lu-05",
-    "points": 653,
+    "points": 804,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/LU/cs-am-lu-05.png",
     "xws": "csamlu05"
   },
   {
     "name": "cs-am-lu-06",
-    "points": 654,
+    "points": 805,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/LU/cs-am-lu-06.png",
     "xws": "csamlu06"
   },
   {
     "name": "cs-am-lu-07",
-    "points": 655,
+    "points": 806,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/LU/cs-am-lu-07.png",
     "xws": "csamlu07"
   },
   {
     "name": "cs-am-lu-08",
-    "points": 656,
+    "points": 807,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/LU/cs-am-lu-08.png",
     "xws": "csamlu08"
   },
   {
     "name": "cs-am-lu-09",
-    "points": 657,
+    "points": 808,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/LU/cs-am-lu-09.png",
     "xws": "csamlu09"
   },
   {
     "name": "cs-am-lu-10",
-    "points": 658,
+    "points": 809,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/LU/cs-am-lu-10.png",
     "xws": "csamlu10"
   },
   {
     "name": "cs-am-lu-11",
-    "points": 659,
+    "points": 810,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/LU/cs-am-lu-11.png",
     "xws": "csamlu11"
   },
   {
     "name": "cs-am-lu-12",
-    "points": 660,
+    "points": 811,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/LU/cs-am-lu-12.png",
     "xws": "csamlu12"
   },
   {
     "name": "cs-am-lu-13",
-    "points": 661,
+    "points": 812,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/LU/cs-am-lu-13.png",
     "xws": "csamlu13"
   },
   {
-    "name": "cs-am-lu-14",
-    "points": 662,
-    "expansion": "Crimson Scales",
-    "image": "attack-modifiers/crimson-scales/LU/cs-am-lu-14.png",
-    "xws": "csamlu14"
-  },
-  {
     "name": "cs-am-mf-back",
-    "points": 663,
+    "points": 813,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-back.png",
     "xws": "csammfback"
   },
   {
     "name": "cs-am-mf-01",
-    "points": 664,
+    "points": 814,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-01.png",
     "xws": "csammf01"
   },
   {
     "name": "cs-am-mf-02",
-    "points": 665,
+    "points": 815,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-02.png",
     "xws": "csammf02"
   },
   {
     "name": "cs-am-mf-03",
-    "points": 666,
+    "points": 816,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-03.png",
     "xws": "csammf03"
   },
   {
     "name": "cs-am-mf-04",
-    "points": 667,
+    "points": 817,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-04.png",
     "xws": "csammf04"
   },
   {
     "name": "cs-am-mf-05",
-    "points": 668,
+    "points": 818,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-05.png",
     "xws": "csammf05"
   },
   {
     "name": "cs-am-mf-06",
-    "points": 669,
+    "points": 819,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-06.png",
     "xws": "csammf06"
   },
   {
     "name": "cs-am-mf-07",
-    "points": 670,
+    "points": 820,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-07.png",
     "xws": "csammf07"
   },
   {
     "name": "cs-am-mf-08",
-    "points": 671,
+    "points": 821,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-08.png",
     "xws": "csammf08"
   },
   {
     "name": "cs-am-mf-09",
-    "points": 672,
+    "points": 822,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-09.png",
     "xws": "csammf09"
   },
   {
     "name": "cs-am-mf-10",
-    "points": 673,
+    "points": 823,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-10.png",
     "xws": "csammf10"
   },
   {
     "name": "cs-am-mf-11",
-    "points": 674,
+    "points": 824,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-11.png",
     "xws": "csammf11"
   },
   {
     "name": "cs-am-mf-12",
-    "points": 675,
+    "points": 825,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-12.png",
     "xws": "csammf12"
   },
   {
     "name": "cs-am-mf-13",
-    "points": 676,
+    "points": 826,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-13.png",
     "xws": "csammf13"
   },
   {
     "name": "cs-am-mf-14",
-    "points": 677,
+    "points": 827,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-14.png",
     "xws": "csammf14"
   },
   {
     "name": "cs-am-mf-15",
-    "points": 678,
+    "points": 828,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-15.png",
     "xws": "csammf15"
   },
   {
     "name": "cs-am-mf-16",
-    "points": 679,
+    "points": 829,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-16.png",
     "xws": "csammf16"
   },
   {
     "name": "cs-am-mf-17",
-    "points": 680,
+    "points": 830,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-17.png",
     "xws": "csammf17"
   },
   {
     "name": "cs-am-mf-18",
-    "points": 681,
+    "points": 831,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-18.png",
     "xws": "csammf18"
   },
   {
     "name": "cs-am-mf-19",
-    "points": 682,
+    "points": 832,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-19.png",
     "xws": "csammf19"
   },
   {
     "name": "cs-am-mf-20",
-    "points": 683,
+    "points": 833,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-20.png",
     "xws": "csammf20"
   },
   {
     "name": "cs-am-mf-21",
-    "points": 684,
+    "points": 834,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/MF/cs-am-mf-21.png",
     "xws": "csammf21"
   },
   {
+    "name": "cs-am-pa-back",
+    "points": 835,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/party/cs-am-pa-back.png",
+    "xws": "csampaback"
+  },
+  {
+    "name": "cs-am-pa-01",
+    "points": 836,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/party/cs-am-pa-01.png",
+    "xws": "csampa01"
+  },
+  {
+    "name": "cs-am-pa-02",
+    "points": 837,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/party/cs-am-pa-02.png",
+    "xws": "csampa02"
+  },
+  {
+    "name": "cs-am-pa-03",
+    "points": 838,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/party/cs-am-pa-03.png",
+    "xws": "csampa03"
+  },
+  {
+    "name": "cs-am-pa-04",
+    "points": 839,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/party/cs-am-pa-04.png",
+    "xws": "csampa04"
+  },
+  {
+    "name": "cs-am-pa-05",
+    "points": 840,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/party/cs-am-pa-05.png",
+    "xws": "csampa05"
+  },
+  {
+    "name": "cs-am-pa-06",
+    "points": 841,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/party/cs-am-pa-06.png",
+    "xws": "csampa06"
+  },
+  {
+    "name": "cs-am-pa-07",
+    "points": 842,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/party/cs-am-pa-07.png",
+    "xws": "csampa07"
+  },
+  {
+    "name": "cs-am-pa-08",
+    "points": 843,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/party/cs-am-pa-08.png",
+    "xws": "csampa08"
+  },
+  {
+    "name": "cs-am-pa-09",
+    "points": 844,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/party/cs-am-pa-09.png",
+    "xws": "csampa09"
+  },
+  {
+    "name": "cs-am-pa-10",
+    "points": 845,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/party/cs-am-pa-10.png",
+    "xws": "csampa10"
+  },
+  {
+    "name": "cs-am-pa-11",
+    "points": 846,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/party/cs-am-pa-11.png",
+    "xws": "csampa11"
+  },
+  {
+    "name": "cs-am-pa-12",
+    "points": 847,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/party/cs-am-pa-12.png",
+    "xws": "csampa12"
+  },
+  {
+    "name": "cs-am-pa-13",
+    "points": 848,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/party/cs-am-pa-13.png",
+    "xws": "csampa13"
+  },
+  {
+    "name": "cs-am-pa-14",
+    "points": 849,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/party/cs-am-pa-14.png",
+    "xws": "csampa14"
+  },
+  {
+    "name": "cs-am-pa-15",
+    "points": 850,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/party/cs-am-pa-15.png",
+    "xws": "csampa15"
+  },
+  {
+    "name": "cs-am-pa-16",
+    "points": 851,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/party/cs-am-pa-16.png",
+    "xws": "csampa16"
+  },
+  {
+    "name": "cs-am-sa-back",
+    "points": 852,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-back.png",
+    "xws": "csamsaback"
+  },
+  {
+    "name": "cs-am-sa-01",
+    "points": 853,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-01.png",
+    "xws": "csamsa01"
+  },
+  {
+    "name": "cs-am-sa-02",
+    "points": 854,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-02.png",
+    "xws": "csamsa02"
+  },
+  {
+    "name": "cs-am-sa-03",
+    "points": 855,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-03.png",
+    "xws": "csamsa03"
+  },
+  {
+    "name": "cs-am-sa-04",
+    "points": 856,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-04.png",
+    "xws": "csamsa04"
+  },
+  {
+    "name": "cs-am-sa-05",
+    "points": 857,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-05.png",
+    "xws": "csamsa05"
+  },
+  {
+    "name": "cs-am-sa-06",
+    "points": 858,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-06.png",
+    "xws": "csamsa06"
+  },
+  {
+    "name": "cs-am-sa-07",
+    "points": 859,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-07.png",
+    "xws": "csamsa07"
+  },
+  {
+    "name": "cs-am-sa-08",
+    "points": 860,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-08.png",
+    "xws": "csamsa08"
+  },
+  {
+    "name": "cs-am-sa-09",
+    "points": 861,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-09.png",
+    "xws": "csamsa09"
+  },
+  {
+    "name": "cs-am-sa-10",
+    "points": 862,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-10.png",
+    "xws": "csamsa10"
+  },
+  {
+    "name": "cs-am-sa-11",
+    "points": 863,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-11.png",
+    "xws": "csamsa11"
+  },
+  {
+    "name": "cs-am-sa-12",
+    "points": 864,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-12.png",
+    "xws": "csamsa12"
+  },
+  {
+    "name": "cs-am-sa-13",
+    "points": 865,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-13.png",
+    "xws": "csamsa13"
+  },
+  {
+    "name": "cs-am-sa-14",
+    "points": 866,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-14.png",
+    "xws": "csamsa14"
+  },
+  {
+    "name": "cs-am-sa-15",
+    "points": 867,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-15.png",
+    "xws": "csamsa15"
+  },
+  {
+    "name": "cs-am-sa-16",
+    "points": 868,
+    "expansion": "Crimson Scales",
+    "image": "attack-modifiers/crimson-scales/sanctuary/cs-am-sa-16.png",
+    "xws": "csamsa16"
+  },
+  {
     "name": "cs-am-sp-back",
-    "points": 685,
+    "points": 869,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-back.png",
     "xws": "csamspiritcallerback"
   },
   {
     "name": "cs-am-sp-01",
-    "points": 686,
+    "points": 870,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-01.png",
     "xws": "csamspiritcaller01"
   },
   {
     "name": "cs-am-sp-02",
-    "points": 687,
+    "points": 871,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-02.png",
     "xws": "csamspiritcaller02"
   },
   {
     "name": "cs-am-sp-03",
-    "points": 688,
+    "points": 872,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-03.png",
     "xws": "csamspiritcaller03"
   },
   {
     "name": "cs-am-sp-04",
-    "points": 689,
+    "points": 873,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-04.png",
     "xws": "csamspiritcaller04"
   },
   {
     "name": "cs-am-sp-05",
-    "points": 690,
+    "points": 874,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-05.png",
     "xws": "csamspiritcaller05"
   },
   {
     "name": "cs-am-sp-06",
-    "points": 691,
+    "points": 875,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-06.png",
     "xws": "csamspiritcaller06"
   },
   {
     "name": "cs-am-sp-07",
-    "points": 692,
+    "points": 876,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-07.png",
     "xws": "csamspiritcaller07"
   },
   {
     "name": "cs-am-sp-08",
-    "points": 693,
+    "points": 877,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-08.png",
     "xws": "csamspiritcaller08"
   },
   {
     "name": "cs-am-sp-09",
-    "points": 694,
+    "points": 878,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-09.png",
     "xws": "csamspiritcaller09"
   },
   {
     "name": "cs-am-sp-10",
-    "points": 695,
+    "points": 879,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-10.png",
     "xws": "csamspiritcaller10"
   },
   {
     "name": "cs-am-sp-11",
-    "points": 696,
+    "points": 880,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-11.png",
     "xws": "csamspiritcaller11"
   },
   {
     "name": "cs-am-sp-12",
-    "points": 697,
+    "points": 881,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-12.png",
     "xws": "csamspiritcaller12"
   },
   {
     "name": "cs-am-sp-13",
-    "points": 698,
+    "points": 882,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-13.png",
     "xws": "csamspiritcaller13"
   },
   {
     "name": "cs-am-sp-14",
-    "points": 699,
+    "points": 883,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-14.png",
     "xws": "csamspiritcaller14"
   },
   {
     "name": "cs-am-sp-15",
-    "points": 700,
+    "points": 884,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-15.png",
     "xws": "csamspiritcaller15"
   },
   {
     "name": "cs-am-sp-16",
-    "points": 701,
+    "points": 885,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-16.png",
     "xws": "csamspiritcaller16"
   },
   {
     "name": "cs-am-sp-17",
-    "points": 702,
+    "points": 886,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-17.png",
     "xws": "csamspiritcaller17"
   },
   {
     "name": "cs-am-sp-18",
-    "points": 703,
+    "points": 887,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-18.png",
     "xws": "csamspiritcaller18"
   },
   {
     "name": "cs-am-sp-19",
-    "points": 704,
+    "points": 888,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/SP/cs-am-sp-19.png",
     "xws": "csamspiritcaller19"
   },
   {
     "name": "cs-am-st-back",
-    "points": 705,
+    "points": 889,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-back.png",
     "xws": "csamstback"
   },
   {
     "name": "cs-am-st-01",
-    "points": 706,
+    "points": 890,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-01.png",
     "xws": "csamst01"
   },
   {
     "name": "cs-am-st-02",
-    "points": 707,
+    "points": 891,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-02.png",
     "xws": "csamst02"
   },
   {
     "name": "cs-am-st-03",
-    "points": 708,
+    "points": 892,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-03.png",
     "xws": "csamst03"
   },
   {
     "name": "cs-am-st-04",
-    "points": 709,
+    "points": 893,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-04.png",
     "xws": "csamst04"
   },
   {
     "name": "cs-am-st-05",
-    "points": 710,
+    "points": 894,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-05.png",
     "xws": "csamst05"
   },
   {
     "name": "cs-am-st-06",
-    "points": 711,
+    "points": 895,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-06.png",
     "xws": "csamst06"
   },
   {
     "name": "cs-am-st-07",
-    "points": 712,
+    "points": 896,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-07.png",
     "xws": "csamst07"
   },
   {
     "name": "cs-am-st-08",
-    "points": 713,
+    "points": 897,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-08.png",
     "xws": "csamst08"
   },
   {
     "name": "cs-am-st-09",
-    "points": 714,
+    "points": 898,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-09.png",
     "xws": "csamst09"
   },
   {
     "name": "cs-am-st-10",
-    "points": 715,
+    "points": 899,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-10.png",
     "xws": "csamst10"
   },
   {
     "name": "cs-am-st-11",
-    "points": 716,
+    "points": 900,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-11.png",
     "xws": "csamst11"
   },
   {
     "name": "cs-am-st-12",
-    "points": 717,
+    "points": 901,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-12.png",
     "xws": "csamst12"
   },
   {
     "name": "cs-am-st-13",
-    "points": 718,
+    "points": 902,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-13.png",
     "xws": "csamst13"
   },
   {
     "name": "cs-am-st-14",
-    "points": 719,
+    "points": 903,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-14.png",
     "xws": "csamst14"
   },
   {
     "name": "cs-am-st-15",
-    "points": 720,
+    "points": 904,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-15.png",
     "xws": "csamst15"
   },
   {
     "name": "cs-am-st-16",
-    "points": 721,
+    "points": 905,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-16.png",
     "xws": "csamst16"
   },
   {
     "name": "cs-am-st-17",
-    "points": 722,
+    "points": 906,
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-17.png",
     "xws": "csamst17"
