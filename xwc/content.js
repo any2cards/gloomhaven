@@ -9,6 +9,7 @@ const files = [
   'events-revised.js',
   'items.js',
   'map-tiles.js',
+  'milestones.js',
   'monster-ability-cards.js',
   'monster-stat-cards.js',
   'personal-quests.js',

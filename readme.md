@@ -15,10 +15,13 @@ This repository contains data and images for the following components:
 - character-mats
 - character-perks
 - events
+- events-revised
 - items
+- map-tiles
+- milestones
 - monster-ability-cards
 - monster-stat-cards
-- personal-goals
+- personal-quests
 - player-aid-cards
 - random-dungeons
 - random-scenarios
