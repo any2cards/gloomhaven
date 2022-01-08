@@ -341,5 +341,320 @@
     "expansion": "Gloomhaven",
     "image": "personal-quests/gloomhaven/gh-pq-533.png",
     "xws": "pq533"
+  },
+  {
+    "name": "cs-pq-back",
+    "points": 49,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-back.png",
+    "xws": "cspqback"
+  },  
+  {
+    "name": "cs-pq-330",
+    "points": 50,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-330.png",
+    "xws": "cspq330"
+  },
+  {
+    "name": "protect and serve",
+    "points": 51,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-330.png",
+    "xws": "cspq330"
+  },
+  {
+    "name": "cs-pq-331",
+    "points": 52,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-331.png",
+    "xws": "cspq331"
+  },
+  {
+    "name": "weapons specialist",
+    "points": 53,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-331.png",
+    "xws": "cspq331"
+  },
+  {
+    "name": "cs-pq-332",
+    "points": 54,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-332.png",
+    "xws": "cspq332"
+  },
+  {
+    "name": "experimentation",
+    "points": 55,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-332.png",
+    "xws": "cspq332"
+  },
+  {
+    "name": "cs-pq-333",
+    "points": 56,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-333.png",
+    "xws": "cspq333"
+  },
+  {
+    "name": "thrill seeker",
+    "points": 57,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-333.png",
+    "xws": "cspq333"
+  },
+  {
+    "name": "cs-pq-334",
+    "points": 58,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-334.png",
+    "xws": "cspq334"
+  },
+  {
+    "name": "trap setter",
+    "points": 59,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-334.png",
+    "xws": "cspq334"
+  },
+  {
+    "name": "cs-pq-335",
+    "points": 60,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-335.png",
+    "xws": "cspq335"
+  },
+  {
+    "name": "bandit banisher",
+    "points": 61,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-335.png",
+    "xws": "cspq335"
+  },
+  {
+    "name": "cs-pq-336",
+    "points": 62,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-336.png",
+    "xws": "cspq336"
+  },
+  {
+    "name": "creatures in the night",
+    "points": 63,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-336.png",
+    "xws": "cspq336"
+  },
+  {
+    "name": "cs-pq-337",
+    "points": 64,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-337.png",
+    "xws": "cspq337"
+  },
+  {
+    "name": "experienced leader",
+    "points": 65,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-337.png",
+    "xws": "cspq337"
+  },
+  {
+    "name": "cs-pq-338",
+    "points": 66,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-338.png",
+    "xws": "cspq338"
+  },
+  {
+    "name": "adrenaline spike",
+    "points": 67,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-338.png",
+    "xws": "cspq338"
+  },
+  {
+    "name": "cs-pq-339",
+    "points": 68,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-339.png",
+    "xws": "cspq339"
+  },
+  {
+    "name": "mutual support",
+    "points": 69,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-339.png",
+    "xws": "cspq339"
+  },
+  {
+    "name": "cs-pq-340",
+    "points": 70,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-340.png",
+    "xws": "cspq340"
+  },
+  {
+    "name": "thy be blessed",
+    "points": 71,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-340.png",
+    "xws": "cspq340"
+  },
+  {
+    "name": "cs-pq-341",
+    "points": 72,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-341.png",
+    "xws": "cspq341"
+  },
+  {
+    "name": "spiritual gains",
+    "points": 73,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-341.png",
+    "xws": "cspq341"
+  },
+  {
+    "name": "cs-pq-342",
+    "points": 74,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-342.png",
+    "xws": "cspq342"
+  },
+  {
+    "name": "the path of agony",
+    "points": 75,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-342.png",
+    "xws": "cspq342"
+  },
+  {
+    "name": "cs-pq-343",
+    "points": 76,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-343.png",
+    "xws": "cspq343"
+  },
+  {
+    "name": "the dying of light",
+    "points": 77,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-343.png",
+    "xws": "cspq343"
+  },
+  {
+    "name": "cs-pq-344",
+    "points": 78,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-344.png",
+    "xws": "cspq344"
+  },
+  {
+    "name": "natural selection",
+    "points": 79,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-344.png",
+    "xws": "cspq344"
+  },
+  {
+    "name": "cs-pq-345",
+    "points": 80,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-345.png",
+    "xws": "cspq345"
+  },
+  {
+    "name": "predator and prey",
+    "points": 81,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-345.png",
+    "xws": "cspq345"
+  },
+  {
+    "name": "cs-pq-346",
+    "points": 82,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-346.png",
+    "xws": "cspq346"
+  },
+  {
+    "name": "an adder divides",
+    "points": 83,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-346.png",
+    "xws": "cspq346"
+  },
+  {
+    "name": "cs-pq-347",
+    "points": 84,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-347.png",
+    "xws": "cspq347"
+  },
+  {
+    "name": "field research",
+    "points": 85,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-347.png",
+    "xws": "cspq347"
+  },
+  {
+    "name": "cs-pq-348",
+    "points": 86,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-348.png",
+    "xws": "cspq348"
+  },
+  {
+    "name": "conjurers hand",
+    "points": 87,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-348.png",
+    "xws": "cspq348"
+  },
+  {
+    "name": "cs-pq-349",
+    "points": 88,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-349.png",
+    "xws": "cspq349"
+  },
+  {
+    "name": "no rest for the wicked",
+    "points": 89,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-349.png",
+    "xws": "cspq349"
+  },
+  {
+    "name": "cs-pq-350",
+    "points": 90,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-350.png",
+    "xws": "cspq350"
+  },
+  {
+    "name": "health first",
+    "points": 91,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-350.png",
+    "xws": "cspq350"
+  },
+  {
+    "name": "cs-pq-351",
+    "points": 92,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-351.png",
+    "xws": "cspq351"
+  },
+  {
+    "name": "limitless searching",
+    "points": 93,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-351.png",
+    "xws": "cspq351"
   }
 ]
