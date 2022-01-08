@@ -54,5 +54,54 @@
     "expansion": "Forgotten Circles",
     "image": "player-aid-cards/forgotten-circles/fc-player-reference-back.png",
     "xws": "playerreferenceback"
+  },
+  {
+    "name": "player reference front",
+    "points": 8,
+    "expansion": "Crimson Scales",
+    "image": "player-aid-cards/crimson-scales/cs-player-reference-front-1.png",
+    "xws": "playerreferencefront"
+  },
+  {
+    "name": "player reference front",
+    "points": 9,
+    "expansion": "Crimson Scales",
+    "image": "player-aid-cards/crimson-scales/cs-player-reference-front-2.png",
+    "xws": "playerreferencefront"
+  },
+  {
+    "name": "player reference front",
+    "points": 10,
+    "expansion": "Crimson Scales",
+    "image": "player-aid-cards/crimson-scales/cs-player-reference-front-3.png",
+    "xws": "playerreferencefront"
+  },
+  {
+    "name": "player reference front",
+    "points": 11,
+    "expansion": "Crimson Scales",
+    "image": "player-aid-cards/crimson-scales/cs-player-reference-front-4.png",
+    "xws": "playerreferencefront"
+  },
+  {
+    "name": "player reference back",
+    "points": 12,
+    "expansion": "Crimson Scales",
+    "image": "player-aid-cards/crimson-scales/cs-player-reference-back.png",
+    "xws": "playerreferenceback"
+  },
+  {
+    "name": "scenario reference front",
+    "points": 13,
+    "expansion": "Crimson Scales",
+    "image": "player-aid-cards/crimson-scales/cs-scenario-reference-front.png",
+    "xws": "playerreferencefront"
+  },
+  {
+    "name": "scenario reference back",
+    "points": 14,
+    "expansion": "Crimson Scales",
+    "image": "player-aid-cards/crimson-scales/cs-scenario-reference-back.png",
+    "xws": "playerreferenceback"
   }
 ]
