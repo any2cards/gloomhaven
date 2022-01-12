@@ -577,14 +577,14 @@
     "name": "damage 20",
     "points": 82,
     "expansion": "Crimson Scales",
-    "image": "tokens/crimson-scales/damage-tokens-tokens/cs-damage-20.png",
+    "image": "tokens/crimson-scales/damage-tokens/cs-damage-20.png",
     "xws": "wound2"
   },
   {
     "name": "damage 50",
     "points": 83,
     "expansion": "Crimson Scales",
-    "image": "tokens/crimson-scales/damage-tokens-tokens/cs-damage-50.png",
+    "image": "tokens/crimson-scales/damage-tokens/cs-damage-50.png",
     "xws": "wound2"
   },
   {
