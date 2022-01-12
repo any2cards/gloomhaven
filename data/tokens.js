@@ -574,22 +574,36 @@
     "xws": "wound2"
   },
   {
-    "name": "bog",
+    "name": "damage 20",
     "points": 82,
+    "expansion": "Crimson Scales",
+    "image": "tokens/crimson-scales/damage-tokens-tokens/cs-damage-20.png",
+    "xws": "wound2"
+  },
+  {
+    "name": "damage 50",
+    "points": 83,
+    "expansion": "Crimson Scales",
+    "image": "tokens/crimson-scales/damage-tokens-tokens/cs-damage-50.png",
+    "xws": "wound2"
+  },
+  {
+    "name": "bog",
+    "points": 84,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/overlay-tokens/cs-bog.png",
     "xws": "bog"
   },
   {
     "name": "broken log",
-    "points": 83,
+    "points": 85,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/overlay-tokens/cs-broken-log.png",
     "xws": "brokenlog"
   },
   {
     "name": "void pit",
-    "points": 84,
+    "points": 86,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/overlay-tokens/cs-void-pit.png",
     "xws": "voidpit"
