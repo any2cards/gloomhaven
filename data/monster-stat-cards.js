@@ -826,15 +826,211 @@
     "xws": "valrathtracker"
   },
   {
-    "name": "water spirit",
+    "name": "gnashing drake",
     "points": 118,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-gnashing-drake-0.png",
+    "xws": "gnashingdrake"
+  },
+  {
+    "name": "gnashing drake",
+    "points": 119,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-gnashing-drake-2.png",
+    "xws": "gnashingdrake"
+  },
+  {
+    "name": "gnashing drake",
+    "points": 120,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-gnashing-drake-4.png",
+    "xws": "gnashingdrake"
+  },
+  {
+    "name": "gnashing drake",
+    "points": 121,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-gnashing-drake-6.png",
+    "xws": "gnashingdrake"
+  },
+  {
+    "name": "goremyon shatter-mind",
+    "points": 122,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-goremyon-shatter-mind-0.png",
+    "xws": "goremyonshattermind"
+  },
+  {
+    "name": "goremyon shatter-mind",
+    "points": 123,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-goremyon-shatter-mind-2.png",
+    "xws": "goremyonshattermind"
+  },
+  {
+    "name": "goremyon shatter-mind",
+    "points": 124,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-goremyon-shatter-mind-4.png",
+    "xws": "goremyonshattermind"
+  },
+  {
+    "name": "goremyon shatter-mind",
+    "points": 125,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-goremyon-shatter-mind-6.png",
+    "xws": "goremyonshattermind"
+  },
+  {
+    "name": "harrower aegis",
+    "points": 126,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-harrower-aegis-0.png",
+    "xws": "harroweraegis"
+  },
+  {
+    "name": "harrower aegis",
+    "points": 127,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-harrower-aegis-2.png",
+    "xws": "harroweraegis"
+  },
+  {
+    "name": "harrower aegis",
+    "points": 128,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-harrower-aegis-4.png",
+    "xws": "harroweraegis"
+  },
+  {
+    "name": "harrower aegis",
+    "points": 129,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-harrower-aegis-6.png",
+    "xws": "harroweraegis"
+  },
+  {
+    "name": "inox bloodguard",
+    "points": 130,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-inox-bloodguard-0.png",
+    "xws": "inoxbloodguard"
+  },
+  {
+    "name": "inox bloodguard",
+    "points": 131,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-inox-bloodguard-2.png",
+    "xws": "inoxbloodguard"
+  },
+  {
+    "name": "inox bloodguard",
+    "points": 132,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-inox-bloodguard-4.png",
+    "xws": "inoxbloodguard"
+  },
+  {
+    "name": "inox bloodguard",
+    "points": 133,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-inox-bloodguard-6.png",
+    "xws": "inoxbloodguard"
+  },
+  {
+    "name": "ravenous gharial",
+    "points": 134,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-ravenous-gharial-0.png",
+    "xws": "ravenousgharial"
+  },
+  {
+    "name": "ravenous gharial",
+    "points": 135,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-ravenous-gharial-2.png",
+    "xws": "ravenousgharial"
+  },
+  {
+    "name": "ravenous gharial",
+    "points": 136,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-ravenous-gharial-4.png",
+    "xws": "ravenousgharial"
+  },
+  {
+    "name": "ravenous gharial",
+    "points": 137,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-ravenous-gharial-6.png",
+    "xws": "ravenousgharial"
+  },
+  {
+    "name": "ruinmaw",
+    "points": 138,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-ruinmaw-0.png",
+    "xws": "ruinmaw"
+  },
+  {
+    "name": "ruinmaw",
+    "points": 139,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-ruinmaw-2.png",
+    "xws": "ruinmaw"
+  },
+  {
+    "name": "ruinmaw",
+    "points": 140,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-ruinmaw-4.png",
+    "xws": "ruinmaw"
+  },
+  {
+    "name": "ruinmaw",
+    "points": 141,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-ruinmaw-6.png",
+    "xws": "ruinmaw"
+  },
+  {
+    "name": "terrorscale drake",
+    "points": 142,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-terrorscale-drake-0.png",
+    "xws": "terrorscaledrake"
+  },
+  {
+    "name": "terrorscale drake",
+    "points": 143,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-terrorscale-drake-2.png",
+    "xws": "terrorscaledrake"
+  },
+  {
+    "name": "terrorscale drake",
+    "points": 144,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-terrorscale-drake-4.png",
+    "xws": "terrorscaledrake"
+  },
+  {
+    "name": "terrorscale drake",
+    "points": 145,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-terrorscale-drake-6.png",
+    "xws": "terrorscaledrake"
+  },
+  {
+    "name": "water spirit",
+    "points": 146,
     "expansion": "Crimson Scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-0.png",
     "xws": "waterspirit"
   },
   {
     "name": "water spirit",
-    "points": 119,
+    "points": 147,
     "expansion": "Crimson Scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-4.png",
     "xws": "waterspirit"
