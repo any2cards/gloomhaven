@@ -2352,253 +2352,442 @@
     "xws": "csmafrozencadaver8"
   },
   {
-    "name": "cs-ma-hail-demon-back",
+    "name": "cs-ma-gnashing-drake-back",
     "points": 336,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/gnashing-drake/cs-ma-gnashing-drake-back.png",
+    "xws": "csmagnashingdrakeback"
+  },
+  {
+    "name": "cs-ma-gnashing-drake-1",
+    "points": 337,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/gnashing-drake/cs-ma-gnashing-drake-1.png",
+    "xws": "csmagnashingdrake1"
+  },
+  {
+    "name": "cs-ma-gnashing-drake-2",
+    "points": 338,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/gnashing-drake/cs-ma-gnashing-drake-2.png",
+    "xws": "csmagnashingdrake2"
+  },
+  {
+    "name": "cs-ma-gnashing-drake-3",
+    "points": 339,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/gnashing-drake/cs-ma-gnashing-drake-3.png",
+    "xws": "csmagnashingdrake3"
+  },
+  {
+    "name": "cs-ma-gnashing-drake-4",
+    "points": 340,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/gnashing-drake/cs-ma-gnashing-drake-4.png",
+    "xws": "csmagnashingdrake4"
+  },
+  {
+    "name": "cs-ma-gnashing-drake-5",
+    "points": 341,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/gnashing-drake/cs-ma-gnashing-drake-5.png",
+    "xws": "csmagnashingdrake5"
+  },
+  {
+    "name": "cs-ma-gnashing-drake-6",
+    "points": 342,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/gnashing-drake/cs-ma-gnashing-drake-6.png",
+    "xws": "csmagnashingdrake6"
+  },
+  {
+    "name": "cs-ma-gnashing-drake-7",
+    "points": 343,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/gnashing-drake/cs-ma-gnashing-drake-7.png",
+    "xws": "csmagnashingdrake7"
+  },
+  {
+    "name": "cs-ma-gnashing-drake-8",
+    "points": 344,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/gnashing-drake/cs-ma-gnashing-drake-8.png",
+    "xws": "csmagnashingdrake8"
+  },
+  {
+    "name": "cs-ma-hail-demon-back",
+    "points": 345,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/hail-demon/cs-ma-hail-demon-back.png",
     "xws": "csmahaildemonback"
   },
   {
     "name": "cs-ma-hail-demon-1",
-    "points": 337,
+    "points": 346,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/hail-demon/cs-ma-hail-demon-1.png",
     "xws": "csmahaildemon1"
   },
   {
     "name": "cs-ma-hail-demon-2",
-    "points": 338,
+    "points": 347,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/hail-demon/cs-ma-hail-demon-2.png",
     "xws": "csmahaildemon2"
   },
   {
     "name": "cs-ma-hail-demon-3",
-    "points": 339,
+    "points": 348,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/hail-demon/cs-ma-hail-demon-3.png",
     "xws": "csmahaildemon3"
   },
   {
     "name": "cs-ma-hail-demon-4",
-    "points": 340,
+    "points": 349,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/hail-demon/cs-ma-hail-demon-4.png",
     "xws": "csmahaildemon4"
   },
   {
     "name": "cs-ma-hail-demon-5",
-    "points": 341,
+    "points": 350,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/hail-demon/cs-ma-hail-demon-5.png",
     "xws": "csmahaildemon5"
   },
   {
     "name": "cs-ma-hail-demon-6",
-    "points": 342,
+    "points": 351,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/hail-demon/cs-ma-hail-demon-6.png",
     "xws": "csmahaildemon6"
   },
   {
     "name": "cs-ma-hail-demon-7",
-    "points": 343,
+    "points": 352,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/hail-demon/cs-ma-hail-demon-7.png",
     "xws": "csmahaildemon7"
   },
   {
     "name": "cs-ma-hail-demon-8",
-    "points": 344,
+    "points": 353,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/hail-demon/cs-ma-hail-demon-8.png",
     "xws": "csmahaildemon8"
   },
   {
+    "name": "cs-ma-harrower-aegis-back",
+    "points": 354,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/harrower-aegis/cs-ma-harrower-aegis-back.png",
+    "xws": "csmaharroweraegisback"
+  },
+  {
+    "name": "cs-ma-harrower-aegis-1",
+    "points": 355,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/harrower-aegis/cs-ma-harrower-aegis-1.png",
+    "xws": "csmaharroweraegis1"
+  },
+  {
+    "name": "cs-ma-harrower-aegis-2",
+    "points": 356,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/harrower-aegis/cs-ma-harrower-aegis-2.png",
+    "xws": "csmaharroweraegis2"
+  },
+  {
+    "name": "cs-ma-harrower-aegis-3",
+    "points": 357,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/harrower-aegis/cs-ma-harrower-aegis-3.png",
+    "xws": "csmaharroweraegis3"
+  },
+  {
+    "name": "cs-ma-harrower-aegis-4",
+    "points": 358,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/harrower-aegis/cs-ma-harrower-aegis-4.png",
+    "xws": "csmaharroweraegis4"
+  },
+  {
+    "name": "cs-ma-harrower-aegis-5",
+    "points": 359,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/harrower-aegis/cs-ma-harrower-aegis-5.png",
+    "xws": "csmaharroweraegis5"
+  },
+  {
+    "name": "cs-ma-harrower-aegis-6",
+    "points": 360,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/harrower-aegis/cs-ma-harrower-aegis-6.png",
+    "xws": "csmaharroweraegis6"
+  },
+  {
+    "name": "cs-ma-harrower-aegis-7",
+    "points": 361,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/harrower-aegis/cs-ma-harrower-aegis-7.png",
+    "xws": "csmaharroweraegis7"
+  },
+  {
+    "name": "cs-ma-harrower-aegis-8",
+    "points": 362,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/harrower-aegis/cs-ma-harrower-aegis-8.png",
+    "xws": "csmaharroweraegis8"
+  },
+  {
     "name": "cs-ma-harrower-icecrawlers-back",
-    "points": 345,
+    "points": 363,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/harrower-icecrawlers/cs-ma-harrower-icecrawlers-back.png",
     "xws": "csmaharrowericecrawlersback"
   },
   {
     "name": "cs-ma-harrower-icecrawlers-1",
-    "points": 346,
+    "points": 364,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/harrower-icecrawlers/cs-ma-harrower-icecrawlers-1.png",
     "xws": "csmaharrowericecrawlers1"
   },
   {
     "name": "cs-ma-harrower-icecrawlers-2",
-    "points": 347,
+    "points": 365,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/harrower-icecrawlers/cs-ma-harrower-icecrawlers-2.png",
     "xws": "csmaharrowericecrawlers2"
   },
   {
     "name": "cs-ma-harrower-icecrawlers-3",
-    "points": 348,
+    "points": 366,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/harrower-icecrawlers/cs-ma-harrower-icecrawlers-3.png",
     "xws": "csmaharrowericecrawlers3"
   },
   {
     "name": "cs-ma-harrower-icecrawlers-4",
-    "points": 349,
+    "points": 367,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/harrower-icecrawlers/cs-ma-harrower-icecrawlers-4.png",
     "xws": "csmaharrowericecrawlers4"
   },
   {
     "name": "cs-ma-harrower-icecrawlers-5",
-    "points": 350,
+    "points": 368,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/harrower-icecrawlers/cs-ma-harrower-icecrawlers-5.png",
     "xws": "csmaharrowericecrawlers5"
   },
   {
     "name": "cs-ma-harrower-icecrawlers-6",
-    "points": 351,
+    "points": 369,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/harrower-icecrawlers/cs-ma-harrower-icecrawlers-6.png",
     "xws": "csmaharrowericecrawlers6"
   },
   {
     "name": "cs-ma-harrower-icecrawlers-7",
-    "points": 352,
+    "points": 370,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/harrower-icecrawlers/cs-ma-harrower-icecrawlers-7.png",
     "xws": "csmaharrowericecrawlers7"
   },
   {
     "name": "cs-ma-harrower-icecrawlers-8",
-    "points": 353,
+    "points": 371,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/harrower-icecrawlers/cs-ma-harrower-icecrawlers-8.png",
     "xws": "csmaharrowericecrawlers8"
   },
   {
+    "name": "cs-ma-ravenous-gharial-back",
+    "points": 372,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/ravenous-gharial/cs-ma-ravenous-gharial-back.png",
+    "xws": "csmaravenousgharialback"
+  },
+  {
+    "name": "cs-ma-ravenous-gharial-1",
+    "points": 373,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/ravenous-gharial/cs-ma-ravenous-gharial-1.png",
+    "xws": "csmaravenousgharial1"
+  },
+  {
+    "name": "cs-ma-ravenous-gharial-2",
+    "points": 374,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/ravenous-gharial/cs-ma-ravenous-gharial-2.png",
+    "xws": "csmaravenousgharial2"
+  },
+  {
+    "name": "cs-ma-ravenous-gharial-3",
+    "points": 375,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/ravenous-gharial/cs-ma-ravenous-gharial-3.png",
+    "xws": "csmaravenousgharial3"
+  },
+  {
+    "name": "cs-ma-ravenous-gharial-4",
+    "points": 376,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/ravenous-gharial/cs-ma-ravenous-gharial-4.png",
+    "xws": "csmaravenousgharial4"
+  },
+  {
+    "name": "cs-ma-ravenous-gharial-5",
+    "points": 377,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/ravenous-gharial/cs-ma-ravenous-gharial-5.png",
+    "xws": "csmaravenousgharial5"
+  },
+  {
+    "name": "cs-ma-ravenous-gharial-6",
+    "points": 378,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/ravenous-gharial/cs-ma-ravenous-gharial-6.png",
+    "xws": "csmaravenousgharial6"
+  },
+  {
+    "name": "cs-ma-ravenous-gharial-7",
+    "points": 379,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/ravenous-gharial/cs-ma-ravenous-gharial-7.png",
+    "xws": "csmaravenousgharial7"
+  },
+  {
+    "name": "cs-ma-ravenous-gharial-8",
+    "points": 380,
+    "expansion": "Crimson Scales",
+    "image": "monster-ability-cards/crimson-scales/ravenous-gharial/cs-ma-ravenous-gharial-8.png",
+    "xws": "csmaravenousgharial8"
+  },
+  {
     "name": "cs-ma-toxic-imp-back",
-    "points": 354,
+    "points": 381,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/toxic-imp/cs-ma-toxic-imp-back.png",
     "xws": "csmatoxicimpback"
   },
   {
     "name": "cs-ma-toxic-imp-1",
-    "points": 355,
+    "points": 382,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/toxic-imp/cs-ma-toxic-imp-1.png",
     "xws": "csmatoxicimp1"
   },
   {
     "name": "cs-ma-toxic-imp-2",
-    "points": 356,
+    "points": 383,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/toxic-imp/cs-ma-toxic-imp-2.png",
     "xws": "csmatoxicimp2"
   },
   {
     "name": "cs-ma-toxic-imp-3",
-    "points": 357,
+    "points": 384,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/toxic-imp/cs-ma-toxic-imp-3.png",
     "xws": "csmatoxicimp3"
   },
   {
     "name": "cs-ma-toxic-imp-4",
-    "points": 358,
+    "points": 385,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/toxic-imp/cs-ma-toxic-imp-4.png",
     "xws": "csmatoxicimp4"
   },
   {
     "name": "cs-ma-toxic-imp-5",
-    "points": 359,
+    "points": 386,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/toxic-imp/cs-ma-toxic-imp-5.png",
     "xws": "csmatoxicimp5"
   },
   {
     "name": "cs-ma-toxic-imp-6",
-    "points": 360,
+    "points": 387,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/toxic-imp/cs-ma-toxic-imp-6.png",
     "xws": "csmatoxicimp6"
   },
   {
     "name": "cs-ma-toxic-imp-7",
-    "points": 361,
+    "points": 388,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/toxic-imp/cs-ma-toxic-imp-7.png",
     "xws": "csmatoxicimp7"
   },
   {
     "name": "cs-ma-toxic-imp-8",
-    "points": 362,
+    "points": 389,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/toxic-imp/cs-ma-toxic-imp-8.png",
     "xws": "csmatoxicimp8"
   },
   {
     "name": "cs-ma-water-spirit-back",
-    "points": 363,
+    "points": 390,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-back.png",
     "xws": "csmawaterspiritback"
   },
   {
     "name": "cs-ma-water-spirit-1",
-    "points": 364,
+    "points": 391,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-1.png",
     "xws": "csmawaterspirit1"
   },
   {
     "name": "cs-ma-water-spirit-2",
-    "points": 365,
+    "points": 392,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-2.png",
     "xws": "csmawaterspirit2"
   },
   {
     "name": "cs-ma-water-spirit-3",
-    "points": 366,
+    "points": 393,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-3.png",
     "xws": "csmawaterspirit3"
   },
   {
     "name": "cs-ma-water-spirit-4",
-    "points": 367,
+    "points": 394,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-4.png",
     "xws": "csmawaterspirit4"
   },
   {
     "name": "cs-ma-water-spirit-5",
-    "points": 368,
+    "points": 395,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-5.png",
     "xws": "csmawaterspirit5"
   },
   {
     "name": "cs-ma-water-spirit-6",
-    "points": 369,
+    "points": 396,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-6.png",
     "xws": "csmawaterspirit6"
   },
   {
     "name": "cs-ma-water-spirit-7",
-    "points": 370,
+    "points": 397,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-7.png",
     "xws": "csmawaterspirit7"
   },
   {
     "name": "cs-ma-water-spirit-8",
-    "points": 371,
+    "points": 398,
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-8.png",
     "xws": "csmawaterspirit8"
