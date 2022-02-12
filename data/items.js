@@ -12010,5 +12010,509 @@
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-100-wonder-stone-back.png",
     "xws": "wonderstone"
+  },
+  {
+    "name": "item aa01",
+    "points": 1716,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-aa01-rockspine-bulwark.png",
+    "xws": "rockspinebulwark"
+  },
+  {
+    "name": "item #aa01",
+    "points": 1717,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-aa01-rockspine-bulwark.png",
+    "xws": "rockspinebulwark"
+  },
+  {
+    "name": "rockspine bulwark",
+    "points": 1718,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-aa01-rockspine-bulwark.png",
+    "xws": "rockspinebulwark"
+  },
+  {
+    "name": "rockspine bulwark",
+    "points": 1719,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-aa01-rockspine-bulwark-back.png",
+    "xws": "rockspinebulwark"
+  },
+  {
+    "name": "item aa02",
+    "points": 1720,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-aa02-ghostshimmer-honey.png",
+    "xws": "ghostshimmerhoney"
+  },
+  {
+    "name": "item #aa02",
+    "points": 1721,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-aa02-ghostshimmer-honey.png",
+    "xws": "ghostshimmerhoney"
+  },
+  {
+    "name": "ghostshimmer honey",
+    "points": 1722,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-aa02-ghostshimmer-honey.png",
+    "xws": "ghostshimmerhoney"
+  },
+  {
+    "name": "ghostshimmer honey",
+    "points": 1723,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-aa02-ghostshimmer-honey-back.png",
+    "xws": "ghostshimmerhoney"
+  },
+  {
+    "name": "item aa03",
+    "points": 1724,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-aa03-steelsilk-spinneret.png",
+    "xws": "steelsilkspinneret"
+  },
+  {
+    "name": "item #aa03",
+    "points": 1725,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-aa03-steelsilk-spinneret.png",
+    "xws": "steelsilkspinneret"
+  },
+  {
+    "name": "steelsilk spinneret",
+    "points": 1726,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-aa03-steelsilk-spinneret.png",
+    "xws": "steelsilkspinneret"
+  },
+  {
+    "name": "steelsilk spinneret",
+    "points": 1727,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-aa03-steelsilk-spinneret-back.png",
+    "xws": "steelsilkspinneret"
+  },
+  {
+    "name": "item qa01",
+    "points": 1728,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa01-power-modulator.png",
+    "xws": "powermodulator"
+  },
+  {
+    "name": "item #qa01",
+    "points": 1729,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa01-power-modulator.png",
+    "xws": "powermodulator"
+  },
+  {
+    "name": "power modulator",
+    "points": 1730,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa01-power-modulator.png",
+    "xws": "powermodulator"
+  },
+  {
+    "name": "power modulator",
+    "points": 1731,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa01-power-modulator-back.png",
+    "xws": "powermodulator"
+  },
+  {
+    "name": "item qa02",
+    "points": 1732,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa02a-steel-piston-hammer.png",
+    "xws": "steelpistonhammer"
+  },
+  {
+    "name": "item #qa02",
+    "points": 1733,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa02a-steel-piston-hammer.png",
+    "xws": "steelpistonhammer"
+  },
+  {
+    "name": "steel piston hammer",
+    "points": 1734,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa02a-steel-piston-hammer.png",
+    "xws": "steelpistonhammer"
+  },
+  {
+    "name": "steel piston hammer",
+    "points": 1735,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa02a-steel-piston-hammer-back.png",
+    "xws": "steelpistonhammer"
+  },
+  {
+    "name": "item qa02",
+    "points": 1736,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa02b-steel-piston-hammer.png",
+    "xws": "steelpistonhammer"
+  },
+  {
+    "name": "item #qa02",
+    "points": 1737,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa02b-steel-piston-hammer.png",
+    "xws": "steelpistonhammer"
+  },
+  {
+    "name": "steel piston hammer",
+    "points": 1738,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa02b-steel-piston-hammer.png",
+    "xws": "steelpistonhammer"
+  },
+  {
+    "name": "steel piston hammer",
+    "points": 1739,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa02b-steel-piston-hammer-back.png",
+    "xws": "steelpistonhammer"
+  },
+  {
+    "name": "item qa03",
+    "points": 1740,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa03a-spider-climb-gloves.png",
+    "xws": "spiderclimbgloves"
+  },
+  {
+    "name": "item #qa03",
+    "points": 1741,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa03a-spider-climb-gloves.png",
+    "xws": "spiderclimbgloves"
+  },
+  {
+    "name": "spider climb gloves",
+    "points": 1742,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa03a-spider-climb-gloves.png",
+    "xws": "spiderclimbgloves"
+  },
+  {
+    "name": "spider climb gloves",
+    "points": 1743,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa03a-spider-climb-gloves-back.png",
+    "xws": "spiderclimbgloves"
+  },
+  {
+    "name": "item qa03",
+    "points": 1744,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa03b-spider-climb-gloves.png",
+    "xws": "spiderclimbgloves"
+  },
+  {
+    "name": "item #qa03",
+    "points": 1745,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa03b-spider-climb-gloves.png",
+    "xws": "spiderclimbgloves"
+  },
+  {
+    "name": "spider climb gloves",
+    "points": 1746,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa03b-spider-climb-gloves.png",
+    "xws": "spiderclimbgloves"
+  },
+  {
+    "name": "spider climb gloves",
+    "points": 1747,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa03b-spider-climb-gloves-back.png",
+    "xws": "spiderclimbgloves"
+  },
+  {
+    "name": "item qa04",
+    "points": 1748,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa04-gravity-inversion-pads.png",
+    "xws": "gravityinversionpads"
+  },
+  {
+    "name": "item #qa04",
+    "points": 1749,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa04-gravity-inversion-pads.png",
+    "xws": "gravityinversionpads"
+  },
+  {
+    "name": "gravity inversion pads",
+    "points": 1750,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa04-gravity-inversion-pads.png",
+    "xws": "gravityinversionpads"
+  },
+  {
+    "name": "gravity inversion pads",
+    "points": 1751,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa04-gravity-inversion-pads-back.png",
+    "xws": "gravityinversionpads"
+  },
+  {
+    "name": "item qa05",
+    "points": 1752,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa05-delicate-model.png",
+    "xws": "delicatemodel"
+  },
+  {
+    "name": "item #qa05",
+    "points": 1753,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa05-delicate-model.png",
+    "xws": "delicatemodel"
+  },
+  {
+    "name": "delicate model",
+    "points": 1754,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa05-delicate-model.png",
+    "xws": "delicatemodel"
+  },
+  {
+    "name": "delicate model",
+    "points": 1755,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa05-delicate-model-back.png",
+    "xws": "delicatemodel"
+  },
+  {
+    "name": "item qa06",
+    "points": 1756,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa06-auscudec-of-the-makers.png",
+    "xws": "auscudecofthemakers"
+  },
+  {
+    "name": "item #qa06",
+    "points": 1757,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa06-auscudec-of-the-makers.png",
+    "xws": "auscudecofthemakers"
+  },
+  {
+    "name": "auscudec of the makers",
+    "points": 1758,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa06-auscudec-of-the-makers.png",
+    "xws": "auscudecofthemakers"
+  },
+  {
+    "name": "auscudec of the makers",
+    "points": 1759,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-qa06-auscudec-of-the-makers-back.png",
+    "xws": "auscudecofthemakers"
+  },
+  {
+    "name": "item rm01",
+    "points": 1760,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm01a-serrated-edge.png",
+    "xws": "serratededge"
+  },
+  {
+    "name": "item #rm01",
+    "points": 1761,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm01a-serrated-edge.png",
+    "xws": "serratededge"
+  },
+  {
+    "name": "serrated edge",
+    "points": 1762,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm01a-serrated-edge.png",
+    "xws": "serratededge"
+  },
+  {
+    "name": "serrated edge",
+    "points": 1763,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm01-serrated-edge-back.png",
+    "xws": "serratededge"
+  },
+  {
+    "name": "item rm01",
+    "points": 1764,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm01b-serrated-edge.png",
+    "xws": "serratededge"
+  },
+  {
+    "name": "item #rm01",
+    "points": 1765,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm01b-serrated-edge.png",
+    "xws": "serratededge"
+  },
+  {
+    "name": "serrated edge",
+    "points": 1766,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm01b-serrated-edge.png",
+    "xws": "serratededge"
+  },
+  {
+    "name": "serrated edge",
+    "points": 1767,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm01-serrated-edge-back.png",
+    "xws": "serratededge"
+  },
+  {
+    "name": "item rm02",
+    "points": 1768,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm02-grisly-boots.png",
+    "xws": "grislyboots"
+  },
+  {
+    "name": "item #rm02",
+    "points": 1769,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm02-grisly-boots.png",
+    "xws": "grislyboots"
+  },
+  {
+    "name": "grisly boots",
+    "points": 1770,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm02-grisly-boots.png",
+    "xws": "grislyboots"
+  },
+  {
+    "name": "grisly boots",
+    "points": 1771,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm02-grisly-boots-back.png",
+    "xws": "grislyboots"
+  },
+  {
+    "name": "item rm03",
+    "points": 1772,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm03-terrorscale-saber.png",
+    "xws": "terrorscalesaber"
+  },
+  {
+    "name": "item #rm03",
+    "points": 1773,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm03-terrorscale-saber.png",
+    "xws": "terrorscalesaber"
+  },
+  {
+    "name": "terrorscale saber",
+    "points": 1774,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm03-terrorscale-saber.png",
+    "xws": "terrorscalesaber"
+  },
+  {
+    "name": "terrorscale saber",
+    "points": 1775,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm03-terrorscale-saber-back.png",
+    "xws": "terrorscalesaber"
+  },
+  {
+    "name": "item rm04",
+    "points": 1776,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm04-terrorscale-crossblades.png",
+    "xws": "terrorscalecrossblades"
+  },
+  {
+    "name": "item #rm04",
+    "points": 1777,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm04-terrorscale-crossblades.png",
+    "xws": "terrorscalecrossblades"
+  },
+  {
+    "name": "terrorscale crossblades",
+    "points": 1778,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm04-terrorscale-crossblades.png",
+    "xws": "terrorscalecrossblades"
+  },
+  {
+    "name": "terrorscale crossblades",
+    "points": 1779,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm04-terrorscale-crossblades-back.png",
+    "xws": "terrorscalecrossblades"
+  },
+  {
+    "name": "item rm05",
+    "points": 1780,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm05-rite-of-ruin.png",
+    "xws": "riteofruin"
+  },
+  {
+    "name": "item #rm05",
+    "points": 1781,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm05-rite-of-ruin.png",
+    "xws": "riteofruin"
+  },
+  {
+    "name": "rite of ruin",
+    "points": 1782,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm05-rite-of-ruin.png",
+    "xws": "riteofruin"
+  },
+  {
+    "name": "rite of ruin",
+    "points": 1783,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm05-rite-of-ruin-back.png",
+    "xws": "riteofruin"
+  },
+  {
+    "name": "item rm06",
+    "points": 1784,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm06-savage-cuirass.png",
+    "xws": "savagecuirass"
+  },
+  {
+    "name": "item #rm06",
+    "points": 1785,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm06-savage-cuirass.png",
+    "xws": "savagecuirass"
+  },
+  {
+    "name": "savage cuirass",
+    "points": 1786,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm06-savage-cuirass.png",
+    "xws": "savagecuirass"
+  },
+  {
+    "name": "savage cuirass",
+    "points": 1787,
+    "expansion": "Crimson Scales",
+    "image": "items/crimson-scales/cs-rm06-savage-cuirass-back.png",
+    "xws": "savagecuirass"
   }
 ]
