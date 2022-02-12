@@ -656,5 +656,89 @@
     "expansion": "Crimson Scales",
     "image": "personal-quests/crimson-scales/cs-pq-351.png",
     "xws": "cspq351"
+  },
+  {
+    "name": "cs-pq-aa-001",
+    "points": 94,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-aa-001.png",
+    "xws": "cspqaa001"
+  },
+  {
+    "name": "at all costs",
+    "points": 95,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-aa-001.png",
+    "xws": "cspqaa001"
+  },
+  {
+    "name": "cs-pq-aa-002",
+    "points": 96,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-aa-002.png",
+    "xws": "cspqaa002"
+  },
+  {
+    "name": "the weight of failure",
+    "points": 97,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-aa-002.png",
+    "xws": "cspqaa002"
+  },
+  {
+    "name": "cs-pq-qa-001",
+    "points": 98,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-qa-001.png",
+    "xws": "cspqqa001"
+  },
+  {
+    "name": "ingenious inventor",
+    "points": 99,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-qa-001.png",
+    "xws": "cspqqa001"
+  },
+  {
+    "name": "cs-pq-qa-002",
+    "points": 100,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-qa-002.png",
+    "xws": "cspqqa002"
+  },
+  {
+    "name": "scrap diver",
+    "points": 101,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-qa-002.png",
+    "xws": "cspqqa002"
+  },
+  {
+    "name": "cs-pq-rm-001",
+    "points": 102,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-rm-001.png",
+    "xws": "cspqrm001"
+  },
+  {
+    "name": "brutal enforcer",
+    "points": 103,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-rm-001.png",
+    "xws": "cspqrm001"
+  },
+  {
+    "name": "cs-pq-rm-002",
+    "points": 104,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-rm-002.png",
+    "xws": "cspqrm002"
+  },
+  {
+    "name": "apex predator",
+    "points": 105,
+    "expansion": "Crimson Scales",
+    "image": "personal-quests/crimson-scales/cs-pq-rm-002.png",
+    "xws": "cspqrm002"
   }
 ]
