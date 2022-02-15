@@ -24,7 +24,7 @@ const files = [
 const repoBaseUrl = 'https://raw.githubusercontent.com/any2cards/gloomhaven/master';
 const imgUrl = `${repoBaseUrl}/images/`;
 const dataUrl = `${repoBaseUrl}/data/`;
-const iconUrl = chrome.extension.getURL('icon-32.png');
+const iconUrl = browser.runtime.getURL('icon-32.png');
 const ignoredNodes = ['TEXTAREA', 'INPUT'];
 
 const xwcRed = '#e81e25';
