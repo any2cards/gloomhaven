@@ -3,7 +3,7 @@
     "name": "gh-am-bs-09 deprecated",
     "points": 0,
     "expansion": "Gloomhaven",
-    "image": "attack-modifiers/gloomhaven/deprecated/BS-V3/gh-am-bs-09-v3.png",
+    "image": "deprecated-assets/gloomhaven/attack-modifiers/BS-V3/gh-am-bs-09-v3.png",
     "xws": "ghambs09deprecated"
   },
   {
@@ -17,7 +17,7 @@
     "name": "gh-am-bs-10 deprecated",
     "points": 2,
     "expansion": "Gloomhaven",
-    "image": "attack-modifiers/gloomhaven/deprecated/BS-V3/gh-am-bs-10-v3.png",
+    "image": "deprecated-assets/gloomhaven/attack-modifiers/BS-V3/gh-am-bs-10-v3.png",
     "xws": "ghambsq10deprecated"
   },
   {
@@ -31,7 +31,7 @@
     "name": "gh-am-bs-11 deprecated",
     "points": 4,
     "expansion": "Gloomhaven",
-    "image": "attack-modifiers/gloomhaven/deprecated/BS-V3/gh-am-bs-11-v3.png",
+    "image": "deprecated-assets/gloomhaven/attack-modifiers/BS-V3/gh-am-bs-11-v3.png",
     "xws": "ghambsq11deprecated"
   },
   {
@@ -45,7 +45,7 @@
     "name": "gh-am-bs-12 deprecated",
     "points": 6,
     "expansion": "Gloomhaven",
-    "image": "attack-modifiers/gloomhaven/deprecated/BS-V3/gh-am-bs-12-v3.png",
+    "image": "deprecated-assets/gloomhaven/attack-modifiers/BS-V3/gh-am-bs-12-v3.png",
     "xws": "ghambsq12deprecated"
   },
   {
@@ -59,7 +59,7 @@
     "name": "gh-am-bs-14 deprecated",
     "points": 8,
     "expansion": "Gloomhaven",
-    "image": "attack-modifiers/gloomhaven/deprecated/BS-V3/gh-am-bs-14-v3.png",
+    "image": "deprecated-assets/gloomhaven/attack-modifiers/BS-V3/gh-am-bs-14-v3.png",
     "xws": "ghambsq14deprecated"
   },
   {
@@ -73,7 +73,7 @@
     "name": "bioluminescence deprecated",
     "points": 10,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-bioluminescence-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-bioluminescence-v3.png",
     "xws": "bioluminescencedeprecated"
   },
   {
@@ -87,7 +87,7 @@
     "name": "blood drain deprecated",
     "points": 12,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-blood-drain-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-blood-drain-v3.png",
     "xws": "blooddraindeprecated"
   },
   {
@@ -101,7 +101,7 @@
     "name": "bone daggers deprecated",
     "points": 14,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-bone-daggers-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-bone-daggers-v3.png",
     "xws": "bonedaggerdeprecated"
   },
   {
@@ -115,7 +115,7 @@
     "name": "call of the grave deprecated",
     "points": 16,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-call-of-the-grave-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-call-of-the-grave-v3.png",
     "xws": "callofthegravedeprecated"
   },
   {
@@ -129,14 +129,14 @@
     "name": "corrupting parasites deprecated",
     "points": 18,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V2/gh-corrupting-parasites-v2.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V2/gh-corrupting-parasites-v2.png",
     "xws": "corruptingparasitesdeprecated"
   },
   {
     "name": "corrupting parasites deprecated",
     "points": 19,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-corrupting-parasites-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-corrupting-parasites-v3.png",
     "xws": "corruptingparasitesdeprecated"
   },
   {
@@ -150,7 +150,7 @@
     "name": "death march deprecated",
     "points": 21,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-death-march-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-death-march-v3.png",
     "xws": "deathmarchdeprecated"
   },
   {
@@ -164,7 +164,7 @@
     "name": "deflecting blades deprecated",
     "points": 23,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-deflecting-blades-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-deflecting-blades-v3.png",
     "xws": "deflectingbladesdeprecated"
   },
   {
@@ -178,14 +178,14 @@
     "name": "engulfing stingers deprecated",
     "points": 25,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V2/gh-engulfing-stingers-v2.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V2/gh-engulfing-stingers-v2.png",
     "xws": "engulfingstingersdeprecated"
   },
   {
     "name": "engulfing stingers deprecated",
     "points": 26,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-engulfing-stingers-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-engulfing-stingers-v3.png",
     "xws": "engulfingstingersdeprecated"
   },
   {
@@ -199,21 +199,21 @@
     "name": "erosion deprecated",
     "points": 28,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-erosion-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-erosion-v3.png",
     "xws": "erosiondeprecated"
   },
   {
     "name": "focused scourge deprecated",
     "points": 29,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V2/gh-focused-scourge-v2.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V2/gh-focused-scourge-v2.png",
     "xws": "focusedscourgedeprecated"
   },
   {
     "name": "focused scourge deprecated",
     "points": 30,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-focused-scourge-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-focused-scourge-v3.png",
     "xws": "focusedscourgedeprecated"
   },
   {
@@ -227,7 +227,7 @@
     "name": "grasping advance deprecated",
     "points": 32,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-grasping-advance-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-grasping-advance-v3.png",
     "xws": "graspingadvancedeprecated"
   },
   {
@@ -241,7 +241,7 @@
     "name": "hive mind deprecated",
     "points": 34,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-hive-mind-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-hive-mind-v3.png",
     "xws": "hiveminddeprecated"
   },
   {
@@ -255,7 +255,7 @@
     "name": "incubation deprecated",
     "points": 36,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-incubation-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-incubation-v3.png",
     "xws": "incubationdeprecated"
   },
   {
@@ -269,7 +269,7 @@
     "name": "infest deprecated",
     "points": 38,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-infest-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-infest-v3.png",
     "xws": "infestdeprecated"
   },
   {
@@ -283,14 +283,14 @@
     "name": "oasis deprecated",
     "points": 40,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V2/gh-oasis-v2.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V2/gh-oasis-v2.png",
     "xws": "oasisdeprecated"
   },
   {
     "name": "oasis deprecated",
     "points": 41,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-oasis-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-oasis-v3.png",
     "xws": "oasisdeprecated"
   },
   {
@@ -304,7 +304,7 @@
     "name": "omniscient assault deprecated",
     "points": 43,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-omniscient-assault-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-omniscient-assault-v3.png",
     "xws": "omniscientassaultdeprecated"
   },
   {
@@ -318,21 +318,21 @@
     "name": "prismatic cyclone deprecated",
     "points": 45,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-prismatic-cyclone-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-prismatic-cyclone-v3.png",
     "xws": "prismaticcyclonedeprecated"
   },
   {
     "name": "putrid grubs deprecated",
     "points": 46,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V2/gh-putrid-grubs-v2.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V2/gh-putrid-grubs-v2.png",
     "xws": "putridgrubsdeprecated"
   },
   {
     "name": "putrid grubs deprecated",
     "points": 47,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-putrid-grubs-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-putrid-grubs-v3.png",
     "xws": "putridgrubsdeprecated"
   },
   {
@@ -346,14 +346,14 @@
     "name": "sand scythe deprecated",
     "points": 49,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-sand-scythe-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-sand-scythe-v3.png",
     "xws": "sandscythedeprecated"
   },
   {
     "name": "scattered defense deprecated",
     "points": 50,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-scattered-defense-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-scattered-defense-v3.png",
     "xws": "scattereddefensedeprecated"
   },
   {
@@ -367,14 +367,14 @@
     "name": "solitary horde deprecated",
     "points": 52,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-solitary-horde-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-solitary-horde-v3.png",
     "xws": "solitaryhordedeprecated"
   },
   {
     "name": "sunstroke deprecated",
     "points": 53,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-sunstroke-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-sunstroke-v3.png",
     "xws": "sunstrokedeprecated"
   },
   {
@@ -388,7 +388,7 @@
     "name": "swarming minions deprecated",
     "points": 55,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-swarming-minions-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-swarming-minions-v3.png",
     "xws": "swarmingminionsdeprecated"
   },
   {
@@ -402,21 +402,21 @@
     "name": "sword of tenacity deprecated",
     "points": 57,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V2/gh-sword-of-tenacity-v2.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V2/gh-sword-of-tenacity-v2.png",
     "xws": "swordoftenacitydeprecated"
   },
   {
     "name": "sword of tenacity deprecated",
     "points": 58,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-sword-of-tenacity-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-sword-of-tenacity-v3.png",
     "xws": "swordoftenacitydeprecated"
   },
   {
     "name": "the storm's edge deprecated",
     "points": 59,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-the-storms-edge-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-the-storms-edge-v3.png",
     "xws": "thestormsedgedeprecated"
   },
   {
@@ -430,7 +430,7 @@
     "name": "tomb of the immortal deprecated",
     "points": 61,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-tomb-of-the-immortal-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-tomb-of-the-immortal-v3.png",
     "xws": "tomboftheimmortaldeprecated"
   },
   {
@@ -444,14 +444,14 @@
     "name": "unstoppable army deprecated",
     "points": 63,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V2/gh-unstoppable-army-v2.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V2/gh-unstoppable-army-v2.png",
     "xws": "unstoppablearmydeprecated"
   },
   {
     "name": "unstoppable army deprecated",
     "points": 64,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-unstoppable-army-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-unstoppable-army-v3.png",
     "xws": "unstoppablearmydeprecated"
   },
   {
@@ -465,7 +465,7 @@
     "name": "vampiric tempest deprecated",
     "points": 66,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-vampiric-tempest-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-vampiric-tempest-v3.png",
     "xws": "vampirictempestdeprecated"
   },
   {
@@ -479,21 +479,21 @@
     "name": "venomous barbs deprecated",
     "points": 68,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-venomous-barbs-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-venomous-barbs-v3.png",
     "xws": "venomousbarbsdeprecated"
   },
   {
     "name": "wasteland deprecated",
     "points": 69,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V2/gh-wasteland-v2.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V2/gh-wasteland-v2.png",
     "xws": "wastelanddeprecated"
   },
   {
     "name": "wasteland deprecated",
     "points": 70,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BS-V3/gh-wasteland-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BS-V3/gh-wasteland-v3.png",
     "xws": "wastelanddeprecated"
   },
   {
@@ -507,7 +507,7 @@
     "name": "disorienting roar deprecated",
     "points": 72,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BT-V1/gh-disorienting-roar-v1.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BT-V1/gh-disorienting-roar-v1.png",
     "xws": "disorientingroardeprecated"
   },
   {
@@ -521,7 +521,7 @@
     "name": "primal blessing deprecated",
     "points": 74,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BT-V1/gh-primal-blessing-v1.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BT-V1/gh-primal-blessing-v1.png",
     "xws": "primalblessingdeprecated"
   },
   {
@@ -535,7 +535,7 @@
     "name": "spirit swap deprecated",
     "points": 76,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/BT-V1/gh-spirit-swap-v1.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/BT-V1/gh-spirit-swap-v1.png",
     "xws": "spiritswapdeprecated"
   },
   {
@@ -549,7 +549,7 @@
     "name": "felling swoop deprecated",
     "points": 78,
     "expansion": "Gloomhaven",
-    "image": "character-ability-cards/gloomhaven/deprecated/DS-V1/gh-felling-swoop-v1.png",
+    "image": "deprecated-assets/gloomhaven/character-ability-cards/DS-V1/gh-felling-swoop-v1.png",
     "xws": "fellingswoopdeprecated"
   },
   {
@@ -563,7 +563,7 @@
     "name": "concealed dominance deprecated",
     "points": 80,
     "expansion": "Gloomhaven",
-   "image": "character-ability-cards/gloomhaven/deprecated/NS-V1/gh-concealed-dominance-v1.png",
+   "image": "deprecated-assets/gloomhaven/character-ability-cards/NS-V1/gh-concealed-dominance-v1.png",
     "xws": "concealeddominancedeprecated"
   },
   {
@@ -577,7 +577,7 @@
     "name": "otherworldly rage deprecated",
     "points": 82,
     "expansion": "Gloomhaven",
-   "image": "character-ability-cards/gloomhaven/deprecated/SU-V1/gh-otherworldly-rage-v1.png",
+   "image": "deprecated-assets/gloomhaven/character-ability-cards/SU-V1/gh-otherworldly-rage-v1.png",
     "xws": "otherworldlyragedeprecated"
   },
   {
@@ -591,7 +591,7 @@
     "name": "anguish and salvation deprecated",
     "points": 84,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-anguish-and-salvation-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-anguish-and-salvation-v1.png",
     "xws": "anguishandsalvationdeprecated"
   },
   {
@@ -605,7 +605,7 @@
     "name": "anticipate intricacies deprecated",
     "points": 86,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-anticipate-intricacies-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-anticipate-intricacies-v1.png",
     "xws": "anticipateintricaciesdeprecated"
   },
   {
@@ -619,7 +619,7 @@
     "name": "bad omen deprecated",
     "points": 88,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-bad-omen-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-bad-omen-v1.png",
     "xws": "badomendeprecated"
   },
   {
@@ -633,7 +633,7 @@
     "name": "call of the nether deprecated",
     "points": 90,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-call-of-the-nether-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-call-of-the-nether-v1.png",
     "xws": "callofthenetherdeprecated"
   },
   {
@@ -647,7 +647,7 @@
     "name": "careful attunement deprecated",
     "points": 92,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-careful-attunement-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-careful-attunement-v1.png",
     "xws": "carefulattunementdeprecated"
   },
   {
@@ -661,7 +661,7 @@
     "name": "clairvoyance deprecated",
     "points": 94,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-clairvoyance-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-clairvoyance-v1.png",
     "xws": "clairvoyancedeprecated"
   },
   {
@@ -675,7 +675,7 @@
     "name": "cleansing rite deprecated",
     "points": 96,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-cleansing-rite-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-cleansing-rite-v1.png",
     "xws": "cleansingritedeprecated"
   },
   {
@@ -689,7 +689,7 @@
     "name": "curative flux deprecated",
     "points": 98,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-curative-flux-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-curative-flux-v1.png",
     "xws": "curativefluxdeprecated"
   },
   {
@@ -703,7 +703,7 @@
     "name": "cursed ground deprecated",
     "points": 100,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-cursed-ground-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-cursed-ground-v1.png",
     "xws": "cursedgrounddeprecated"
   },
   {
@@ -717,7 +717,7 @@
     "name": "deep contemplation deprecated",
     "points": 102,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-deep-contemplation-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-deep-contemplation-v1.png",
     "xws": "deepcontemplationdeprecated"
   },
   {
@@ -731,7 +731,7 @@
     "name": "dimensional divide deprecated",
     "points": 104,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-dimensional-divide-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-dimensional-divide-v1.png",
     "xws": "dimensionaldividedeprecated"
   },
   {
@@ -745,7 +745,7 @@
     "name": "dimensional transfer deprecated",
     "points": 106,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-dimensional-transfer-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-dimensional-transfer-v1.png",
     "xws": "dimensionaltransferdeprecated"
   },
   {
@@ -759,7 +759,7 @@
     "name": "duality shards deprecated",
     "points": 108,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-duality-shards-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-duality-shards-v1.png",
     "xws": "dualityshardsdeprecated"
   },
   {
@@ -773,7 +773,7 @@
     "name": "enfeebling hex deprecated",
     "points": 110,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-enfeebling-hex-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-enfeebling-hex-v1.png",
     "xws": "enfeeblinghexdeprecated"
   },
   {
@@ -787,7 +787,7 @@
     "name": "envision the course deprecated",
     "points": 112,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-envision-the-course-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-envision-the-course-v1.png",
     "xws": "envisionthecoursedeprecated"
   },
   {
@@ -801,7 +801,7 @@
     "name": "ethereal vortex deprecated",
     "points": 114,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-ethereal-vortex-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-ethereal-vortex-v1.png",
     "xws": "etherealvortexdeprecated"
   },
   {
@@ -815,7 +815,7 @@
     "name": "gift of the void deprecated",
     "points": 116,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-gift-of-the-void-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-gift-of-the-void-v1.png",
     "xws": "giftofthevoiddeprecated"
   },
   {
@@ -829,7 +829,7 @@
     "name": "hand of destiny deprecated",
     "points": 118,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-hand-of-destiny-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-hand-of-destiny-v1.png",
     "xws": "handofdestinydeprecated"
   },
   {
@@ -843,7 +843,7 @@
     "name": "inspiration from beyond deprecated",
     "points": 120,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-inspiration-from-beyond-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-inspiration-from-beyond-v1.png",
     "xws": "inspirationfrombeyonddeprecated"
   },
   {
@@ -857,7 +857,7 @@
     "name": "otherworldly journey deprecated",
     "points": 122,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-otherworldly-journey-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-otherworldly-journey-v1.png",
     "xws": "otherworldlyjourneydeprecated"
   },
   {
@@ -871,7 +871,7 @@
     "name": "peer into battle deprecated",
     "points": 124,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-peer-into-battle-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-peer-into-battle-v1.png",
     "xws": "peerintobattledeprecated"
   },
   {
@@ -885,7 +885,7 @@
     "name": "preordain the path deprecated",
     "points": 126,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-preordain-the-path-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-preordain-the-path-v1.png",
     "xws": "preordainthepathdeprecated"
   },
   {
@@ -899,7 +899,7 @@
     "name": "protective aura deprecated",
     "points": 128,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-protective-aura-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-protective-aura-v1.png",
     "xws": "protectiveauradeprecated"
   },
   {
@@ -913,7 +913,7 @@
     "name": "revitalizing fount deprecated",
     "points": 130,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-revitalizing-fount-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-revitalizing-fount-v1.png",
     "xws": "revitalizingfountdeprecated"
   },
   {
@@ -927,7 +927,7 @@
     "name": "seal their fate deprecated",
     "points": 132,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-seal-their-fate-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-seal-their-fate-v1.png",
     "xws": "sealtheirfatedeprecated"
   },
   {
@@ -941,7 +941,7 @@
     "name": "void snare deprecated",
     "points": 134,
     "expansion": "Forgotten Circles",
-    "image": "character-ability-cards/forgotten-circles/deprecated/DR-V1/fc-void-snare-v1.png",
+    "image": "deprecated-assets/forgotten-circles/character-ability-cards/DR-V1/fc-void-snare-v1.png",
     "xws": "voidsnaredeprecated"
   },
   {
@@ -955,7 +955,7 @@
     "name": "bladeswarm perks deprecated",
     "points": 136,
     "expansion": "Gloomhaven",
-    "image": "character-perks/gloomhaven/deprecated/gh-bladeswarm-perks-v3.png",
+    "image": "deprecated-assets/gloomhaven/character-perks/gh-bladeswarm-perks-v3.png",
     "xws": "bladeswarmperksdeprecated"
   },
   {
@@ -969,7 +969,7 @@
     "name": "fc-ce-82-b deprecated",
     "points": 138,
     "expansion": "Forgotten Circles",
-    "image": "events/forgotten-circles/deprecated/city-v1/fc-ce-82-b-v1.png",
+    "image": "deprecated-assets/forgotten-circles/events/city-v1/fc-ce-82-b-v1.png",
     "xws": "fcce82bdeprecated"
   },
   {
@@ -983,7 +983,7 @@
     "name": "fc-ce-88-b deprecated",
     "points": 140,
     "expansion": "Forgotten Circles",
-    "image": "events/forgotten-circles/deprecated/city-v1/fc-ce-88-b-v1.png",
+    "image": "deprecated-assets/forgotten-circles/events/city-v1/fc-ce-88-b-v1.png",
     "xws": "fcce88bdeprecated"
   },
   {
@@ -997,7 +997,7 @@
     "name": "fc-ce-88-f deprecated",
     "points": 142,
     "expansion": "Forgotten Circles",
-    "image": "events/forgotten-circles/deprecated/city-v1/fc-ce-88-f-v1.png",
+    "image": "deprecated-assets/forgotten-circles/events/city-v1/fc-ce-88-f-v1.png",
     "xws": "fcce88fdeprecated"
   },
   {
@@ -1011,7 +1011,7 @@
     "name": "fc-ce-89-b deprecated",
     "points": 144,
     "expansion": "Forgotten Circles",
-    "image": "events/forgotten-circles/deprecated/city-v1/fc-ce-89-b-v1.png",
+    "image": "deprecated-assets/forgotten-circles/events/city-v1/fc-ce-89-b-v1.png",
     "xws": "fcce89bdeprecated"
   },
   {
@@ -1025,7 +1025,7 @@
     "name": "fc-ce-89-f deprecated",
     "points": 146,
     "expansion": "Forgotten Circles",
-    "image": "events/forgotten-circles/deprecated/city-v1/fc-ce-89-f-v1.png",
+    "image": "deprecated-assets/forgotten-circles/events/city-v1/fc-ce-89-f-v1.png",
     "xws": "fcce89fdeprecated"
   },
   {
@@ -1039,7 +1039,7 @@
     "name": "fc-ce-90-b deprecated",
     "points": 148,
     "expansion": "Forgotten Circles",
-    "image": "events/forgotten-circles/deprecated/city-v1/fc-ce-90-b-v1.png",
+    "image": "deprecated-assets/forgotten-circles/events/city-v1/fc-ce-90-b-v1.png",
     "xws": "fcce90bdeprecated"
   },
   {
@@ -1053,7 +1053,7 @@
     "name": "fc-ce-90-f deprecated",
     "points": 150,
     "expansion": "Forgotten Circles",
-    "image": "events/forgotten-circles/deprecated/city-v1/fc-ce-90-f-v1.png",
+    "image": "deprecated-assets/forgotten-circles/events/city-v1/fc-ce-90-f-v1.png",
     "xws": "fcce90fdeprecated"
   },
   {
@@ -1067,7 +1067,7 @@
     "name": "fc-rf-02-b deprecated",
     "points": 152,
     "expansion": "Forgotten Circles",
-    "image": "events/forgotten-circles/deprecated/rift-v1/fc-rf-02-b-v1.png",
+    "image": "deprecated-assets/forgotten-circles/events/rift-v1/fc-rf-02-b-v1.png",
     "xws": "fcrf02bdeprecated"
   },
   {
@@ -1081,7 +1081,7 @@
     "name": "fc-rf-02-f deprecated",
     "points": 154,
     "expansion": "Forgotten Circles",
-    "image": "events/forgotten-circles/deprecated/rift-v1/fc-rf-02-f-v1.png",
+    "image": "deprecated-assets/forgotten-circles/events/rift-v1/fc-rf-02-f-v1.png",
     "xws": "fcrf02fdeprecated"
   },
   {
@@ -1095,7 +1095,7 @@
     "name": "fc-rf-09-f deprecated",
     "points": 156,
     "expansion": "Forgotten Circles",
-    "image": "events/forgotten-circles/deprecated/rift-v1/fc-rf-09-f-v1.png",
+    "image": "deprecated-assets/forgotten-circles/events/rift-v1/fc-rf-09-f-v1.png",
     "xws": "fcrf09fdeprecated"
   },
   {
@@ -1109,7 +1109,7 @@
     "name": "fc-rf-10-f deprecated",
     "points": 158,
     "expansion": "Forgotten Circles",
-    "image": "events/forgotten-circles/deprecated/rift-v1/fc-rf-10-f-v1.png",
+    "image": "deprecated-assets/forgotten-circles/events/rift-v1/fc-rf-10-f-v1.png",
     "xws": "fcrf10fdeprecated"
   },
   {
@@ -1123,7 +1123,7 @@
     "name": "fc-rf-11-f deprecated",
     "points": 160,
     "expansion": "Forgotten Circles",
-    "image": "events/forgotten-circles/deprecated/rift-v1/fc-rf-11-f-v1.png",
+    "image": "deprecated-assets/forgotten-circles/events/rift-v1/fc-rf-11-f-v1.png",
     "xws": "fcrf11fdeprecated"
   },
   {
@@ -1137,7 +1137,7 @@
     "name": "fc-rf-12-b deprecated",
     "points": 162,
     "expansion": "Forgotten Circles",
-    "image": "events/forgotten-circles/deprecated/rift-v1/fc-rf-12-b-v1.png",
+    "image": "deprecated-assets/forgotten-circles/events/rift-v1/fc-rf-12-b-v1.png",
     "xws": "fcrf12bdeprecated"
   },
   {
@@ -1151,7 +1151,7 @@
     "name": "fc-rf-13-f deprecated",
     "points": 164,
     "expansion": "Forgotten Circles",
-    "image": "events/forgotten-circles/deprecated/rift-v1/fc-rf-13-f-v1.png",
+    "image": "deprecated-assets/forgotten-circles/events/rift-v1/fc-rf-13-f-v1.png",
     "xws": "fcrf13fdeprecated"
   },
   {
@@ -1165,7 +1165,7 @@
     "name": "fc-rf-15-f deprecated",
     "points": 166,
     "expansion": "Forgotten Circles",
-    "image": "events/forgotten-circles/deprecated/rift-v1/fc-rf-15-f-v1.png",
+    "image": "deprecated-assets/forgotten-circles/events/rift-v1/fc-rf-15-f-v1.png",
     "xws": "fcrf15fdeprecated"
   },
   {
@@ -1179,7 +1179,7 @@
     "name": "fc-rf-16-b deprecated",
     "points": 168,
     "expansion": "Forgotten Circles",
-    "image": "events/forgotten-circles/deprecated/rift-v1/fc-rf-16-b-v1.png",
+    "image": "deprecated-assets/forgotten-circles/events/rift-v1/fc-rf-16-b-v1.png",
     "xws": "fcrf16bdeprecated"
   },
   {
@@ -1193,7 +1193,7 @@
     "name": "fc-rf-19-f deprecated",
     "points": 170,
     "expansion": "Forgotten Circles",
-    "image": "events/forgotten-circles/deprecated/rift-v1/fc-rf-19-f-v1.png",
+    "image": "deprecated-assets/forgotten-circles/events/rift-v1/fc-rf-19-f-v1.png",
     "xws": "fcrf19fdeprecated"
   },
   {
@@ -1207,7 +1207,7 @@
     "name": "fc-re-82-f deprecated",
     "points": 172,
     "expansion": "Forgotten Circles",
-    "image": "events/forgotten-circles/deprecated/road-v1/fc-re-82-f-v1.png",
+    "image": "deprecated-assets/forgotten-circles/events/road-v1/fc-re-82-f-v1.png",
     "xws": "fcre82fdeprecated"
   },
   {
