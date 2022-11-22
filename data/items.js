@@ -12127,56 +12127,56 @@
     "name": "item qa02",
     "points": 1732,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-qa02a-steel-piston-hammer.png",
+    "image": "items/crimson-scales/cs-qa02a-steam-piston-hammer.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "item #qa02",
     "points": 1733,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-qa02a-steel-piston-hammer.png",
+    "image": "items/crimson-scales/cs-qa02a-steam-piston-hammer.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "steam piston hammer",
     "points": 1734,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-qa02a-steel-piston-hammer.png",
+    "image": "items/crimson-scales/cs-qa02a-steam-piston-hammer.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "steam piston hammer",
     "points": 1735,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-qa02a-steel-piston-hammer-back.png",
+    "image": "items/crimson-scales/cs-qa02a-steam-piston-hammer-back.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "item qa02",
     "points": 1736,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-qa02b-steel-piston-hammer.png",
+    "image": "items/crimson-scales/cs-qa02b-steam-piston-hammer.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "item #qa02",
     "points": 1737,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-qa02b-steel-piston-hammer.png",
+    "image": "items/crimson-scales/cs-qa02b-steam-piston-hammer.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "steam piston hammer",
     "points": 1738,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-qa02b-steel-piston-hammer.png",
+    "image": "items/crimson-scales/cs-qa02b-steam-piston-hammer.png",
     "xws": "steampistonhammer"
   },
   {
     "name": "steam piston hammer",
     "points": 1739,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-qa02b-steel-piston-hammer-back.png",
+    "image": "items/crimson-scales/cs-qa02b-steam-piston-hammer-back.png",
     "xws": "steampistonhammer"
   },
   {
