@@ -131,5 +131,82 @@
     "expansion": "Gloomhaven",
     "image": "random-scenarios/gloomhaven/gh-windswept-highlands.png",
     "xws": "windswepthighlands"
+  },
+  {
+    "name": "random scenario back",
+    "points": 19,
+    "expansion": "Trail of Ashes",
+    "image": "random-scenarios/trail-of-ashes/toa-random-scenario-back.png",
+    "xws": "toarandomscenarioback"
+  },
+  {
+    "name": "random scenario 72",
+    "points": 20,
+    "expansion": "Trail of Ashes",
+    "image": "random-scenarios/trail-of-ashes/toa-inox-salvation.png",
+    "xws": "inoxsalvation"
+  },
+  {
+    "name": "inox salvation",
+    "points": 21,
+    "expansion": "Trail of Ashes",
+    "image": "random-scenarios/trail-of-ashes/toa-inox-salvation.png",
+    "xws": "inoxsalvation"
+  },
+  {
+    "name": "random scenario 73",
+    "points": 22,
+    "expansion": "Trail of Ashes",
+    "image": "random-scenarios/trail-of-ashes/toa-lootpalooza.png",
+    "xws": "lootpalooza"
+  },
+  {
+    "name": "lootpalooza",
+    "points": 23,
+    "expansion": "Trail of Ashes",
+    "image": "random-scenarios/trail-of-ashes/toa-lootpalooza.png",
+    "xws": "lootpalooza"
+  },
+  {
+    "name": "random scenario 74",
+    "points": 24,
+    "expansion": "Trail of Ashes",
+    "image": "random-scenarios/trail-of-ashes/toa-song-of-the-harrower.png",
+    "xws": "songoftheharrower"
+  },
+  {
+    "name": "song of the harrower",
+    "points": 25,
+    "expansion": "Trail of Ashes",
+    "image": "random-scenarios/trail-of-ashes/toa-song-of-the-harrower.png",
+    "xws": "songoftheharrower"
+  },
+  {
+    "name": "random scenario 75",
+    "points": 26,
+    "expansion": "Trail of Ashes",
+    "image": "random-scenarios/trail-of-ashes/toa-sunken-temple.png",
+    "xws": "sunkentemple"
+  },
+  {
+    "name": "sunken temple",
+    "points": 27,
+    "expansion": "Trail of Ashes",
+    "image": "random-scenarios/trail-of-ashes/toa-sunken-temple.png",
+    "xws": "sunkentemple"
+  },
+  {
+    "name": "random scenario 76",
+    "points": 28,
+    "expansion": "Trail of Ashes",
+    "image": "random-scenarios/trail-of-ashes/toa-untold-woe.png",
+    "xws": "untoldwoe"
+  },
+  {
+    "name": "untold woe",
+    "points": 29,
+    "expansion": "Trail of Ashes",
+    "image": "random-scenarios/trail-of-ashes/toa-untold-woe.png",
+    "xws": "untoldwoe"
   }
 ]

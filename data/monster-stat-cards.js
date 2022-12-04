@@ -1048,5 +1048,145 @@
     "expansion": "Crimson Scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-6.png",
     "xws": "waterspirit"
+  },
+  {
+    "name": "harrower bugflute",
+    "points": 150,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-0.png",
+    "xws": "harrowerbugflute"
+  },
+  {
+    "name": "harrower bugflute",
+    "points": 151,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-2.png",
+    "xws": "harrowerbugflute"
+  },
+  {
+    "name": "harrower bugflute",
+    "points": 152,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-4.png",
+    "xws": "harrowerbugflute"
+  },
+  {
+    "name": "harrower bugflute",
+    "points": 153,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-6.png",
+    "xws": "harrowerbugflute"
+  },
+  {
+    "name": "shardrender",
+    "points": 154,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-0.png",
+    "xws": "shardrender"
+  },
+  {
+    "name": "shardrender",
+    "points": 155,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-2.png",
+    "xws": "shardrender"
+  },
+  {
+    "name": "shardrender",
+    "points": 156,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-4.png",
+    "xws": "shardrender"
+  },
+  {
+    "name": "shardrender",
+    "points": 157,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-6.png",
+    "xws": "shardrender"
+  },
+  {
+    "name": "smoke spirit",
+    "points": 158,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-0.png",
+    "xws": "smokespirit"
+  },
+  {
+    "name": "smoke spirit",
+    "points": 159,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-2.png",
+    "xws": "smokespirit"
+  },
+  {
+    "name": "smoke spirit",
+    "points": 160,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-4.png",
+    "xws": "smokespirit"
+  },
+  {
+    "name": "smoke spirit",
+    "points": 161,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-6.png",
+    "xws": "smokespirit"
+  },
+  {
+    "name": "talo",
+    "points": 162,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-talo-0.png",
+    "xws": "talo"
+  },
+  {
+    "name": "talo",
+    "points": 163,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-talo-2.png",
+    "xws": "talo"
+  },
+  {
+    "name": "talo",
+    "points": 164,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-talo-4.png",
+    "xws": "talo"
+  },
+  {
+    "name": "talo",
+    "points": 165,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-talo-6.png",
+    "xws": "talo"
+  },
+  {
+    "name": "valrath vanquisher",
+    "points": 166,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-0.png",
+    "xws": "valrathvanquisher"
+  },
+  {
+    "name": "valrath vanquisher",
+    "points": 167,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-2.png",
+    "xws": "valrathvanquisher"
+  },
+  {
+    "name": "valrath vanquisher",
+    "points": 168,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-4.png",
+    "xws": "valrathvanquisher"
+  },
+  {
+    "name": "valrath vanquisher",
+    "points": 169,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-6.png",
+    "xws": "valrathvanquisher"
   }
 ]

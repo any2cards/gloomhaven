@@ -719,5 +719,82 @@
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/overlay-tokens/cs-void-pit.png",
     "xws": "voidpit"
+  },
+  {
+    "name": "incarnate token",
+    "points": 103,
+    "expansion": "Trail of Ashes",
+    "image": "tokens/trail-of-ashes/character-tokens/toa-incarnate-token.png",
+    "xws": "incarnatetoken"
+  },
+  {
+    "name": "rimehearth token",
+    "points": 104,
+    "expansion": "Trail of Ashes",
+    "image": "tokens/trail-of-ashes/character-tokens/toa-rimehearth-token.png",
+    "xws": "rimehearthtoken"
+  },
+  {
+    "name": "shardrender token",
+    "points": 105,
+    "expansion": "Trail of Ashes",
+    "image": "tokens/trail-of-ashes/character-tokens/toa-shardrender-token.png",
+    "xws": "shardrendertoken"
+  },
+  {
+    "name": "tempest token",
+    "points": 106,
+    "expansion": "Trail of Ashes",
+    "image": "tokens/trail-of-ashes/character-tokens/toa-tempest-token.png",
+    "xws": "tempesttoken"
+  },
+  {
+    "name": "thornreaper token",
+    "points": 107,
+    "expansion": "Trail of Ashes",
+    "image": "tokens/trail-of-ashes/character-tokens/toa-thornreaper-token.png",
+    "xws": "thornreapertoken"
+  },
+  {
+    "name": "vanquisher token",
+    "points": 108,
+    "expansion": "Trail of Ashes",
+    "image": "tokens/trail-of-ashes/character-tokens/toa-vanquisher-token.png",
+    "xws": "vanquishertoken"
+  },
+  {
+    "name": "sparks",
+    "points": 109,
+    "expansion": "Trail of Ashes",
+    "image": "tokens/trail-of-ashes/class-tokens/toa-sparks.png",
+    "xws": "sparks"
+  },
+  {
+    "name": "thorns",
+    "points": 110,
+    "expansion": "Trail of Ashes",
+    "image": "tokens/trail-of-ashes/class-tokens/toa-thorns.png",
+    "xws": "thorns"
+  },
+  {
+    "name": "brittle",
+    "points": 111,
+    "expansion": "Trail of Ashes",
+    "image": "tokens/trail-of-ashes/condition-tokens/toa-brittle.png",
+    "xws": "brittle"
+  },
+  {
+    "name": "dodge",
+    "points": 112,
+    "expansion": "Trail of Ashes",
+    "image": "tokens/trail-of-ashes/condition-tokens/toa-dodge.png",
+    "xws": "dodge"
+  },
+  {
+    "name": "rupture",
+    "points": 113,
+    "expansion": "Trail of Ashes",
+    "image": "tokens/trail-of-ashes/condition-tokens/toa-rupture.png",
+    "xws": "rupture"
   }
 ]

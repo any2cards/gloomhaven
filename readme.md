@@ -11,13 +11,13 @@ This repository contains data and images for the following components:
 - attack-modifiers
 - battle-goals
 - character-ability-cards
-- character-ability-cards-revised
 - character-mats
 - character-perks
+- deprecated-assets
 - events
-- events-revised
 - items
 - map-tiles
+- milestone-ability-cards
 - milestones
 - monster-ability-cards
 - monster-stat-cards
