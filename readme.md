@@ -6,7 +6,7 @@ An easy-to-use collection of data and images from [Gloomhaven](http://www.cephal
 
 ## Asset LICENSE Terms
 
-I have entered into a personal license agreement with Cephalofair, which has provided me access to the digital assets contained within this GitHub repository. These assets are used to power various asset viewer extensions for Chrome and Firefox, as well as to provide PBF functionality. No other individual, entity, or corporation is permitted to use and/or re-use the assets within this repository for any other purpose.
+I have entered into a personal license agreement with Cephalofair Games, which has provided me access to the digital assets contained within this GitHub repository. These assets are used to power various asset viewer extensions for Chrome and Firefox, as well as to provide PBF functionality. No other individual, entity, or corporation is permitted to use and/or re-use the assets within this repository for any other purpose.
 
 ## What's included
 
